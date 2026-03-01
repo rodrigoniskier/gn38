@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gênesis 38 - Análise Exegética Interativa</title>
     <style>
-        /* --- 1. VARIÁVEIS E ESTILOS GERAIS (UI MODERNA) --- */
+        /* --- VARIÁVEIS E ESTILOS GERAIS --- */
         :root {
             --cor-fundo: #f4f7f6;
             --cor-texto: #333;
@@ -35,7 +35,7 @@
         h1 { color: var(--cor-primaria); margin-bottom: 5px; }
         .hebraico-titulo { font-size: 2.5em; color: var(--cor-hebraico); direction: rtl; }
 
-        /* --- 2. ÁREA DOS VERSÍCULOS --- */
+        /* --- ÁREA DOS VERSÍCULOS --- */
         .versiculo-card {
             background: white;
             border-radius: 12px;
@@ -54,17 +54,15 @@
             font-weight: bold;
         }
 
-        /* Container do texto Hebraico (Direita para Esquerda) */
         .texto-hebraico-container {
             direction: rtl;
             text-align: right;
             font-size: 2.2em;
             line-height: 2;
             margin-bottom: 20px;
-            font-family: 'SBL Hebrew', 'Ezra SIL', serif; /* Fontes boas para Hebraico */
+            font-family: 'SBL Hebrew', 'Ezra SIL', serif;
         }
 
-        /* Estilo para cada palavra clicável */
         .palavra-clicavel {
             display: inline-block;
             padding: 0 5px;
@@ -80,87 +78,72 @@
             transform: scale(1.05);
         }
 
+        /* --- ESTILO DAS TRADUÇÕES --- */
         .traducoes {
             background: #f8f9fa;
             padding: 15px;
             border-radius: 8px;
             font-size: 0.95em;
-            color: #555;
-        }
-
-        /* --- 3. MENU LATERAL (SIDEBAR) --- */
-        #sidebar {
-            position: fixed;
-            top: 0;
-            right: -350px; /* Escondido fora da tela */
-            width: 320px;
-            height: 100vh;
-            background: white;
-            box-shadow: -5px 0 15px rgba(0,0,0,0.1);
-            transition: right 0.3s ease-in-out;
-            padding: 30px 20px;
-            box-sizing: border-box;
-            z-index: 100;
-            display: flex;
-            flex-direction: column;
-        }
-
-        #sidebar.aberto { right: 0; /* Desliza para dentro da tela */ }
-
-        #sidebar h2 {
-            color: var(--cor-hebraico);
-            margin-top: 0;
-            direction: rtl;
-            font-size: 2em;
-            text-align: center;
+            color: #444;
+            border: 1px solid #e0e0e0;
         }
         
+        .traducoes h4 {
+            margin-top: 0;
+            margin-bottom: 10px;
+            color: var(--cor-primaria);
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 5px;
+        }
+
+        .linha-traducao {
+            margin-bottom: 8px;
+        }
+
+        /* --- MENU LATERAL (SIDEBAR) --- */
+        #sidebar {
+            position: fixed; top: 0; right: -350px; width: 320px; height: 100vh;
+            background: white; box-shadow: -5px 0 15px rgba(0,0,0,0.1);
+            transition: right 0.3s ease-in-out; padding: 30px 20px;
+            box-sizing: border-box; z-index: 100; display: flex; flex-direction: column;
+        }
+
+        #sidebar.aberto { right: 0; }
+
+        #sidebar h2 { color: var(--cor-hebraico); margin-top: 0; direction: rtl; font-size: 2em; text-align: center; }
         #sidebar p.transliteracao { text-align: center; color: #7f8c8d; font-style: italic; margin-bottom: 30px; }
 
         .btn-opcao {
-            background: white;
-            border: 2px solid var(--cor-destaque);
-            color: var(--cor-destaque);
-            padding: 12px 15px;
-            margin-bottom: 15px;
-            border-radius: 8px;
-            font-size: 1em;
-            font-weight: bold;
-            cursor: pointer;
-            transition: all 0.2s;
-            text-align: left;
+            background: white; border: 2px solid var(--cor-destaque); color: var(--cor-destaque);
+            padding: 12px 15px; margin-bottom: 15px; border-radius: 8px; font-size: 1em;
+            font-weight: bold; cursor: pointer; transition: all 0.2s; text-align: left;
         }
-
         .btn-opcao:hover { background: var(--cor-destaque); color: white; }
         .btn-fechar-sidebar { background: none; border: none; color: #e74c3c; font-size: 1em; cursor: pointer; margin-top: auto; font-weight: bold; text-align: center; padding: 10px;}
 
-        /* --- 4. MODAL (POP-UP) --- */
+        /* --- MODAL (POP-UP) E OVERLAY CORRIGIDOS --- */
         #overlay {
             position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0,0,0,0.5);
-            display: none; /* Escondido por padrão */
-            z-index: 200;
+            background: rgba(0,0,0,0.5); display: none; z-index: 200;
             opacity: 0; transition: opacity 0.3s ease;
         }
 
         #modal {
-            position: fixed;
-            top: 50%; left: 50%;
+            position: fixed; top: 50%; left: 50%;
+            /* O erro estava aqui! Agora o transform fica apenas no modal */
             transform: translate(-50%, -50%) scale(0.9);
-            background: white;
-            padding: 30px;
-            border-radius: 12px;
-            width: 90%; max-width: 500px;
-            box-shadow: 0 20px 25px -5px rgba(0,0,0,0.2);
-            display: none; /* Escondido por padrão */
-            z-index: 201;
+            background: white; padding: 30px; border-radius: 12px;
+            width: 90%; max-width: 600px; max-height: 80vh; overflow-y: auto;
+            box-shadow: 0 20px 25px -5px rgba(0,0,0,0.2); display: none; z-index: 201;
             opacity: 0; transition: all 0.3s ease;
         }
 
-        #overlay.ativo, #modal.ativo { display: block; opacity: 1; transform: translate(-50%, -50%) scale(1); }
+        /* Regras separadas para quando estão ativos */
+        #overlay.ativo { display: block; opacity: 1; }
+        #modal.ativo { display: block; opacity: 1; transform: translate(-50%, -50%) scale(1); }
         
         #modal h3 { color: var(--cor-primaria); margin-top: 0; border-bottom: 2px solid var(--cor-hover); padding-bottom: 10px; }
-        .btn-fechar-modal { float: right; background: #e74c3c; color: white; border: none; padding: 5px 10px; border-radius: 5px; cursor: pointer; }
+        .btn-fechar-modal { float: right; background: #e74c3c; color: white; border: none; padding: 5px 10px; border-radius: 5px; cursor: pointer; font-weight: bold;}
 
     </style>
 </head>
@@ -190,31 +173,26 @@
     </div>
 
     <script>
-        /* --- LÓGICA DE PROGRAMAÇÃO (JAVASCRIPT) --- */
-        
-        // Esta variável vai guardar os dados da palavra que o utilizador clicar
+        /* --- LÓGICA DE PROGRAMAÇÃO --- */
         let palavraSelecionada = null;
 
-        // Lista de ficheiros que o programa vai tentar ler (preparado para os 3 ficheiros)
-const ficheirosJSON = ['genesis38.json'];
+        // O nome do arquivo corrigido para o teu cenário atual
+        const ficheirosJSON = ['genesis38.json'];
+
         async function carregarDados() {
             let todosOsVersiculos = [];
             let informacoesCabecalho = null;
 
-            // Tenta carregar cada ficheiro da lista
             for (const ficheiro of ficheirosJSON) {
                 try {
                     const resposta = await fetch(ficheiro);
                     if (resposta.ok) {
                         const dados = await resposta.json();
-                        // Guarda o cabeçalho do primeiro ficheiro que carregar com sucesso
                         if (!informacoesCabecalho) informacoesCabecalho = dados;
-                        
-                        // Junta os versículos deste ficheiro à lista principal
                         todosOsVersiculos = todosOsVersiculos.concat(dados.versiculos);
                     }
                 } catch (erro) {
-                    console.warn(`Ficheiro ${ficheiro} ainda não disponível ou erro ao carregar. Ignorando...`);
+                    console.warn(`Ficheiro ${ficheiro} ainda não disponível.`);
                 }
             }
 
@@ -239,29 +217,30 @@ const ficheirosJSON = ['genesis38.json'];
             let html = '';
 
             versiculos.forEach(versiculo => {
-                // Monta o texto hebraico palavra a palavra (para serem clicáveis)
                 let textoHebraicoHtml = '';
                 
-                // Verifica se existem palavras detalhadas no JSON
                 if (versiculo.palavras && versiculo.palavras.length > 0) {
                     versiculo.palavras.forEach((palavra) => {
-                        // Transformamos o objeto (palavra) numa string segura (JSON) para passar para a função do clique
                         const palavraJSON = encodeURIComponent(JSON.stringify(palavra));
                         textoHebraicoHtml += `<span class="palavra-clicavel" onclick="clicouNaPalavra('${palavraJSON}')">${palavra.hebraico}</span> `;
                     });
                 } else {
-                    // Se o versículo não tiver palavras detalhadas (ex: versos vazios no teu JSON), mostra texto normal
                     textoHebraicoHtml = `<span>${versiculo.texto_hebraico}</span>`;
                 }
 
-                // Prepara as traduções
+                // NOVA LÓGICA PARA AS TRADUÇÕES
                 let traducoesHtml = '';
-                if (versiculo.traducoes && versiculo.traducoes.ARA) {
-                    traducoesHtml = `
-                        <div class="traducoes">
-                            <strong>ARA:</strong> ${versiculo.traducoes.ARA}
-                        </div>
-                    `;
+                if (versiculo.traducoes && Object.keys(versiculo.traducoes).length > 0) {
+                    traducoesHtml = '<div class="traducoes"><h4>Traduções:</h4>';
+                    
+                    // Object.entries transforma as traduções numa lista para podermos percorrer uma a uma
+                    for (const [versao, texto] of Object.entries(versiculo.traducoes)) {
+                        // O "if" garante que não mostramos traduções que estejam vazias (ex: traducao_pessoal: "")
+                        if (texto && texto.trim() !== "") {
+                            traducoesHtml += `<div class="linha-traducao"><strong>${versao}:</strong> ${texto}</div>`;
+                        }
+                    }
+                    traducoesHtml += '</div>';
                 }
 
                 html += `
@@ -278,18 +257,10 @@ const ficheirosJSON = ['genesis38.json'];
             container.innerHTML = html;
         }
 
-        // --- FUNÇÕES DE INTERATIVIDADE ---
-
-        // Executada quando se clica numa palavra em hebraico
         function clicouNaPalavra(palavraJSONCofificada) {
-            // Descodifica o texto e transforma de volta num objeto JavaScript
             palavraSelecionada = JSON.parse(decodeURIComponent(palavraJSONCofificada));
-            
-            // Atualiza os textos do Menu Lateral
             document.getElementById('sidebar-palavra-hebraica').innerText = palavraSelecionada.hebraico;
             document.getElementById('sidebar-transliteracao').innerText = palavraSelecionada.transliteracao || '';
-            
-            // Abre o Menu Lateral
             document.getElementById('sidebar').classList.add('aberto');
         }
 
@@ -297,15 +268,11 @@ const ficheirosJSON = ['genesis38.json'];
             document.getElementById('sidebar').classList.remove('aberto');
         }
 
-        // Abre a Janela Pop-up com o detalhe escolhido (Morfossintaxe, Raiz ou Exegese)
         function abrirModal(titulo, conteudo) {
-            // Se a palavra não tiver essa informação, mostra aviso
             if (!conteudo) {
                 conteudo = "Informação não disponível para esta palavra.";
             }
-
-            // Substitui \n (quebras de linha do JSON) por <br> no HTML para manter a formatação
-            const conteudoFormatado = conteudo.replace(/\n/g, '<br>');
+            const conteudoFormatado = conteudo.replace(/\n/g, '<br><br>');
 
             document.getElementById('modal-titulo').innerText = titulo;
             document.getElementById('modal-conteudo').innerHTML = conteudoFormatado;
@@ -319,7 +286,6 @@ const ficheirosJSON = ['genesis38.json'];
             document.getElementById('modal').classList.remove('ativo');
         }
 
-        // Inicia o programa
         carregarDados();
     </script>
 </body>
