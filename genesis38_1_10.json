@@ -1,0 +1,738 @@
+[
+  {
+    "numero": 1,
+    "palavras": [
+      {
+        "hebraico": "וַיְהִי",
+        "transliteracao": "wayehî - \"E aconteceu\"",
+        "morfossintaxe": "Morfossintaxe: Trata-se da conjunção waw consecutiva ligada à raiz verbal הָיָה (hayah). O verbo está na conjugação Qal, tempo imperfeito (wayyiqtol), 3ª pessoa do masculino singular.\n\nDica didática: Como identificar? O waw com a vogal patakh e o ponto (dagesh) forte na consoante seguinte é a marca clássica do waw consecutivo, que inverte a direção do tempo verbal (neste caso, de imperfeito para um passado narrativo). A forma apocopada (encurtada) yehî é típica de verbos cuja última raiz é um He (verbos Lamed-He).",
+        "exegese": "Exegese/Teologia: Este é o marcador padrão do início de narrativas históricas no hebraico bíblico. O verbo não denota mera \"existência\", mas marca o avanço dinâmico da história redentiva de Deus no tempo e no espaço. Ao introduzir o capítulo, amarra o triste evento de Judá à continuidade ininterrupta da providência divina.",
+        "teologia": "Exegese/Teologia: Este é o marcador padrão do início de narrativas históricas no hebraico bíblico. O verbo não denota mera \"existência\", mas marca o avanço dinâmico da história redentiva de Deus no tempo e no espaço. Ao introduzir o capítulo, amarra o triste evento de Judá à continuidade ininterrupta da providência divina."
+      },
+      {
+        "hebraico": "בָּעֵת",
+        "transliteracao": "ba'et - \"no tempo\"",
+        "morfossintaxe": "Morfossintaxe: Preposição inseparável be (\"em\") agregada ao artigo definido ha (\"o/a\") + substantivo singular feminino 'et (\"tempo\").\n\nDica didática: Quando a preposição be se junta ao artigo ha, a consoante He do artigo cai (sofre elisão), mas a sua vogal permanece sob a preposição. Por isso, a forma é bā (com qamets) e não be.",
+        "exegese": "Exegese/Teologia: Esta adjunção de tempo situa a narrativa cronológica e teologicamente. O contexto aponta para o exato momento em que José foi vendido ao Egito. O termo 'et pode assumir significado teológico ao delinear o tempo ordenado nos propósitos de Deus, evidenciando que, mesmo enquanto a linha pactual corria perigo por causa da atitude de Judá, o controle do tempo repousava nas mãos do Senhor.",
+        "teologia": "Exegese/Teologia: Esta adjunção de tempo situa a narrativa cronológica e teologicamente. O contexto aponta para o exato momento em que José foi vendido ao Egito. O termo 'et pode assumir significado teológico ao delinear o tempo ordenado nos propósitos de Deus, evidenciando que, mesmo enquanto a linha pactual corria perigo por causa da atitude de Judá, o controle do tempo repousava nas mãos do Senhor."
+      },
+      {
+        "hebraico": "הַהִוא",
+        "transliteracao": "hahiw' - \"naquele\" (lit. \"a ela\")",
+        "morfossintaxe": "Morfossintaxe: Artigo definido ha + pronome pessoal independente / pronome demonstrativo da 3ª pessoa do feminino singular היא (hî').\n\nDica didática: Por que está escrito com waw se é feminino? No Pentateuco, o pronome feminino hi' frequentemente aparece escrito com a letra waw הוא, que seria tipicamente masculino (hû'), mas é vocalizado com a vogal hireq (i). Os massoretas registraram isso para indicar que a pronúncia correta é \"hî\" (um fenômeno chamado perpetuum qere). Ele concorda em gênero e número com \"tempo\" ('et, que é feminino em hebraico).",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "וַיֵּרֶד",
+        "transliteracao": "wayyēred - \"que desceu\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal יָרַד (yarad). Qal, imperfeito narrativo (wayyiqtol), 3a pessoa do masculino singular.\n\nDica didática: A raiz original é yarad. Verbos que começam com Yod (verbos Pe-Yod) muitas vezes assimilam ou perdem essa primeira consoante na conjugação imperfeita. Assim, com o acréscimo do waw narrativo, a forma contrai-se para wayyēred.",
+        "exegese": "Exegese/Teologia: A ideia de \"descer\" carrega um profundo peso literário e teológico no AT. Fisicamente, Judá desceu das colinas de Hebrom para a planície (Sefelá). Teologicamente, na cosmovisão reformada (onde a promessa pactual exige separação moral), yarad aponta para um acentuado declínio espiritual. Judá está \"descendo\" e se afastando de sua herança e da companhia da aliança para se misturar com as práticas corrompidas de Canaã.",
+        "teologia": "Exegese/Teologia: A ideia de \"descer\" carrega um profundo peso literário e teológico no AT. Fisicamente, Judá desceu das colinas de Hebrom para a planície (Sefelá). Teologicamente, na cosmovisão reformada (onde a promessa pactual exige separação moral), yarad aponta para um acentuado declínio espiritual. Judá está \"descendo\" e se afastando de sua herança e da companhia da aliança para se misturar com as práticas corrompidas de Canaã."
+      },
+      {
+        "hebraico": "יְהוּדָה",
+        "transliteracao": "yahûdāh – \"Judá\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio masculino singular. Funciona sintaticamente como o sujeito do verbo yarad (descer).",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "מֵאֵת",
+        "transliteracao": "me'et - \"de junto de\"",
+        "morfossintaxe": "Morfossintaxe: Preposição מִן (min - \"de\") justaposta à preposição את (et - \"com/junto de\").\n\nDica didática: Como o min perdeu o Nun? O nun da preposição assimila-se à palavra seguinte. No entanto, a palavra 'et começa com Alef (uma gutural que recusa a duplicação/dagesh). Portanto, a vogal hireq da preposição alonga-se para a vogal tsere (formando mē em vez de mi) como compensação. Indica movimento partindo da proximidade íntima de alguém.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "אֶחָיו",
+        "transliteracao": "eḥāyw - \"seus irmãos\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum masculino plural (forma irregular da raiz 'ach) acoplado ao sufixo pronominal possessivo da 3ª pessoa do masculino singular.\n\nDica didática: A terminação hebraica (-ayw) é a desinência clássica que significa \"dele\" afixada a uma palavra no plural.",
+        "exegese": "Exegese/Teologia: No AT, o termo \"irmão\" ('ach) abrange os laços de parentesco carnal, mas estabelece o cerne da família ou comunidade com fortes compromissos mútuos. Na narrativa dos patriarcas, separar-se dos \"irmãos\" é uma traição sociológica e pactual. Judá decide viver distante daqueles com quem possuía a promessa pactual de Deus, colocando em iminente risco a linhagem do Redentor (que posteriormente nasceria exatamente da descendência de Judá).",
+        "teologia": "Exegese/Teologia: No AT, o termo \"irmão\" ('ach) abrange os laços de parentesco carnal, mas estabelece o cerne da família ou comunidade com fortes compromissos mútuos. Na narrativa dos patriarcas, separar-se dos \"irmãos\" é uma traição sociológica e pactual. Judá decide viver distante daqueles com quem possuía a promessa pactual de Deus, colocando em iminente risco a linhagem do Redentor (que posteriormente nasceria exatamente da descendência de Judá)."
+      },
+      {
+        "hebraico": "וַיַּט",
+        "transliteracao": "wayyaṭ - \"e desviou / e armou tenda\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal נָטָה (natah). Qal, imperfeito apocopado (wayyiqtol), 3a pessoa do masculino singular.\n\nDica didática: Esta é uma palavra desafiadora para iniciantes, pois perdeu duas letras de sua raiz! O verbo natah começa com Nun (assimila-se e vira um dagesh forte no Teth) e termina com He (que cai fora na forma verbal apocopada). O que sobra é apenas a letra do meio (o Teth).",
+        "exegese": "Exegese/Teologia: O verbo natah é usado para denotar algo sendo estendido ou armado, particularmente montando-se o dossel de uma tenda. Judá lit. \"armou sua tenda\" na direção de um cananeu. Isso consolida seu processo de isolamento: ele não apenas desceu de passagem, mas firmou moradia (estabeleceu raízes provisórias) nos vales cananeus.",
+        "teologia": "Exegese/Teologia: O verbo natah é usado para denotar algo sendo estendido ou armado, particularmente montando-se o dossel de uma tenda. Judá lit. \"armou sua tenda\" na direção de um cananeu. Isso consolida seu processo de isolamento: ele não apenas desceu de passagem, mas firmou moradia (estabeleceu raízes provisórias) nos vales cananeus."
+      },
+      {
+        "hebraico": "עַד־",
+        "transliteracao": "'ad- - \"até\"",
+        "morfossintaxe": "Morfossintaxe: Preposição espacial/direcional, ligada à próxima palavra pelo traço chamado maqqef.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "אִישׁ",
+        "transliteracao": "îš - \"um homem\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum, masculino, singular. Funciona como objeto indicando com quem Judá foi viver.",
+        "exegese": "Exegese/Teologia: O termo 'îš denota o varão, o indivíduo humano masculino em sua capacidade social. O texto ressalta que Judá preferiu a companhia isolada de \"um homem\" do mundo do que permanecer no seio da sociedade redentiva (seus irmãos).",
+        "teologia": "Exegese/Teologia: O termo 'îš denota o varão, o indivíduo humano masculino em sua capacidade social. O texto ressalta que Judá preferiu a companhia isolada de \"um homem\" do mundo do que permanecer no seio da sociedade redentiva (seus irmãos)."
+      },
+      {
+        "hebraico": "עֲדֻלָּמִי",
+        "transliteracao": "adullāmî - \"adulamita\"",
+        "morfossintaxe": "Morfossintaxe: Adjetivo gentílico, masculino singular. Funciona como qualificativo para o substantivo 'îš (homem).\n\nDica didática: O sufixo final com vogal hireq e yod é a terminação clássica de um gentílico hebraico (demonstrando origem geográfica, cívica ou tribal; cf. Israelita = Yisra'eli).",
+        "exegese": "Exegese/Teologia: O termo revela que ele era um cidadão natural da cidade pagã de Adulão. O agravante teológico reside aqui: associar-se a um cananeu violava abertamente a aliança exigida aos descendentes de Abraão.",
+        "teologia": "Exegese/Teologia: O termo revela que ele era um cidadão natural da cidade pagã de Adulão. O agravante teológico reside aqui: associar-se a um cananeu violava abertamente a aliança exigida aos descendentes de Abraão."
+      },
+      {
+        "hebraico": "וּשְׁמוֹ",
+        "transliteracao": "ûšəmô - \"e o seu nome\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw (u) + substantivo comum masculino singular (shem - nome) + sufixo pronominal possessivo de 3ª pessoa do masculino singular (i). Sintaticamente introduz uma oração nominal (sem verbo de ligação visível).\n\nDica didática: Observe a conjunção \"E\". Em vez da forma normal we, ela se torna um shureq (o waw com um ponto no meio = u) porque a consoante seguinte possui um shva móvel. No hebraico, duas sílabas consecutivas iniciando com shva são evitadas.",
+        "exegese": "Exegese/Teologia: Identificar um indivíduo por seu \"nome\" (shem) era extremamente relevante na literatura do Antigo Oriente Médio, pois o nome conotava não apenas o título, mas, em certa medida, a essência e a participação da pessoa na história sagrada.",
+        "teologia": "Exegese/Teologia: Identificar um indivíduo por seu \"nome\" (shem) era extremamente relevante na literatura do Antigo Oriente Médio, pois o nome conotava não apenas o título, mas, em certa medida, a essência e a participação da pessoa na história sagrada."
+      },
+      {
+        "hebraico": "חִירָה",
+        "transliteracao": "ḥîrāh - \"Hira\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular. Funciona como predicativo do sujeito da mini-oração (\"e o nome dele [era] Hira\").",
+        "exegese": "Exegese/Teologia: Representa o estrangeiro que introduziria Judá à mulher cananéia que ele posteriormente desposaria.",
+        "teologia": "Exegese/Teologia: Representa o estrangeiro que introduziria Judá à mulher cananéia que ele posteriormente desposaria."
+      }
+    ]
+  },
+  {
+    "numero": 2,
+    "palavras": [
+      {
+        "hebraico": "וַיַּרְא",
+        "transliteracao": "wayyar' - \"E viu\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal רָאָה (ra'ah). Conjugação Qal, tempo imperfeito narrativo (wayyiqtol), 3a pessoa do masculino singular. O traço (maqqef) a liga à palavra seguinte.\n\nDica didática: O verbo רָאָה termina com a letra He (Lamed-He). Quando recebe o waw consecutivo, ele sofre apócope (encurtamento), perdendo a última letra. Além disso, a letra Alef final fica quiescente (muda), de modo que a pronúncia para na consoante Resh.",
+        "exegese": "Exegese/Teologia: O verbo ra'ah (\"ver\") possui um histórico teológico denso em Gênesis. Na teologia reformada da Queda e da concupiscência, a sequência \"ver\" e \"tomar\" ecoa catástrofes anteriores na história da redenção: Eva \"viu\" o fruto e tomou (Gn 3:6); os Filhos de Deus \"viram\" as filhas dos homens e as tomaram (Gn 6:2). Judá é guiado pela vista e pela atração carnal, não pela fé ou pelas promessas da aliança. O verbo marca o início do flerte com a apostasia.",
+        "teologia": "Exegese/Teologia: O verbo ra'ah (\"ver\") possui um histórico teológico denso em Gênesis. Na teologia reformada da Queda e da concupiscência, a sequência \"ver\" e \"tomar\" ecoa catástrofes anteriores na história da redenção: Eva \"viu\" o fruto e tomou (Gn 3:6); os Filhos de Deus \"viram\" as filhas dos homens e as tomaram (Gn 6:2). Judá é guiado pela vista e pela atração carnal, não pela fé ou pelas promessas da aliança. O verbo marca o início do flerte com a apostasia."
+      },
+      {
+        "hebraico": "שָׁם",
+        "transliteracao": "šām - \"ali / lá\"",
+        "morfossintaxe": "Morfossintaxe: Advérbio de lugar.",
+        "exegese": "Exegese/Teologia: O \"ali\" remete ao contexto do versículo 1 (na tenda do adulamita, em território cananeu). Longe da comunhão dos santos e do ambiente pactual da casa de Jacó, Judá se encontra vulnerável. O espaço geográfico reflete sua condição espiritual: ele está em terreno inimigo.",
+        "teologia": "Exegese/Teologia: O \"ali\" remete ao contexto do versículo 1 (na tenda do adulamita, em território cananeu). Longe da comunhão dos santos e do ambiente pactual da casa de Jacó, Judá se encontra vulnerável. O espaço geográfico reflete sua condição espiritual: ele está em terreno inimigo."
+      },
+      {
+        "hebraico": "יְהוּדָה",
+        "transliteracao": "yəhûdāh - \"Judá\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular. Sujeito dos verbos \"viu\", \"tomou\" e \"entrou\".",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "בַּת־",
+        "transliteracao": "bat- - \"a filha de\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum, feminino singular. Está no estado construto (anexado ao próximo termo para indicar posse/relação).\n\nDica didática: A palavra absoluta para filha é bat, e sua forma construta é idêntica na escrita, mas frequentemente unida pelo maqqef (hífen hebraico), o que faz com que perca a tonicidade principal, tornando a pronúncia mais rápida junto à palavra seguinte.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "אִישׁ",
+        "transliteracao": "îš - \"um homem\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum, masculino singular. No estado absoluto, servindo como o genitivo da relação de construção iniciada por \"filha\".",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "כְּנַעֲנִי",
+        "transliteracao": "kəna'ănî - \"cananeu\"",
+        "morfossintaxe": "Morfossintaxe: Adjetivo gentílico, masculino singular. Qualifica o termo 'îš (homem).",
+        "exegese": "Exegese/Teologia: Este é o clímax negativo da frase. De acordo com o NDITEAT, os cananeus habitavam a Terra Prometida, mas estavam sob a maldição proferida por Noé (Gn 9:25). Na cosmovisão redentiva e pactual, a semente da mulher (a linhagem santa) não devia se misturar com a semente da serpente (representada sociologicamente por Canaã). Abraão fez seu servo jurar não tomar esposa cananeia para Isaque (Gn 24:3), e Isaque ordenou o mesmo a Jacó (Gn 28:1). Judá viola frontalmente este princípio exigido pela aliança, corrompendo a linhagem messiânica ao se unir deliberadamente à descendência reprovada.",
+        "teologia": "Exegese/Teologia: Este é o clímax negativo da frase. De acordo com o NDITEAT, os cananeus habitavam a Terra Prometida, mas estavam sob a maldição proferida por Noé (Gn 9:25). Na cosmovisão redentiva e pactual, a semente da mulher (a linhagem santa) não devia se misturar com a semente da serpente (representada sociologicamente por Canaã). Abraão fez seu servo jurar não tomar esposa cananeia para Isaque (Gn 24:3), e Isaque ordenou o mesmo a Jacó (Gn 28:1). Judá viola frontalmente este princípio exigido pela aliança, corrompendo a linhagem messiânica ao se unir deliberadamente à descendência reprovada."
+      },
+      {
+        "hebraico": "וּשְׁמוֹ",
+        "transliteracao": "ûšəmô - \"e o nome dele\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw + substantivo masculino singular שֵׁם (shem, nome) + sufixo pronominal da 3ª pessoa do masculino singular (i).\n\nDica didática: Novamente, a conjunção \"e\" (waw) antes de um shva (neste caso, na consoante Shin) transforma-se na vogal longa Shureq (u), lida como \"U\", facilitando a pronúncia.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "שׁוּעַ",
+        "transliteracao": "šûa' - \"Sua\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular. Predicativo da mini-oração nominal.",
+        "exegese": "Exegese/Teologia: O texto preserva o nome do pai (Sua), mas não o da mulher (que mais tarde será chamada apenas de Bat-Sua, \"filha de Sua\"). O foco recai na aliança de Judá com este patriarca pagão.",
+        "teologia": "Exegese/Teologia: O texto preserva o nome do pai (Sua), mas não o da mulher (que mais tarde será chamada apenas de Bat-Sua, \"filha de Sua\"). O foco recai na aliança de Judá com este patriarca pagão."
+      },
+      {
+        "hebraico": "וַיִּקָּחֶהָ",
+        "transliteracao": "wayyiqqāḥehā - \"e a tomou\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal לָקַח (laqah). Conjugação Qal, tempo imperfeito narrativo, 3ª pessoa do masculino singular + sufixo pronominal objeto direto da 3ª pessoa do feminino singular (hā).\n\nDica didática: Esta palavra é uma armadilha famosa para estudantes! A raiz é לָקַח (Lamed-Qof-Chet). Contudo, o verbo laqah é o único verbo no hebraico cuja primeira letra (o Lamed) se comporta como se fosse um Nun. Ela cai (é assimilada) na conjugação imperfeita e reaparece como um ponto (dagesh) forte dentro da letra Qof. O sufixo \"ehā\" no final significa \"ela\" (objeto).",
+        "exegese": "Exegese/Teologia: O verbo laqah é o termo técnico para o casamento legal no Antigo Oriente Médio. Judá exerce autoridade autônoma (\"tomou-a para si\"). Como apontado pelo NDITEAT, o ato de tomar (após ver) descreve a rebelião humana tentando agarrar algo fora dos limites pactuais estabelecidos por Deus. A escolha da esposa dita o futuro da casa de Judá: os filhos dessa união (Er e Onã) demonstrarão um caráter profundamente corrompido, evidenciando os frutos nefastos desse consórcio desigual.",
+        "teologia": "Exegese/Teologia: O verbo laqah é o termo técnico para o casamento legal no Antigo Oriente Médio. Judá exerce autoridade autônoma (\"tomou-a para si\"). Como apontado pelo NDITEAT, o ato de tomar (após ver) descreve a rebelião humana tentando agarrar algo fora dos limites pactuais estabelecidos por Deus. A escolha da esposa dita o futuro da casa de Judá: os filhos dessa união (Er e Onã) demonstrarão um caráter profundamente corrompido, evidenciando os frutos nefastos desse consórcio desigual."
+      },
+      {
+        "hebraico": "וַיָּבֹא",
+        "transliteracao": "wayyābō' - \"e entrou\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal בוא (bo'). Conjugação Qal, tempo imperfeito narrativo, 3a pessoa do masculino singular.\n\nDica didática: O verbo בוא é um verbo biconsonantal (ou de raiz côncava, Ayin-Waw). Na forma wayyiqtol, a vogal do meio (o Cholam, som de \"o\") costuma prevalecer. A letra Alef final é quiescente.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "אֵלֶיהָ",
+        "transliteracao": "ēlehā - \"a ela / coabitou com ela\"",
+        "morfossintaxe": "Morfossintaxe: Preposição direcional אֶל (el - \"para, a\") + sufixo pronominal da 3ª pessoa do feminino singular.\n\nDica didática: A preposição 'el, quando recebe sufixos pronominais, assume as terminações como se fosse um substantivo no plural (por isso o som \"ei\" na transição 'ele...). É uma idiossincrasia morfológica comum em certas preposições ('el, 'al, 'ad).",
+        "exegese": "Exegese/Teologia: A expressão idiomática \"entrar a [uma mulher]\" (bo' 'el) é o eufemismo hebraico clássico para as relações sexuais e a consumação do matrimônio (cf. Gn 16:2; 29:21). Teologicamente, sela a união de uma só carne. Judá une a semente eleita de Abraão a uma filha de Canaã. Sem o intervir soberano e chocante de Deus no restante do capítulo (através de Tamar), essa união profana teria extirpado a pureza da tribo da qual, segundo as promessas redentivas, o Messias, o Leão da Tribo de Judá, haveria de vir. A teologia reformada enxerga aqui não apenas uma biografia moral falha, mas a tensão escatológica da semente prometida sendo quase sufocada pelo pecado do patriarca.",
+        "teologia": "Exegese/Teologia: A expressão idiomática \"entrar a [uma mulher]\" (bo' 'el) é o eufemismo hebraico clássico para as relações sexuais e a consumação do matrimônio (cf. Gn 16:2; 29:21). Teologicamente, sela a união de uma só carne. Judá une a semente eleita de Abraão a uma filha de Canaã. Sem o intervir soberano e chocante de Deus no restante do capítulo (através de Tamar), essa união profana teria extirpado a pureza da tribo da qual, segundo as promessas redentivas, o Messias, o Leão da Tribo de Judá, haveria de vir. A teologia reformada enxerga aqui não apenas uma biografia moral falha, mas a tensão escatológica da semente prometida sendo quase sufocada pelo pecado do patriarca."
+      }
+    ]
+  },
+  {
+    "numero": 3,
+    "palavras": [
+      {
+        "hebraico": "וַתַּהַר",
+        "transliteracao": "wattahar - \"E ela concebeu\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal הָרָה (harah). Conjugação Qal, tempo imperfeito narrativo (wayyiqtol), 3a pessoa do feminino singular.\n\nDica didática: O verbo הָרָה pertence à categoria dos verbos \"Lamed-He\" (cuja última consoante da raiz é um He). Ao receber o waw consecutivo, essa última letra sofre apócope (cai). Além disso, por ter uma consoante gutural (ה) no meio da raiz, a vogal que a acompanha sofre alteração para um patakh (som de \"a\"), o que explica a forma encurtada tahar.",
+        "exegese": "Exegese/Teologia: Segundo o NDITEAT, o verbo harah (\"conceber\") no livro de Gênesis não retrata apenas um evento reprodutivo biológico, mas é frequentemente o palco da providência onde a promessa da semente (\"descendência\", cf. Gn 3:15) avança. O ventre que concebe está intimamente ligado ao mandato cultural de encher a terra e, redentivamente, à promessa da vinda do Messias. Contudo, aqui reside a tragédia teológica: a semente da linha eleita de Abraão está sendo gestada em um ventre cananeu reprovado.",
+        "teologia": "Exegese/Teologia: Segundo o NDITEAT, o verbo harah (\"conceber\") no livro de Gênesis não retrata apenas um evento reprodutivo biológico, mas é frequentemente o palco da providência onde a promessa da semente (\"descendência\", cf. Gn 3:15) avança. O ventre que concebe está intimamente ligado ao mandato cultural de encher a terra e, redentivamente, à promessa da vinda do Messias. Contudo, aqui reside a tragédia teológica: a semente da linha eleita de Abraão está sendo gestada em um ventre cananeu reprovado."
+      },
+      {
+        "hebraico": "וַתֵּלֶד",
+        "transliteracao": "wattēled - \"e deu à luz\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal יָלַד (yalad). Conjugação Qal, tempo imperfeito narrativo, 3a pessoa do feminino singular.\n\nDica didática: A raiz original começa com a consoante Yod (verbos chamados \"Pe-Yod\"). No imperfeito da conjugação Qal, esse Yod inicial frequentemente cai. Assim, em vez de um esperado te-ye-led, temos a forma compacta tēled.",
+        "exegese": "Exegese/Teologia: A raiz yalad é uma das mais importantes de todo o Antigo Testamento, formando a base do termo toledot (\"gerações/história\", palavra-chave que estrutura o livro de Gênesis). Dar à luz, no contexto patriarcal, é o meio pelo qual a aliança é transmitida. Na visão reformada, a continuidade da promessa nunca depende puramente da procriação natural, mas da graça pactual de Deus operando na história. O texto registra o ato mecanicista (\"concebeu e deu à luz\"), evidenciando o curso natural da vida, mas silencioso quanto à bênção divina, que outrora marcou o nascimento dos patriarcas.",
+        "teologia": "Exegese/Teologia: A raiz yalad é uma das mais importantes de todo o Antigo Testamento, formando a base do termo toledot (\"gerações/história\", palavra-chave que estrutura o livro de Gênesis). Dar à luz, no contexto patriarcal, é o meio pelo qual a aliança é transmitida. Na visão reformada, a continuidade da promessa nunca depende puramente da procriação natural, mas da graça pactual de Deus operando na história. O texto registra o ato mecanicista (\"concebeu e deu à luz\"), evidenciando o curso natural da vida, mas silencioso quanto à bênção divina, que outrora marcou o nascimento dos patriarcas."
+      },
+      {
+        "hebraico": "בֵּן",
+        "transliteracao": "bēn - \"um filho\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum, masculino singular. Atua sintaticamente como objeto direto do verbo \"dar à luz\".",
+        "exegese": "Exegese/Teologia: O ben (filho) nascido aqui é o primogênito de Judá. Na estrutura social e teológica de Israel, o primogênito detém a expectativa primária de carregar o manto pactual e receber a dupla porção da herança. Este menino é a concretização física da fusão entre a linhagem da promessa e o paganismo cananeu.",
+        "teologia": "Exegese/Teologia: O ben (filho) nascido aqui é o primogênito de Judá. Na estrutura social e teológica de Israel, o primogênito detém a expectativa primária de carregar o manto pactual e receber a dupla porção da herança. Este menino é a concretização física da fusão entre a linhagem da promessa e o paganismo cananeu."
+      },
+      {
+        "hebraico": "וַיִּקְרָא",
+        "transliteracao": "wayyiqrā' - \"e ele chamou\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal קָרָא (qara'). Conjugação Qal, tempo imperfeito narrativo, 3a pessoa do masculino singular.\n\nDica didática: Verifique a mudança de gênero na conjugação! Os verbos anteriores (concebeu, deu à luz) começavam com Tav (marca de 3a pessoa feminina singular: ela). Agora, o verbo começa com Yod (marca de 3ª pessoa masculina singular: ele). Além disso, a raiz termina com a letra Alef (verbos Lamed-Alef), que, no final de uma palavra, torna-se quiescente (muda), servindo apenas como suporte de leitura, sem receber vogal própria. O sujeito da ação muda abruptamente da esposa cananeia para o próprio Judá.",
+        "exegese": "Exegese/Teologia: O NDITEAT destaca que a raiz qara' (chamar/nomear) carrega um forte senso de autoridade e atribuição de destino e caráter. Ao exercer o direito de \"chamar\", Judá impõe sua autoridade patriarcal sobre o menino, reconhecendo-o legal e formalmente como seu primogênito perante a sociedade. Nota textual importante: Em alguns manuscritos e tradições (como os Targuns e a versão Samaritana), o verbo aparece no feminino (\"e ela chamou\"), mas o Texto Massorético (BHS) mantém o masculino (\"ele chamou\"), o que contrasta com os versículos 4 e 5, onde é a mulher que nomeia Onã e Selá.",
+        "teologia": "Exegese/Teologia: O NDITEAT destaca que a raiz qara' (chamar/nomear) carrega um forte senso de autoridade e atribuição de destino e caráter. Ao exercer o direito de \"chamar\", Judá impõe sua autoridade patriarcal sobre o menino, reconhecendo-o legal e formalmente como seu primogênito perante a sociedade. Nota textual importante: Em alguns manuscritos e tradições (como os Targuns e a versão Samaritana), o verbo aparece no feminino (\"e ela chamou\"), mas o Texto Massorético (BHS) mantém o masculino (\"ele chamou\"), o que contrasta com os versículos 4 e 5, onde é a mulher que nomeia Onã e Selá."
+      },
+      {
+        "hebraico": "אֶת־שְׁמוֹ",
+        "transliteracao": "'et-šəmô - \"o seu nome\"",
+        "morfossintaxe": "Morfossintaxe: Partícula de objeto direto definido את, ligada por maqqef (traço de união) ao substantivo comum masculino singular (shem - \"nome\"), que carrega o sufixo pronominal possessivo da 3ª pessoa do masculino singular (i - \"dele\").\n\nDica didática: Quando a palavra shem recebe o sufixo, sua vogal original longa (tsere) reduz-se para um shva (um som vocálico muito curto, quase imperceptível), tornando-se shemô. A partícula 'et é um sinal puramente gramatical sem tradução isolada; serve apenas para alertar o leitor de que a palavra seguinte é o alvo direto de uma ação determinada (neste caso, o alvo do verbo \"chamar\").",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "עֵר",
+        "transliteracao": "ēr - \"Er\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular. Funciona como predicativo do objeto direto (o conteúdo do nome dado).",
+        "exegese": "Exegese/Teologia: Do ponto de vista semântico e lexical, a raiz do nome Er ('ur) remete à ideia de estar \"desperto\" ou \"vigilante\". O Novo Dicionário Internacional de Teologia e Exegese do AT frequentemente nota que os nomes bíblicos carregam a expectativa dos pais ou um desígnio profético. Como primogênito, era esperado que ele fosse o \"vigilante\" e o sustentáculo do futuro da casa de Judá.",
+        "teologia": "Exegese/Teologia: Do ponto de vista semântico e lexical, a raiz do nome Er ('ur) remete à ideia de estar \"desperto\" ou \"vigilante\". O Novo Dicionário Internacional de Teologia e Exegese do AT frequentemente nota que os nomes bíblicos carregam a expectativa dos pais ou um desígnio profético. Como primogênito, era esperado que ele fosse o \"vigilante\" e o sustentáculo do futuro da casa de Judá.\n\nComentário Teológico Integrado: Na teologia pactual, a descendência natural por si só não assegura a eleição ou a virtude espiritual (como o apóstolo Paulo mais tarde argumenta magistralmente em Romanos 9 sobre Ismael/Isaque e Esaú/Jacó). A doutrina reformada da Depravação Total encontra aqui um caso de estudo agudo: apesar de ter sido nomeado sob a expectativa de \"despertamento\" ou \"vivacidade\", o versículo 7 relatará que Er era \"mau aos olhos do Senhor\". A corrupção da semente, iniciada pela desobediência pactuada de Judá ao casar-se com a cananeia, manifesta-se no caráter putrefato de seu primogênito. O esforço humano para construir uma casa à parte dos preceitos de Deus resulta, inevitavelmente, em morte espiritual e julgamento divino."
+      }
+    ]
+  },
+  {
+    "numero": 4,
+    "palavras": [
+      {
+        "hebraico": "וַתַּהַר",
+        "transliteracao": "wattahar - \"E ela concebeu\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal הָרָה (harah). Conjugação Qal, tempo imperfeito narrativo (wayyiqtol), 3a pessoa do feminino singular.\n\nDica didática: Tal como no versículo 3, o He final da raiz cai (apócope) devido ao waw consecutivo. A consoante inicial Tav é a marca de que o sujeito é feminino (ela), contrastando com o Yod (ele) do masculino.",
+        "exegese": "Exegese/Teologia: O ciclo de fertilidade natural continua, mas desprovido da bênção explícita de Yahweh (ao contrário das narrativas de Sara, Rebeca e Raquel, onde a abertura da madre é um ato divino celebrado). A descendência de Judá multiplica-se segundo a carne, distanciando-se cada vez mais do ideal pactual.",
+        "teologia": "Exegese/Teologia: O ciclo de fertilidade natural continua, mas desprovido da bênção explícita de Yahweh (ao contrário das narrativas de Sara, Rebeca e Raquel, onde a abertura da madre é um ato divino celebrado). A descendência de Judá multiplica-se segundo a carne, distanciando-se cada vez mais do ideal pactual."
+      },
+      {
+        "hebraico": "עוֹד",
+        "transliteracao": "ôd - \"outra vez / ainda / de novo\"",
+        "morfossintaxe": "Morfossintaxe: Advérbio de tempo/continuidade.",
+        "exegese": "Exegese/Teologia: O termo 'ôd expressa repetição, adição ou prolongamento de um estado. Lexicalmente, o NDITEAT sublinha que este advérbio frequentemente liga eventos numa cadeia ininterrupta. Teologicamente, marca a insistência na construção de uma casa distanciada dos irmãos pactuais de Judá. A repetição do ato criativo (conceção) consolida a linhagem cananeia na casa do patriarca.",
+        "teologia": "Exegese/Teologia: O termo 'ôd expressa repetição, adição ou prolongamento de um estado. Lexicalmente, o NDITEAT sublinha que este advérbio frequentemente liga eventos numa cadeia ininterrupta. Teologicamente, marca a insistência na construção de uma casa distanciada dos irmãos pactuais de Judá. A repetição do ato criativo (conceção) consolida a linhagem cananeia na casa do patriarca."
+      },
+      {
+        "hebraico": "וַתֵּלֶד",
+        "transliteracao": "wattēled - \"e deu à luz\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal יָלַד (yalad). Conjugação Qal, imperfeito narrativo, 3a pessoa do feminino singular.\n\nDica didática: A raiz original (Pe-Yod) perde o seu Yod inicial no imperfeito da conjugação Qal. O verbo yalad estrutura as genealogias de Gênesis.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "בֵּן",
+        "transliteracao": "bēn - \"um filho\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum, masculino singular. Objeto direto da ação de dar à luz.",
+        "exegese": "Exegese/Teologia: A concessão de mais um filho homem (bēn) deveria representar força e segurança para o futuro da tribo. No entanto, este segundo filho tornar-se-á o epicentro de uma grave violação da lei do levirato (mais à frente no capítulo), evidenciando que a multiplicação física não garante a pureza moral nem a aprovação divina.",
+        "teologia": "Exegese/Teologia: A concessão de mais um filho homem (bēn) deveria representar força e segurança para o futuro da tribo. No entanto, este segundo filho tornar-se-á o epicentro de uma grave violação da lei do levirato (mais à frente no capítulo), evidenciando que a multiplicação física não garante a pureza moral nem a aprovação divina."
+      },
+      {
+        "hebraico": "וַתִּקְרָא",
+        "transliteracao": "wattiqrā' - \"e ela chamou\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal קָרָא (qara'). Conjugação Qal, tempo imperfeito narrativo, 3ª pessoa do feminino singular.\n\nDica didática: Preste muita atenção a este verbo! No versículo 3, lemos wayyiqra com Yod inicial, indicando que Judá (ele) deu o nome ao primogênito. Aqui, a palavra começa com Tav (וַתִּקְרָא) que significa \"ela chamou\".",
+        "exegese": "Exegese/Teologia: O NDITEAT realça que o ato de nomear (qara') reflete a apropriação, a autoridade e a determinação do destino da criança. A mudança de sujeito de Judá (v.3) para a mulher cananeia (v.4) é fundamental na exegese narrativa. O facto de a filha de Sua (a cananeia) assumir a prerrogativa de nomear o filho demonstra a sua crescente influência e autoridade no lar do patriarca. A cultura e a religião cananeias estão, de forma literal e figurada, a \"dar o nome\" à semente de Judá.",
+        "teologia": "Exegese/Teologia: O NDITEAT realça que o ato de nomear (qara') reflete a apropriação, a autoridade e a determinação do destino da criança. A mudança de sujeito de Judá (v.3) para a mulher cananeia (v.4) é fundamental na exegese narrativa. O facto de a filha de Sua (a cananeia) assumir a prerrogativa de nomear o filho demonstra a sua crescente influência e autoridade no lar do patriarca. A cultura e a religião cananeias estão, de forma literal e figurada, a \"dar o nome\" à semente de Judá."
+      },
+      {
+        "hebraico": "אֶת־שְׁמוֹ",
+        "transliteracao": "'et-šəmô - \"o seu nome\"",
+        "morfossintaxe": "Morfossintaxe: Partícula de objeto direto ('et) unida por maqqef ao substantivo shem (nome), acrescido do sufixo pronominal da 3a pessoa do masculino singular (i - \"dele\").",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "אוֹנָן",
+        "transliteracao": "ônān – \"Onã\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular.",
+        "exegese": "Exegese/Teologia: A etimologia do nome Onã ('ônān) deriva da raiz awen ou do termo relacionado. Se derivado de 'ôn, significa \"força\", \"vigor\" ou \"riqueza\" (frequentemente associado ao vigor reprodutivo, como em \"primícias da minha força/vigor\" em Gn 49:3). O NDITEAT adverte, no entanto, que raízes homônimas podem carregar o sentido de \"aflição\", \"trabalho penoso\" ou \"iniquidade\". À luz da teologia reformada e do desenrolar do texto, o nome torna-se ironicamente profético. O seu \"vigor\" será egoisticamente desperdiçado (Gn 38:9, o ato de derramar a semente na terra), e a sua vida tornar-se-á uma \"aflição\" e iniquidade julgada com severidade por Yahweh, que o matará (Gn 38:10).",
+        "teologia": "Exegese/Teologia: A etimologia do nome Onã ('ônān) deriva da raiz awen ou do termo relacionado. Se derivado de 'ôn, significa \"força\", \"vigor\" ou \"riqueza\" (frequentemente associado ao vigor reprodutivo, como em \"primícias da minha força/vigor\" em Gn 49:3). O NDITEAT adverte, no entanto, que raízes homônimas podem carregar o sentido de \"aflição\", \"trabalho penoso\" ou \"iniquidade\". À luz da teologia reformada e do desenrolar do texto, o nome torna-se ironicamente profético. O seu \"vigor\" será egoisticamente desperdiçado (Gn 38:9, o ato de derramar a semente na terra), e a sua vida tornar-se-á uma \"aflição\" e iniquidade julgada com severidade por Yahweh, que o matará (Gn 38:10).\n\nComentário Teológico Integrado: A teologia pactual avança não apenas por aquilo que é narrado, mas por como é narrado. No versículo 4, o declínio de Judá é aprofundado não por uma grande tragédia exterior, mas pela normalização do seu estado de compromisso moral. A influência da sua esposa cananeia consolida-se à medida que ela dita a identidade (o nome) da descendência. Segundo a tradição reformada, o ser humano no seu estado caído naturaliza o pecado. Judá já não é o patriarca que lidera isoladamente; ele cede espaço no altar do seu lar à cosmovisão da terra amaldiçoada. Onã, cujo nome simboliza o vigor humano, revelar-se-á o oposto da fé: alguém que utiliza as promessas do pacto para o seu próprio prazer, recusando-se a suscitar descendência para o seu irmão. O nascimento de Onã, liderado pela ação de nomeação da sua mãe cananeia, prefigura a corrupção total do caráter que marcará a vida deste filho, demonstrando que não há vitalidade ('ôn) duradoura fora da estrita obediência à vontade revelada de Deus."
+      }
+    ]
+  },
+  {
+    "numero": 5,
+    "palavras": [
+      {
+        "hebraico": "וַתּוֹסֶף",
+        "transliteracao": "wattôsep - \"E ela acrescentou / E ela tornou a\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal יָסַף (yasap). Conjugação Hifil (causativa/ativa), tempo imperfeito narrativo (wayyiqtol), 3ª pessoa do feminino singular.\n\nDica didática: A raiz original é יָסַף (começada por Yod, logo, verbo Pe-Yod). Na conjugação Hifil, o Yod inicial transforma-se na vogal longa Holem Waw (o som \"ô\"), resultando na forma tôsep. Quando acompanhado de outro verbo (como no caso a seguir, \"dar à luz\"), funciona de forma idiomática para indicar a repetição de uma ação (\"ela voltou a...\").",
+        "exegese": "Exegese/Teologia: O verbo yasap denota aumento, adição ou continuação. O NDITEAT observa que este verbo sublinha a inexorabilidade da multiplicação. O ventre cananeu continua a \"acrescentar\" descendentes a Judá. Do ponto de vista pactual, a semente corrompida está a enraizar-se cada vez mais profundamente na vida do patriarca.",
+        "teologia": "Exegese/Teologia: O verbo yasap denota aumento, adição ou continuação. O NDITEAT observa que este verbo sublinha a inexorabilidade da multiplicação. O ventre cananeu continua a \"acrescentar\" descendentes a Judá. Do ponto de vista pactual, a semente corrompida está a enraizar-se cada vez mais profundamente na vida do patriarca."
+      },
+      {
+        "hebraico": "עוֹד",
+        "transliteracao": "ôd - \"ainda / de novo\"",
+        "morfossintaxe": "Morfossintaxe: Advérbio de tempo ou repetição.",
+        "exegese": "Exegese/Teologia: Reforça o sentido do verbo anterior. A repetição contínua deste ciclo biológico sem qualquer menção à bênção de Deus (como era comum nas narrativas das matriarcas Sara, Rebeca e Raquel) acentua o aspeto puramente carnal desta união.",
+        "teologia": "Exegese/Teologia: Reforça o sentido do verbo anterior. A repetição contínua deste ciclo biológico sem qualquer menção à bênção de Deus (como era comum nas narrativas das matriarcas Sara, Rebeca e Raquel) acentua o aspeto puramente carnal desta união."
+      },
+      {
+        "hebraico": "וַתֵּלֶד",
+        "transliteracao": "wattēled - \"e deu à luz\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal יָלַד (yalad). Conjugação Qal, tempo imperfeito narrativo, 3ª pessoa do feminino singular.\n\nDica didática: Como visto nos versos anteriores, a letra Yod da raiz cai, originando a forma contraída tēled.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "בֵּן",
+        "transliteracao": "bēn - \"um filho\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum, masculino singular. Objeto direto.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "וַתִּקְרָא",
+        "transliteracao": "wattiqrā' - \"e ela chamou\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal קָרָא (qara'). Conjugação Qal, tempo imperfeito narrativo, 3a pessoa do feminino singular.\n\nDica didática: A presença da consoante Tav no início do verbo indica novamente o sujeito feminino (\"ela\").",
+        "exegese": "Exegese/Teologia: À semelhança do versículo 4 (e em contraste com o versículo 3), é a mãe cananeia que atribui o nome ao terceiro filho. A autoridade e a influência da cultura pagã estão agora consolidadas no lar de Judá. Ele cedeu completamente a liderança espiritual e familiar à mulher de Canaã.",
+        "teologia": "Exegese/Teologia: À semelhança do versículo 4 (e em contraste com o versículo 3), é a mãe cananeia que atribui o nome ao terceiro filho. A autoridade e a influência da cultura pagã estão agora consolidadas no lar de Judá. Ele cedeu completamente a liderança espiritual e familiar à mulher de Canaã."
+      },
+      {
+        "hebraico": "אֶת־שְׁמוֹ",
+        "transliteracao": "'et-šəmô - \"o seu nome\"",
+        "morfossintaxe": "Morfossintaxe: Partícula de objeto direto ('et) unida por maqqef ao substantivo shem (nome) + sufixo pronominal de 3ª pessoa do masculino singular.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "שֵׁלָה",
+        "transliteracao": "šēlāh – \"Selá\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular.",
+        "exegese": "Exegese/Teologia: A etimologia do nome Shelah é incerta, mas raízes hebraicas semelhantes apontam para os conceitos de \"petição\", \"tranquilidade\" ou \"aquilo que é extraído/retirado\". Ironicamente, na providência narrativa, Selá será o filho que Judá \"retirará\" e reterá de Tamar (v. 11), com medo de que morra como os seus irmãos.",
+        "teologia": "Exegese/Teologia: A etimologia do nome Shelah é incerta, mas raízes hebraicas semelhantes apontam para os conceitos de \"petição\", \"tranquilidade\" ou \"aquilo que é extraído/retirado\". Ironicamente, na providência narrativa, Selá será o filho que Judá \"retirará\" e reterá de Tamar (v. 11), com medo de que morra como os seus irmãos."
+      },
+      {
+        "hebraico": "וְהָיָה",
+        "transliteracao": "wəhāyāh - \"e ele [Judá] estava\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw + raiz verbal הָיָה (hayah). Conjugação Qal, tempo perfeito, 3ª pessoa do masculino singular.\n\nDica didática: Ao contrário do waw consecutivo com imperfeito (que avança a ação), aqui temos um waw com o verbo no perfeito. Esta construção serve frequentemente para introduzir uma oração circunstancial (descrevendo o pano de fundo ou o estado das coisas enquanto a ação principal ocorria).",
+        "exegese": "Exegese/Teologia: Este verbo introduz uma rutura narrativa crucial. O sujeito implícito é Judá. O texto afasta o foco do ventre da mulher para o paradeiro físico e espiritual do pai.",
+        "teologia": "Exegese/Teologia: Este verbo introduz uma rutura narrativa crucial. O sujeito implícito é Judá. O texto afasta o foco do ventre da mulher para o paradeiro físico e espiritual do pai."
+      },
+      {
+        "hebraico": "בִּכְזִיב",
+        "transliteracao": "bikzîb - \"em Quezibe\"",
+        "morfossintaxe": "Morfossintaxe: Preposição inseparável be (\"em\") + substantivo próprio de lugar.",
+        "exegese": "Exegese/Teologia: Este é um detalhe de extrema profundidade teológica. Quezibe (também identificada como Aczibe) deriva da raiz hebraica (kazab), que significa \"mentir\", \"enganar\" ou \"falhar\". O NDITEAT destaca que a toponímia (o significado dos nomes dos lugares) no Antigo Testamento frequentemente espelha o estado teológico ou moral dos personagens. Judá encontra-se no \"lugar da mentira\" ou da \"deceção\". O patriarca está ausente no momento do nascimento do seu filho, perdido em território pagão, num lugar que prefigura a teia de enganos que marcará a sua vida (a mentira que dirá a Tamar sobre Selá, e o engano que sofrerá às mãos da própria Tamar).",
+        "teologia": "Exegese/Teologia: Este é um detalhe de extrema profundidade teológica. Quezibe (também identificada como Aczibe) deriva da raiz hebraica (kazab), que significa \"mentir\", \"enganar\" ou \"falhar\". O NDITEAT destaca que a toponímia (o significado dos nomes dos lugares) no Antigo Testamento frequentemente espelha o estado teológico ou moral dos personagens. Judá encontra-se no \"lugar da mentira\" ou da \"deceção\". O patriarca está ausente no momento do nascimento do seu filho, perdido em território pagão, num lugar que prefigura a teia de enganos que marcará a sua vida (a mentira que dirá a Tamar sobre Selá, e o engano que sofrerá às mãos da própria Tamar)."
+      },
+      {
+        "hebraico": "בְּלִדְתָּהּ",
+        "transliteracao": "bəlidtāhh - \"quando ela [o] deu à luz\" / \"no seu dar à luz\"",
+        "morfossintaxe": "Morfossintaxe: Preposição be (\"em\") + verbo יָלַד (yalad) no infinitivo construto (לֶדֶת - ledet) + sufixo pronominal de 3ª pessoa do feminino singular (ah).\n\nDica didática: Esta é uma forma complexa e belíssima do hebraico. Quando o verbo yalad (Pe-Yod) vai para o infinitivo construto, perde o Yod inicial e ganha um Tav no final, formando לֶדֶת (ledet). Ao receber a preposição \"em/quando\" e o sufixo \"dela\", contrai-se para bəlidtāhh. Note o ponto dentro do He final (chamado mappiq), que avisa o leitor que aquele He não é apenas uma vogal, mas uma consoante que deve ser pronunciada, indicando \"dela\".",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "אֹתוֹ",
+        "transliteracao": "ōtô – \"a ele\"",
+        "morfossintaxe": "Morfossintaxe: Partícula de objeto direto definida + sufixo pronominal de 3ª pessoa do masculino singular (i). Refere-se a Selá.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Comentário Teológico Integrado: A conclusão deste trio de nascimentos sela o distanciamento de Judá da promessa pactual. A teologia reformada enfatiza a soberania e a providência de Deus mesmo em meio à rebelião humana. O registo geográfico (\"ele estava em Quezibe\") não é mero preciosismo histórico, mas um diagnóstico espiritual. Judá é um peregrino ausente e alienado, a habitar no \"lugar do engano\". A ausência do patriarca no momento do nascimento do seu filho denota uma família fraturada pela conformidade com o mundo cananeu. A semente de Abraão está agora misturada; os filhos ostentam a herança biológica do pacto, mas a formação cultural e identitária de Canaã (nomeados pela mãe pagã). Judá tentou construir uma família segundo os ditames do seu próprio coração corrupto, distanciando-se dos seus irmãos pactuais (v. 1). O resultado é uma descendência moralmente falida, nascida sob a sombra da apostasia e do engano (Quezibe), estabelecendo o cenário exato onde o julgamento severo de Deus terá de intervir (nos versículos seguintes) para preservar a pureza da linhagem messiânica."
+      }
+    ]
+  },
+  {
+    "numero": 6,
+    "palavras": [
+      {
+        "hebraico": "וַיִּקַּח",
+        "transliteracao": "wayyiqqaḥ - \"E tomou\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal לָקַח (laqah). Conjugação Qal, tempo imperfeito narrativo (wayyiqtol), 3a pessoa do masculino singular.\n\nDica didática: Tal como vimos no versículo 2, o verbo é o único verbo em hebraico cuja primeira letra (Lamed) se comporta como um Nun na conjugação imperfeita. O Lamed assimila-se à consoante seguinte, desaparecendo da escrita e ressurgindo como um ponto forte (dagesh forte) dentro da letra Qof.",
+        "exegese": "Exegese/Teologia: O verbo laqah reaparece aqui no seu uso técnico para a consumação de arranjos matrimoniais. No versículo 2, Judá \"tomou\" uma mulher para si, movido pela vista e pelo desejo. Aqui, ele \"toma\" uma esposa para o seu filho. O NDITEAT sublinha que o ato de providenciar uma esposa para o filho era a responsabilidade máxima do patriarca para garantir a continuidade da linha da aliança (como Abraão fez por Isaque). Judá tenta cumprir a liturgia externa da tradição patriarcal, mas fá-lo dentro do contexto de compromisso moral que ele próprio estabeleceu.",
+        "teologia": "Exegese/Teologia: O verbo laqah reaparece aqui no seu uso técnico para a consumação de arranjos matrimoniais. No versículo 2, Judá \"tomou\" uma mulher para si, movido pela vista e pelo desejo. Aqui, ele \"toma\" uma esposa para o seu filho. O NDITEAT sublinha que o ato de providenciar uma esposa para o filho era a responsabilidade máxima do patriarca para garantir a continuidade da linha da aliança (como Abraão fez por Isaque). Judá tenta cumprir a liturgia externa da tradição patriarcal, mas fá-lo dentro do contexto de compromisso moral que ele próprio estabeleceu."
+      },
+      {
+        "hebraico": "יְהוּדָה",
+        "transliteracao": "yəhûdāh – \"Judá\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular. O sujeito soberano da ação. Ele retoma o controlo das decisões familiares que parecia ter cedido à esposa cananeia nos versículos 4 e 5.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "אִשָּׁה",
+        "transliteracao": "'iššāh - \"uma mulher / esposa\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum, feminino singular. Objeto direto da ação de tomar.",
+        "exegese": "Exegese/Teologia: O texto omite deliberadamente a genealogia ou origem desta mulher. Ao contrário da esposa de Judá (identificada como filha de um cananeu), a ascendência de Tamar não é mencionada. Na providência divina narrada, ela entra na história quase como uma página em branco, que Deus usará para expor a hipocrisia de Judá e preservar a semente messiânica.",
+        "teologia": "Exegese/Teologia: O texto omite deliberadamente a genealogia ou origem desta mulher. Ao contrário da esposa de Judá (identificada como filha de um cananeu), a ascendência de Tamar não é mencionada. Na providência divina narrada, ela entra na história quase como uma página em branco, que Deus usará para expor a hipocrisia de Judá e preservar a semente messiânica."
+      },
+      {
+        "hebraico": "לְעֵר",
+        "transliteracao": "lə'ēr - \"para Er\"",
+        "morfossintaxe": "Morfossintaxe: Preposição inseparável le (\"para / a\") + substantivo próprio masculino singular (Er). Denota o beneficiário da ação.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "בְּכוֹרוֹ",
+        "transliteracao": "bəkôrô - \"o seu primogénito\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum masculino singular בְּכוֹר (bekor) + sufixo pronominal possessivo da 3ª pessoa do masculino singular (i \"dele\"). Funciona sintaticamente como aposto explicativo de Er.",
+        "exegese": "Exegese/Teologia: O NDITEAT dedica vasta atenção ao conceito de bekor. A primogenitura no Antigo Oriente Médio e na teologia pactual carrega o peso da liderança familiar, a porção dupla da herança e, no contexto dos patriarcas, a responsabilidade de ser o portador da promessa redentiva de Deus (a semente). A ênfase no facto de Er ser o bekor eleva as apostas da narrativa: o futuro da tribo de Judá (e, do ponto de vista divino, o futuro do Messias) repousa sobre este casamento.",
+        "teologia": "Exegese/Teologia: O NDITEAT dedica vasta atenção ao conceito de bekor. A primogenitura no Antigo Oriente Médio e na teologia pactual carrega o peso da liderança familiar, a porção dupla da herança e, no contexto dos patriarcas, a responsabilidade de ser o portador da promessa redentiva de Deus (a semente). A ênfase no facto de Er ser o bekor eleva as apostas da narrativa: o futuro da tribo de Judá (e, do ponto de vista divino, o futuro do Messias) repousa sobre este casamento."
+      },
+      {
+        "hebraico": "וּשְׁמָהּ",
+        "transliteracao": "ûšəmāhh - \"e o nome dela\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw (shureq, devido ao shva móvel na consoante seguinte) + substantivo comum (shem - \"nome\") + sufixo pronominal da 3ª pessoa do feminino singular (ahh).\n\nDica didática: Preste atenção ao ponto dentro da letra He no final da palavra. Este ponto chama-se mappiq. Ele indica que o He não é apenas uma letra muda para sustentar o som de \"a\" (como na palavra 'ishah), mas uma consoante gutural real e audível que serve como pronome possessivo feminino (\"dela\").",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "תָּמָר",
+        "transliteracao": "tāmār - \"Tamar\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, feminino singular. Predicativo do sujeito da oração nominal.",
+        "exegese": "Exegese/Teologia: O nome Tamar significa literalmente \"palmeira\" ou \"tamareira\". Lexicalmente, o NDITEAT associa a palmeira (um oásis no deserto) a conceitos de retidão (cf. Salmo 92:12, \"o justo florescerá como a palmeira\"), beleza, graça, fruto abundante e vitalidade. A inserção deste nome é carregada de ironia teológica e literária. Enquanto os filhos de Judá (Er e Onã) trarão morte e esterilidade por causa da sua iniquidade, Tamar a estrangeira será a \"palmeira\" frutífera através da qual a vida e a continuidade da linhagem pactual serão miraculosamente preservadas.",
+        "teologia": "Exegese/Teologia: O nome Tamar significa literalmente \"palmeira\" ou \"tamareira\". Lexicalmente, o NDITEAT associa a palmeira (um oásis no deserto) a conceitos de retidão (cf. Salmo 92:12, \"o justo florescerá como a palmeira\"), beleza, graça, fruto abundante e vitalidade. A inserção deste nome é carregada de ironia teológica e literária. Enquanto os filhos de Judá (Er e Onã) trarão morte e esterilidade por causa da sua iniquidade, Tamar a estrangeira será a \"palmeira\" frutífera através da qual a vida e a continuidade da linhagem pactual serão miraculosamente preservadas.\n\nComentário Teológico Integrado: Do ponto de vista da tradição reformada, Gênesis 38:6 ilustra a complexa interação entre a responsabilidade humana, a depravação e a providência soberana de Deus. Judá procura normalizar a sua vida patriarcal em solo estrangeiro, arranjando um casamento para o seu herdeiro, o bekor. A tentativa de Judá de garantir o futuro da sua casa através da sabedoria humana e das tradições do Antigo Oriente Médio irá colidir frontalmente com o juízo de Deus nos versículos seguintes, pois o seu filho é reprovado. No entanto, a graça providencial brilha na introdução de Tamar. Sem pedigree pactual e inserida numa família disfuncional e moralmente comprometida, Tamar (\"a palmeira\") será usada pela soberania divina como o instrumento de confronto e redenção para Judá. A teologia do pacto ensina que Deus frequentemente escolhe os meios mais improváveis – neste caso, a viúva abandonada e estrangeira – para humilhar os soberbos (Judá) e garantir que a linhagem de Cristo, o Leão de Judá, seja preservada unicamente pelo poder e pela graça de Yahweh, e não pelos esforços falhos do patriarca. A aliança não subsiste pelo vigor da carne de Judá, mas pela fidelidade do Deus que orquestra a história."
+      }
+    ]
+  },
+  {
+    "numero": 7,
+    "palavras": [
+      {
+        "hebraico": "וַיְהִי",
+        "transliteracao": "wayehî - \"E era / E aconteceu que\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal היה (hayah). Conjugação Qal, tempo imperfeito narrativo (wayyiqtol), 3a pessoa do masculino singular.\n\nDica didática: Como vimos no versículo 1, esta é a forma apocopada (encurtada) do verbo ser/estar/acontecer. Aqui, não funciona apenas para avançar a narrativa (\"e aconteceu que\"), mas atua quase como um verbo de ligação (cópula), conectando o sujeito (Er) ao seu estado moral e espiritual (mau).",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "עֵר",
+        "transliteracao": "'ēr - \"Er\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular. Sujeito da primeira oração.",
+        "exegese": "Exegese/Teologia: A ironia teológica do seu nome (\"desperto\" ou \"vigilante\") atinge aqui o seu clímax sombrio. Er não estava espiritualmente \"desperto\" para as exigências da aliança, mas sim ativamente envolvido na iniquidade.",
+        "teologia": "Exegese/Teologia: A ironia teológica do seu nome (\"desperto\" ou \"vigilante\") atinge aqui o seu clímax sombrio. Er não estava espiritualmente \"desperto\" para as exigências da aliança, mas sim ativamente envolvido na iniquidade."
+      },
+      {
+        "hebraico": "בְּכוֹר",
+        "transliteracao": "bəkôr - \"o primogénito de\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum, masculino singular. Está no estado construto (ligado à palavra seguinte). Funciona como aposto de Er.\n\nDica didática: O estado construto em hebraico equivale frequentemente à nossa preposição \"de\" indicando posse ou relação. A palavra perde a sua tonicidade primária para se apoiar na palavra seguinte.",
+        "exegese": "Exegese/Teologia: O NDITEAT destaca que o bekor carrega a esperança escatológica e sociológica da família. A menção explícita do seu estatuto de primogénito realça a gravidade da sua queda. A promessa não é garantida pela biologia (direito de primogenitura), mas pela eleição e graça divinas. O primogénito de Judá falha miseravelmente em ser o vaso de honra da linhagem.",
+        "teologia": "Exegese/Teologia: O NDITEAT destaca que o bekor carrega a esperança escatológica e sociológica da família. A menção explícita do seu estatuto de primogénito realça a gravidade da sua queda. A promessa não é garantida pela biologia (direito de primogenitura), mas pela eleição e graça divinas. O primogénito de Judá falha miseravelmente em ser o vaso de honra da linhagem."
+      },
+      {
+        "hebraico": "יְהוּדָה",
+        "transliteracao": "yəhûdāh - \"Judá\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular. Genitivo absoluto ligado a \"primogénito\".",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "רַע",
+        "transliteracao": "ra' - \"mau / perverso\"",
+        "morfossintaxe": "Morfossintaxe: Adjetivo, masculino singular. Funciona como o predicativo do sujeito (Er era...).",
+        "exegese": "Exegese/Teologia: O termo ra' é denso na teologia do Antigo Testamento. Segundo o NDITEAT, ra' não denota apenas uma falha moral genérica, mas uma rutura intencional, destrutiva e ativamente hostil contra a ordem e a vontade de Deus. Não nos é dito qual foi o pecado específico de Er (ao contrário do de Onã, no v. 9), o que sublinha que, para a teologia pactual, a raiz da sua reprovação era um coração inteiramente corrompido (Depravação Total). A sua natureza refletia as trevas do paganismo no qual foi gerado e criado, em total dissonância com a vocação do povo de Deus.",
+        "teologia": "Exegese/Teologia: O termo ra' é denso na teologia do Antigo Testamento. Segundo o NDITEAT, ra' não denota apenas uma falha moral genérica, mas uma rutura intencional, destrutiva e ativamente hostil contra a ordem e a vontade de Deus. Não nos é dito qual foi o pecado específico de Er (ao contrário do de Onã, no v. 9), o que sublinha que, para a teologia pactual, a raiz da sua reprovação era um coração inteiramente corrompido (Depravação Total). A sua natureza refletia as trevas do paganismo no qual foi gerado e criado, em total dissonância com a vocação do povo de Deus."
+      },
+      {
+        "hebraico": "בְּעֵינֵי",
+        "transliteracao": "bə'ênê - \"aos olhos de / perante\"",
+        "morfossintaxe": "Morfossintaxe: Preposição inseparável be (\"em\") + substantivo (olho) no estado construto plural/dual.\n\nDica didática: A palavra \"olho\" em hebraico possui uma forma dual (para designar o par de olhos). Quando vai para o estado construto (os olhos de), a terminação dual/plural (-ayim) transforma-se na terminação (-ê). Daí bə'ênê.",
+        "exegese": "Exegese/Teologia: A expressão idiomática \"aos olhos de\" refere-se ao julgamento, à avaliação e ao escrutínio perfeito. A moralidade não é ditada pelos padrões relaxados da tenda de Judá ou pela cultura de Adulão, mas pelo olhar perscrutador e santo do Soberano.",
+        "teologia": "Exegese/Teologia: A expressão idiomática \"aos olhos de\" refere-se ao julgamento, à avaliação e ao escrutínio perfeito. A moralidade não é ditada pelos padrões relaxados da tenda de Judá ou pela cultura de Adulão, mas pelo olhar perscrutador e santo do Soberano."
+      },
+      {
+        "hebraico": "יהוה",
+        "transliteracao": "YHWH - \"O SENHOR\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio. O Tetragrama, o nome pactual de Deus.",
+        "exegese": "Exegese/Teologia: Esta é a primeira ocorrência do nome pactual de Deus neste capítulo. Até agora, Judá agiu como se Deus estivesse ausente, descendo a Canaã, casando-se com uma pagã e gerando filhos segundo os seus próprios planos. Mas a inserção do nome Yahweh aqui serve como um lembrete estrondoso: o Deus da aliança não abandonou o controlo da história. Ele supervisiona a linhagem da qual o Redentor nascerá.",
+        "teologia": "Exegese/Teologia: Esta é a primeira ocorrência do nome pactual de Deus neste capítulo. Até agora, Judá agiu como se Deus estivesse ausente, descendo a Canaã, casando-se com uma pagã e gerando filhos segundo os seus próprios planos. Mas a inserção do nome Yahweh aqui serve como um lembrete estrondoso: o Deus da aliança não abandonou o controlo da história. Ele supervisiona a linhagem da qual o Redentor nascerá."
+      },
+      {
+        "hebraico": "וַיְמִתֵהוּ",
+        "transliteracao": "waymītēhû - \"e o matou\" / \"e tirou-lhe a vida\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal מות (mût - \"morrer\"). Conjugação Hifil (causativa/ativa), tempo imperfeito narrativo, 3a pessoa do masculino singular + sufixo pronominal de objeto direto da 3ª pessoa do masculino singular (hû - \"o\" / \"a ele\").\n\nDica didática: O verbo mût é um verbo de raiz côncava (no meio tem um Waw ou U). Na conjugação Hifil (que indica causa: \"fazer morrer\" = matar), o prefixo recebe a vogal shva e a consoante do meio é representada por um Hireq Yod (som de \"i\" longo). O sufixo \"hû\" no final aponta para Er (o alvo da ação).",
+        "exegese": "Exegese/Teologia: O NDITEAT elabora extensamente sobre a raiz mût. Na forma Hifil aplicada a Yahweh, demonstra o exercício do juízo divino direto e retributivo. Deus é o autor soberano da vida e da morte (cf. Dt 32:39). A morte de Er não foi um acidente, uma doença natural ou uma coincidência infeliz; foi uma execução divina. Na tradição reformada, este é um exemplo clássico da ira ativa de Deus contra o pecado e da Sua providência protetora: Yahweh aniquilou a semente corrompida de Er para proteger a pureza pactual e escatológica da semente (o Messias) que viria de Judá.",
+        "teologia": "Exegese/Teologia: O NDITEAT elabora extensamente sobre a raiz mût. Na forma Hifil aplicada a Yahweh, demonstra o exercício do juízo divino direto e retributivo. Deus é o autor soberano da vida e da morte (cf. Dt 32:39). A morte de Er não foi um acidente, uma doença natural ou uma coincidência infeliz; foi uma execução divina. Na tradição reformada, este é um exemplo clássico da ira ativa de Deus contra o pecado e da Sua providência protetora: Yahweh aniquilou a semente corrompida de Er para proteger a pureza pactual e escatológica da semente (o Messias) que viria de Judá."
+      },
+      {
+        "hebraico": "יהוה",
+        "transliteracao": "YHWH - \"o SENHOR\"",
+        "morfossintaxe": "Morfossintaxe: Sujeito explícito da ação do verbo \"matar\".",
+        "exegese": "Exegese/Teologia: A repetição enfática do Tetragrama no mesmo versículo (\"mau aos olhos de Yahweh\" -> \"e Yahweh o matou\") não deixa margem para dúvidas teológicas. A justiça é divina e a execução do juízo também.",
+        "teologia": "Exegese/Teologia: A repetição enfática do Tetragrama no mesmo versículo (\"mau aos olhos de Yahweh\" -> \"e Yahweh o matou\") não deixa margem para dúvidas teológicas. A justiça é divina e a execução do juízo também.\n\nComentário Teológico Integrado (Tradição Reformada): Gênesis 38:7 é um choque frontal à ilusão de autonomia de Judá. O patriarca havia construído um projeto familiar moldado pelo secularismo e pelo compromisso com o mundo (Canaã). Contudo, a teologia reformada sublinha de forma magistral que Deus não é um espetador passivo na história da redenção. O contraste no texto é absoluto: a depravação total de Er (\"mau\") colide com a santidade e a justiça inflexível de Yahweh (\"o matou\"). O privilégio natural de ser o primogénito do líder dos filhos de Israel não confere qualquer imunidade contra o juízo de Deus se não houver a operação da graça no coração. De facto, privilégios pactuais desacompanhados de temor a Deus resultam num juízo mais severo. Além disso, a morte de Er expõe o aspeto cirúrgico da Providência Soberana. Ao matá-lo, Deus remove da linhagem messiânica um ramo completamente apodrecido. A promessa redentiva feita em Gênesis 3:15 repousa na soberania de Deus que, com zelo santo, purifica a linha pactual, mesmo que isso implique desmantelar, através da morte, a família orgulhosa do próprio patriarca Judá. O Senhor age ativamente para preservar a semente da qual nascerá Cristo."
+      }
+    ]
+  },
+  {
+    "numero": 8,
+    "palavras": [
+      {
+        "hebraico": "וַיֹּאמֶר",
+        "transliteracao": "wayyō'mer - \"E disse\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal אָמַר ('amar). Conjugação Qal, tempo imperfeito narrativo (wayyiqtol), 3a pessoa do masculino singular.\n\nDica didática: O verbo אָמַר começa com a letra Alef (verbo Pe-Alef). Nas formas do imperfeito da conjugação Qal, este Alef inicial frequentemente fica quiescente (mudo) e a vogal que o acompanha transforma-se num Holem (o som \"ô\"). Por isso a pronúncia é yō'mer e não ya'mer.",
+        "exegese": "Exegese/Teologia: Judá retoma o discurso direto pela primeira vez no capítulo. O verbo \"dizer\", no contexto do patriarca dirigindo-se ao seu filho, carrega o peso de um decreto familiar e legal. Ele exerce a sua autoridade para garantir a continuidade da sua casa.",
+        "teologia": "Exegese/Teologia: Judá retoma o discurso direto pela primeira vez no capítulo. O verbo \"dizer\", no contexto do patriarca dirigindo-se ao seu filho, carrega o peso de um decreto familiar e legal. Ele exerce a sua autoridade para garantir a continuidade da sua casa."
+      },
+      {
+        "hebraico": "יְהוּדָה",
+        "transliteracao": "yəhûdāh - \"Judá\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular. Sujeito do verbo.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "לְאוֹנָן",
+        "transliteracao": "lə'ônān - \"a Onã\"",
+        "morfossintaxe": "Morfossintaxe: Preposição inseparável le (\"para / a\") + substantivo próprio Onã. Indica o destinatário (objeto indireto) da ordem.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "בֹּא",
+        "transliteracao": "bō' - \"entra\"",
+        "morfossintaxe": "Morfossintaxe: Raiz verbal bo'). Conjugação Qal, modo Imperativo, 2ª pessoa do masculino singular.\n\nDica didática: Verbos cuja raiz possui uma consoante vocálica no meio (como o Waw em bo') são chamados de verbos côncavos. No imperativo, eles frequentemente assumem a sua forma mais simples e curta.",
+        "exegese": "Exegese/Teologia: Tal como no versículo 2, a expressão \"entrar a\" é o eufemismo padrão para a coabitação sexual. A ordem não é apenas para consolar a viúva, mas para consumar ativamente uma união conjugal substitutiva.",
+        "teologia": "Exegese/Teologia: Tal como no versículo 2, a expressão \"entrar a\" é o eufemismo padrão para a coabitação sexual. A ordem não é apenas para consolar a viúva, mas para consumar ativamente uma união conjugal substitutiva."
+      },
+      {
+        "hebraico": "אֶל־אֵשֶׁת",
+        "transliteracao": "'el-'ēšet - \"à mulher de\"",
+        "morfossintaxe": "Morfossintaxe: Preposição direcional אֶל ('el - \"para\") unida por maqqef ao substantivo feminino singular אִשָּׁה ('ishah \"mulher/esposa\") no estado construto.\n\nDica didática: Quando a palavra 'ishah (que termina em He na forma absoluta) passa para o estado construto (para significar \"esposa de\"), esse He final transforma-se num Tav (ת). Assim, 'ishah torna-se 'eshet.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "אָחִיךָ",
+        "transliteracao": "'āḥîkā - \"teu irmão\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum masculino singular ('ach) + sufixo pronominal possessivo da 2ª pessoa do masculino singular (\"teu\").",
+        "exegese": "Exegese/Teologia: O conceito de \"irmão\" é central para a responsabilidade pactual e social exigida neste versículo. Na visão pactual, o irmão não é apenas um companheiro biológico, mas o garante da estrutura familiar redentiva. Onã é convocado a agir com amor leal (hesed) em prol do seu irmão que foi julgado por Deus.",
+        "teologia": "Exegese/Teologia: O conceito de \"irmão\" é central para a responsabilidade pactual e social exigida neste versículo. Na visão pactual, o irmão não é apenas um companheiro biológico, mas o garante da estrutura familiar redentiva. Onã é convocado a agir com amor leal (hesed) em prol do seu irmão que foi julgado por Deus."
+      },
+      {
+        "hebraico": "וְיַבֵּם",
+        "transliteracao": "wəyabbēm - \"e cumpre o dever de cunhado / casa-te com\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw + raiz verbal יָבֵם (yabam). Conjugação Piel (intensiva/fativa), modo Imperfeito (ou perfeito com waw conversivo funcionando como imperativo), 2ª pessoa do masculino singular.\n\nDica didática: Este é um \"verbo denominativo\", ou seja, um verbo que nasceu a partir de um substantivo. O substantivo yabam significa \"cunhado\". Na conjugação Piel, cria-se a ação de \"agir como cunhado\" ou \"realizar o ofício de cunhado\".",
+        "exegese": "Exegese/Teologia: Segundo o NDITEAT, esta é a referência foundational à lei do levirato (do latim levir, cunhado), posteriormente codificada em Deuteronómio 25:5-10. O propósito do levirato não era a satisfação do desejo, mas um dever estrito de justiça familiar e económica: garantir que o nome e a herança do falecido não fossem extintos de Israel. Para a teologia pactual, isto está intimamente ligado à promessa da terra e da continuidade do nome perante Yahweh.",
+        "teologia": "Exegese/Teologia: Segundo o NDITEAT, esta é a referência foundational à lei do levirato (do latim levir, cunhado), posteriormente codificada em Deuteronómio 25:5-10. O propósito do levirato não era a satisfação do desejo, mas um dever estrito de justiça familiar e económica: garantir que o nome e a herança do falecido não fossem extintos de Israel. Para a teologia pactual, isto está intimamente ligado à promessa da terra e da continuidade do nome perante Yahweh."
+      },
+      {
+        "hebraico": "אֹתָהּ",
+        "transliteracao": "'ōtāhh - \"a ela\" (lit. \"ela\")",
+        "morfossintaxe": "Morfossintaxe: Partícula de objeto direto et + sufixo pronominal da 3ª pessoa do feminino singular (\"ela\").\n\nDica didática: Note novamente o mappiq (o ponto no meio do He final), que exige que esta letra seja pronunciada como uma consoante gutural, indicando posse ou, neste caso, a pessoa a quem a ação se dirige.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "וְהָקֵם",
+        "transliteracao": "wəhāqēm - \"e suscita / levanta\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw + raiz verbal qum (\"levantar\"). Conjugação Hifil (causativa/ativa), modo Imperativo, 2a pessoa do masculino singular.\n\nDica didática: Na conjugação Hifil de verbos côncavos (como qum), o Waw central desaparece e a vogal predominante torna-se um Tsere (som de \"ê\"). O prefixo He do Hifil é mantido no imperativo. A ideia literal é \"faz levantar\".",
+        "exegese": "Exegese/Teologia: \"Levantar\" ou \"suscitar\" é a linguagem técnica da redenção familiar. O que caiu (a casa de Er pela sua morte) deve ser reerguido pelo parente chegado. A exigência é que Onã aja de forma desinteressada, cedendo a sua força vital para restabelecer a casa do seu irmão.",
+        "teologia": "Exegese/Teologia: \"Levantar\" ou \"suscitar\" é a linguagem técnica da redenção familiar. O que caiu (a casa de Er pela sua morte) deve ser reerguido pelo parente chegado. A exigência é que Onã aja de forma desinteressada, cedendo a sua força vital para restabelecer a casa do seu irmão."
+      },
+      {
+        "hebraico": "זֶרַע",
+        "transliteracao": "zera' - \"semente / descendência\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum, masculino singular. Objeto direto do verbo \"suscitar\".",
+        "exegese": "Exegese/Teologia: Este é, sem dúvida, o núcleo teológico do versículo e do capítulo. O termo zera' (semente) ecoa profundamente na teologia do Antigo Testamento, remontando ao proto-evangelho de Gênesis 3:15 (a Semente da mulher). O NDITEAT demonstra que zera' é o meio pelo qual a promessa abraâmica (Gn 12, 15, 17) de abençoar as nações será cumprida. Judá está preocupado em não deixar extinguir o nome do seu primogénito Er. Contudo, na providência invisível de Deus, o que está verdadeiramente em jogo é a linha da Semente eleita, da qual o Messias virá.",
+        "teologia": "Exegese/Teologia: Este é, sem dúvida, o núcleo teológico do versículo e do capítulo. O termo zera' (semente) ecoa profundamente na teologia do Antigo Testamento, remontando ao proto-evangelho de Gênesis 3:15 (a Semente da mulher). O NDITEAT demonstra que zera' é o meio pelo qual a promessa abraâmica (Gn 12, 15, 17) de abençoar as nações será cumprida. Judá está preocupado em não deixar extinguir o nome do seu primogénito Er. Contudo, na providência invisível de Deus, o que está verdadeiramente em jogo é a linha da Semente eleita, da qual o Messias virá."
+      },
+      {
+        "hebraico": "לְאָחִיךָ",
+        "transliteracao": "lə'āḥîkā - \"para teu irmão\"",
+        "morfossintaxe": "Morfossintaxe: Preposição + substantivo ('ach) + sufixo pronominal 2ms.",
+        "exegese": "Exegese/Teologia: Reitera o propósito da ação. O primeiro filho gerado dessa união não seria legalmente de Onã, mas de Er.",
+        "teologia": "Exegese/Teologia: Reitera o propósito da ação. O primeiro filho gerado dessa união não seria legalmente de Onã, mas de Er.\n\nComentário Teológico Integrado (Tradição Reformada): O versículo 8 de Gênesis 38 apresenta um momento de profunda tensão entre a lei humana (o costume patriarcal) e os propósitos redentivos de Deus. Judá, confrontado com a morte do seu filho primogénito às mãos de Yahweh, procura reparar a brecha na sua linhagem utilizando a tradição do levirato. A teologia reformada vê aqui uma ilustração vívida da responsabilidade humana inserida no escopo do pacto. A injunção \"suscita semente ao teu irmão\" exige de Onã uma negação de si mesmo. Ele é chamado a um ato de amor sacrifical: gerar um filho que herdará a porção dupla da primogenitura que, com a morte de Er, recairia naturalmente sobre ele (Onã). O levirato testava a obediência do indivíduo aos princípios pactuais de misericórdia (hesed) e justiça social contra o interesse próprio. Teologicamente, a preservação da zera' (semente) em Israel nunca foi meramente biológica; era escatológica. A semente transporta a promessa da redenção do mundo. Judá opera num nível administrativo e terreno, tentando salvar a sua dinastia num ambiente cananeu; todavia, a providência de Deus está a trabalhar magistralmente nos bastidores para purgar a iniquidade desta família e assegurar que a \"Semente\" prometida (Cristo) venha através de um remanescente purificado. A ordem foi dada, o palco do dever está montado, mas o próximo versículo revelará o profundo egoísmo e a depravação do coração de Onã."
+      }
+    ]
+  },
+  {
+    "numero": 9,
+    "palavras": [
+      {
+        "hebraico": "וַיֵּדַע",
+        "transliteracao": "wayyēda' - \"E soube / E conheceu\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal יָדַע (yada'). Conjugação Qal, tempo imperfeito narrativo (wayyiqtol), 3a pessoa do masculino singular.\n\nDica didática: A raiz original começa com Yod (verbo Pe-Yod). No imperfeito da conjugação Qal, o Yod inicial cai e a vogal da preformativa torna-se um Tsere (som de \"ê\"), resultando na forma yēda'. A consoante final Ayin (uma gutural) força a vogal anterior a tornar-se um patakh (som de \"a\").",
+        "exegese": "Exegese/Teologia: O verbo yada' no NDITEAT transcende o mero conhecimento intelectual; implica uma perceção profunda, íntima e experiencial. Onã compreendeu plenamente as implicações legais, económicas e pactuais da ordem do seu pai. A sua ação subsequente não será fruto de ignorância, mas de uma rebelião calculada.",
+        "teologia": "Exegese/Teologia: O verbo yada' no NDITEAT transcende o mero conhecimento intelectual; implica uma perceção profunda, íntima e experiencial. Onã compreendeu plenamente as implicações legais, económicas e pactuais da ordem do seu pai. A sua ação subsequente não será fruto de ignorância, mas de uma rebelião calculada."
+      },
+      {
+        "hebraico": "אוֹנָן",
+        "transliteracao": "ônān – \"Onã\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular. Sujeito do verbo yada'.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "כִּי",
+        "transliteracao": "kî - \"que / porque\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção subordinativa. Introduz a oração completiva que explica o que Onã sabia.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "לֹא",
+        "transliteracao": "lō' - \"não para ele / não sua\"",
+        "morfossintaxe": "Morfossintaxe: Partícula de negação lō' + preposição le (\"para\") com sufixo pronominal de 3ª pessoa do masculino singular (i).",
+        "exegese": "Exegese/Teologia: Este é o cerne da motivação pecaminosa de Onã. A lei do levirato ditava que o primeiro filho nascido pertenceria legalmente ao irmão falecido. Onã percebe que ceder a sua semente significaria abdicar da herança duplicada (o direito de primogenitura) que lhe cairia nas mãos com a morte definitiva da linhagem de Er.",
+        "teologia": "Exegese/Teologia: Este é o cerne da motivação pecaminosa de Onã. A lei do levirato ditava que o primeiro filho nascido pertenceria legalmente ao irmão falecido. Onã percebe que ceder a sua semente significaria abdicar da herança duplicada (o direito de primogenitura) que lhe cairia nas mãos com a morte definitiva da linhagem de Er."
+      },
+      {
+        "hebraico": "יִהְיֶה",
+        "transliteracao": "yihyeh - \"seria\"",
+        "morfossintaxe": "Morfossintaxe: Raiz verbal הָיָה (hayah). Conjugação Qal, tempo imperfeito, 3ª pessoa do masculino singular.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "הַזֶּרַע",
+        "transliteracao": "hazzera' - \"a descendência / a semente\"",
+        "morfossintaxe": "Morfossintaxe: Artigo definido (ha) + substantivo comum masculino singular (zera'). A consoante Zayin recebe um dagesh forte devido à assimilação da letra da preposição/artigo.",
+        "exegese": "Exegese/Teologia: O conceito de zera' (semente), como delineado pelo NDITEAT, é o fio condutor da promessa pactual. Para Onã, a zera' era apenas uma questão de capital económico e estatuto tribal. A perspetiva mundana cega-o para o valor teológico da linhagem que transporta a promessa redentora de Yahweh.",
+        "teologia": "Exegese/Teologia: O conceito de zera' (semente), como delineado pelo NDITEAT, é o fio condutor da promessa pactual. Para Onã, a zera' era apenas uma questão de capital económico e estatuto tribal. A perspetiva mundana cega-o para o valor teológico da linhagem que transporta a promessa redentora de Yahweh."
+      },
+      {
+        "hebraico": "וְהָיָה",
+        "transliteracao": "wəhāyāh - \"e acontecia que\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw + verbo היה (hayah). Conjugação Qal, tempo perfeito, 3ª pessoa do masculino singular.\n\nDica didática: O waw ligado ao perfeito inverte o seu sentido para o futuro, mas no contexto de uma narrativa passada introduzida por 'im (se/quando), expressa uma ação frequentativa ou iterativa no passado: \"sempre que\" ou \"repetidas vezes acontecia que\". O pecado de Onã não foi um evento isolado, mas uma prática contínua e deliberada.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "אִם־בָּא",
+        "transliteracao": "'im-bā' - \"quando entrava\"",
+        "morfossintaxe": "Morfossintaxe: Partícula condicional/temporal ('im) + verbo (bo' - \"entrar\") na conjugação Qal, perfeito, 3ª pessoa do masculino singular. Refere-se à coabitação sexual.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "אֶל־אֵשֶׁת אָחִיו",
+        "transliteracao": "'el-'ēšet 'āḥîw - \"à mulher de seu irmão\"",
+        "morfossintaxe": "Morfossintaxe: Preposição direcional + substantivo em estado construto אֵשֶׁת (eshet, de ishah) + substantivo ('ach) com sufixo pronominal de 3ª pessoa do masculino singular.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "וְשִׁחֵת",
+        "transliteracao": "wəšiḥēt - \"ele destruía / ele derramava\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw + raiz verbal שָׁחַת (shahat). Conjugação Piel (intensiva/fativa), tempo perfeito, 3ª pessoa do masculino singular.\n\nDica didática: O verbo na conjugação Piel intensifica a ação. A raiz de שָׁחַת significa \"arruinar\", \"corromper\" ou \"destruir\" (é a mesma raiz usada em Gênesis 6 para descrever a \"corrupção\" da terra que levou ao dilúvio).",
+        "exegese": "Exegese/Teologia: O NDITEAT mostra que o uso do Piel de shachat denota uma ruína completa e deliberada. O texto não usa um verbo suave para \"derramar\". Onã estava literalmente \"a destruir\" a semente. O seu ato (historicamente chamado de coitus interruptus) não era primariamente uma questão de ética sexual isolada, mas um ato de destruição pactual: ele estava a tentar extinguir ativamente a casa do seu irmão.",
+        "teologia": "Exegese/Teologia: O NDITEAT mostra que o uso do Piel de shachat denota uma ruína completa e deliberada. O texto não usa um verbo suave para \"derramar\". Onã estava literalmente \"a destruir\" a semente. O seu ato (historicamente chamado de coitus interruptus) não era primariamente uma questão de ética sexual isolada, mas um ato de destruição pactual: ele estava a tentar extinguir ativamente a casa do seu irmão."
+      },
+      {
+        "hebraico": "אַרְצָה",
+        "transliteracao": "'arṣāh - \"na terra / no chão\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum feminino singular (eres - \"terra\") + sufixo direcional (chamado He local ou diretivo). O He no final com o som de \"a\" indica \"para a\" terra.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "לְבִלְתִּי",
+        "transliteracao": "ləbiltî - \"para não\"",
+        "morfossintaxe": "Morfossintaxe: Preposição inseparável (le) + partícula de negação בִּלְתִּי (bilti). Esta negação é usada especificamente para negar verbos no infinitivo construto.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "נְתָן־",
+        "transliteracao": "nətān- - \"dar\"",
+        "morfossintaxe": "Morfossintaxe: Raiz verbal natan. Conjugação Qal, infinitivo construto.\n\nDica didática: O verbo natan (dar) é um verbo Pe-Nun (começa por Nun). Embora o Nun inicial muitas vezes caia no imperfeito e noutras formas, no infinitivo construto ele por vezes mantém-se, como aqui, vocalizado com um shva.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "זֶרַע",
+        "transliteracao": "zera' - \"semente / descendência\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum, masculino singular. Objeto direto do infinitivo \"dar\".",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "לְאָחִיו",
+        "transliteracao": "lə'āḥîw - \"a seu irmão\"",
+        "morfossintaxe": "Morfossintaxe: Preposição + substantivo ('ach) com sufixo pronominal 3ms.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Comentário Teológico Integrado (Tradição Reformada): A teologia reformada sublinha a extensão da depravação humana (Depravação Total), e Gênesis 38:9 é um retrato contundente dessa doutrina. O pecado de Onã é multifacetado: é uma rutura da caridade fraterna (hesed), uma desobediência frontal à autoridade patriarcal, uma avareza económica extremada e, acima de tudo, uma afronta direta aos propósitos redentivos de Deus. Ao \"destruir\" a semente repetidamente, Onã usufruía dos privilégios do matrimónio (o prazer físico da união com Tamar) enquanto rejeitava veementemente as responsabilidades pactuais dessa mesma união. Ele queria os benefícios da carne, mas recusava-se a ser o instrumento através do qual a casa do seu irmão seria reerguida. Na visão do NDITEAT, o ato de reter ou destruir a \"semente\" (zera') num contexto de promessa é um atentado direto contra a providência divina que ordenou a perpetuação da linha santa. Onã opera sob a ilusão de autonomia, pensando que a manipulação biológica pode garantir-lhe os direitos de herança. Contudo, ao fazê-lo, comete um ato de \"destruição\" (shachat). Na cosmovisão reformada, o egoísmo extremo de Onã não frustra o plano de Deus para a linhagem de Cristo, mas atrai, de forma inevitável, a justiça retributiva divina, que se manifestará inequivocamente no versículo seguinte."
+      }
+    ]
+  },
+  {
+    "numero": 10,
+    "palavras": [
+      {
+        "hebraico": "וַיֵּרַע",
+        "transliteracao": "wayyēra' - \"E foi mau / E pareceu mal\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal רָעַע (ra'a'). Conjugação Qal, tempo imperfeito narrativo (wayyiqtol), 3a pessoa do masculino singular.\n\nDica didática: O verbo pertence a uma classe chamada de \"verbos geminados\" (Double-Ayin), pois a sua segunda e terceira consoantes da raiz são idênticas (duas letras Ayin). No imperfeito narrativo com waw consecutivo, o verbo contrai-se, perdendo uma das consoantes duplicadas, e a vogal da preformativa alarga-se para um Tsere (som de \"ê\").",
+        "exegese": "Exegese/Teologia: Enquanto no versículo 7 o texto dizia que Er \"era mau\" (usando o adjetivo ra'), aqui o texto usa o verbo ativo (literalmente, \"a coisa foi/soou má\"). O NDITEAT define a raiz verbal ra'a' não apenas como algo desagradável, mas como algo que quebra a harmonia, a ordem estipulada e a integridade da aliança. O ato de Onã foi uma agressão ativa à ordem redentiva.",
+        "teologia": "Exegese/Teologia: Enquanto no versículo 7 o texto dizia que Er \"era mau\" (usando o adjetivo ra'), aqui o texto usa o verbo ativo (literalmente, \"a coisa foi/soou má\"). O NDITEAT define a raiz verbal ra'a' não apenas como algo desagradável, mas como algo que quebra a harmonia, a ordem estipulada e a integridade da aliança. O ato de Onã foi uma agressão ativa à ordem redentiva."
+      },
+      {
+        "hebraico": "בְּעֵינֵי",
+        "transliteracao": "bə'ênê - \"aos olhos de\"",
+        "morfossintaxe": "Morfossintaxe: Preposição inseparável be (\"em\") + substantivo (olho) no estado construto.",
+        "exegese": "Exegese/Teologia: Tal como no caso de Er, a avaliação moral da atitude de Onã não é feita segundo os padrões pragmáticos da sociedade cananeia ou mesmo da tenda leniente de Judá. O escrutínio é inteiramente vertical. Aos olhos da sociedade, Onã estava apenas a proteger o seu património; aos \"olhos de Yahweh\", ele estava a cometer um ato de rebelião pactual.",
+        "teologia": "Exegese/Teologia: Tal como no caso de Er, a avaliação moral da atitude de Onã não é feita segundo os padrões pragmáticos da sociedade cananeia ou mesmo da tenda leniente de Judá. O escrutínio é inteiramente vertical. Aos olhos da sociedade, Onã estava apenas a proteger o seu património; aos \"olhos de Yahweh\", ele estava a cometer um ato de rebelião pactual."
+      },
+      {
+        "hebraico": "יהוה",
+        "transliteracao": "YHWH - \"o SENHOR\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio. O Tetragrama (o nome pactual de Deus).",
+        "exegese": "Exegese/Teologia: A segunda menção do nome pactual de Deus neste capítulo sublinha que Yahweh continua a ser o grande vigilante da linha messiânica. Ele não delegou o futuro da promessa à arbitrariedade humana.",
+        "teologia": "Exegese/Teologia: A segunda menção do nome pactual de Deus neste capítulo sublinha que Yahweh continua a ser o grande vigilante da linha messiânica. Ele não delegou o futuro da promessa à arbitrariedade humana."
+      },
+      {
+        "hebraico": "אֲשֶׁר",
+        "transliteracao": "'ăšer - \"o que / aquilo que\"",
+        "morfossintaxe": "Morfossintaxe: Pronome relativo hebraico.\n\nDica didática: O 'asher é uma das palavras mais comuns do hebraico, funcionando frequentemente como o nosso \"que\" ou \"o qual\". Aqui, engloba toda a ação contínua descrita no versículo 9 (a prática reiterada de destruir a semente).",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Informação não detalhada isoladamente na fonte."
+      },
+      {
+        "hebraico": "עָשָׂה",
+        "transliteracao": "'āśāh – \"ele fez\"",
+        "morfossintaxe": "Morfossintaxe: Raiz verbal asah. Conjugação Qal, tempo perfeito, 3ª pessoa do masculino singular.\n\nDica didática: Verbos que terminam em He (Lamed-He), como o 'asah, mantêm o He no tempo perfeito da 3ª pessoa do masculino singular, o que os torna muito fáceis de identificar no seu estado dicionarizado.",
+        "exegese": "Exegese/Teologia: O verbo 'asah (fazer/fabricar/executar) enfatiza a ação deliberada de Onã. A condenação não recaiu sobre ele por uma fatalidade, mas pela concretização das suas intenções (\"aquilo que ele fez\"). O egoísmo do seu coração materializou-se numa prática (o ato de derramar a semente no chão).",
+        "teologia": "Exegese/Teologia: O verbo 'asah (fazer/fabricar/executar) enfatiza a ação deliberada de Onã. A condenação não recaiu sobre ele por uma fatalidade, mas pela concretização das suas intenções (\"aquilo que ele fez\"). O egoísmo do seu coração materializou-se numa prática (o ato de derramar a semente no chão)."
+      },
+      {
+        "hebraico": "וַיָּמֶת",
+        "transliteracao": "wayyāmet - \"e o matou\" / \"e fê-lo morrer\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal מות (mut \"morrer\"). Conjugação Hifil (causativa/ativa), tempo imperfeito narrativo, 3ª pessoa do masculino singular.\n\nDica didática: No versículo 7 (com Er), vimos a forma waymītēhû (que incluía o sufixo \"o\" no próprio verbo). Aqui, temos o verbo isolado na sua forma Hifil apocopada (wayyāmet), com o objeto direto expresso na palavra seguinte. Sendo um verbo de raiz côncava, a letra do meio (Waw) desaparece nesta forma.",
+        "exegese": "Exegese/Teologia: O NDITEAT salienta que a raiz mut no Hifil atesta Deus como o executor da justiça letal. A punição de Onã é estritamente equivalente à sua ofensa (a clássica lex talionis teológica do AT): uma vez que ele \"destruiu\" a semente de forma contínua para evitar dar vida à casa do seu irmão, Deus retira a própria vida a Onã. Quem recusa a vocação de promover a vida na aliança perde o direito à sua própria vida perante o Autor da aliança.",
+        "teologia": "Exegese/Teologia: O NDITEAT salienta que a raiz mut no Hifil atesta Deus como o executor da justiça letal. A punição de Onã é estritamente equivalente à sua ofensa (a clássica lex talionis teológica do AT): uma vez que ele \"destruiu\" a semente de forma contínua para evitar dar vida à casa do seu irmão, Deus retira a própria vida a Onã. Quem recusa a vocação de promover a vida na aliança perde o direito à sua própria vida perante o Autor da aliança."
+      },
+      {
+        "hebraico": "גַּם־",
+        "transliteracao": "gam- - \"também\"",
+        "morfossintaxe": "Morfossintaxe: Advérbio de adição, ligado por maqqef à palavra seguinte.",
+        "exegese": "Exegese/Teologia: O \"também\" liga inevitavelmente o destino dos dois irmãos. Embora os seus pecados tenham tido manifestações externas diferentes (Er foi genericamente mau; Onã cometeu um pecado específico de omissão dissimulada de dever legal e avareza), ambos brotavam da mesma raiz de depravação inerente e de total desprezo por Yahweh. O \"também\" demonstra a coerência e a imparcialidade do julgamento divino.",
+        "teologia": "Exegese/Teologia: O \"também\" liga inevitavelmente o destino dos dois irmãos. Embora os seus pecados tenham tido manifestações externas diferentes (Er foi genericamente mau; Onã cometeu um pecado específico de omissão dissimulada de dever legal e avareza), ambos brotavam da mesma raiz de depravação inerente e de total desprezo por Yahweh. O \"também\" demonstra a coerência e a imparcialidade do julgamento divino."
+      },
+      {
+        "hebraico": "אֹתוֹ",
+        "transliteracao": "'ōtô - \"a ele\"",
+        "morfossintaxe": "Morfossintaxe: Partícula de objeto direto (et) + sufixo pronominal de 3ª pessoa do masculino singular (i). Refere-se a Onã.",
+        "exegese": "Informação não detalhada isoladamente na fonte.",
+        "teologia": "Comentário Teológico Integrado (Tradição Reformada): O versículo 10 sela um dos episódios mais severos de intervenção divina no livro de Gênesis. Para a tradição reformada, este texto é um testemunho cristalino contra qualquer tentativa de domesticar o caráter de Deus. Yahweh não tolera que as ordenanças da Sua aliança sejam tratadas com escárnio ou mercantilizadas em prol do interesse próprio e da ambição carnal. Onã tentou manipular a providência de Deus. Ele quis garantir a primogenitura por vias fraudulentas, fingindo obediência ao pai (pois entrava à sua cunhada) enquanto sabotava secretamente o fruto dessa obediência (destruindo a semente). A teologia reformada vê nisto uma ilustração perfeita da futilidade da hipocrisia humana: Onã pôde enganar o seu pai terreno, Judá, mas o que ele fez \"foi mau aos olhos de Yahweh\". Nada escapa à omnisciência de Deus. O facto de Deus ter matado \"também a ele\" reforça a tese teológica de que a eleição de Judá como tribo messiânica não era baseada no mérito da sua descendência biológica. Tanto Er quanto Onã eram, por natureza, \"filhos da ira\" (Efésios 2:3), exibindo a total depravação herdada. O juízo de morte sobre Onã não é apenas punitivo, é cirúrgico e protetor. Yahweh remove obstinadamente da árvore genealógica de Cristo os ramos mortos e infeciosos, limpando o caminho da redenção para que a semente não seja permanentemente corrompida. A providência soberana atua através da ira para garantir a salvação final do Seu povo."
+      }
+    ]
+  }
+]
