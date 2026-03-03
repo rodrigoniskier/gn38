@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-PT">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -36,6 +36,30 @@
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
 
+        /* Barra de Controlo para a Tradução */
+        .controls {
+            background-color: var(--azul-claro);
+            padding: 15px;
+            text-align: center;
+            border-bottom: 2px solid var(--azul-principal);
+        }
+
+        .controls label {
+            font-weight: bold;
+            color: var(--azul-escuro);
+            margin-right: 10px;
+        }
+
+        .controls select {
+            padding: 8px;
+            border-radius: 5px;
+            border: 1px solid var(--azul-principal);
+            font-size: 1rem;
+            color: var(--azul-escuro);
+            background-color: var(--branco);
+            cursor: pointer;
+        }
+
         /* Área Central do Texto */
         main {
             flex: 1;
@@ -67,7 +91,7 @@
         .hebrew-text {
             display: flex;
             flex-wrap: wrap;
-            flex-direction: row-reverse; /* Hebraico lê-se da direita para a esquerda */
+            flex-direction: row-reverse;
             justify-content: center;
             gap: 15px;
         }
@@ -100,11 +124,23 @@
             font-style: italic;
         }
 
+        /* Espaço onde a tradução vai aparecer */
+        .translation-text {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: var(--fundo-pagina);
+            border-left: 3px solid #ccc;
+            text-align: justify;
+            font-size: 1.1rem;
+            line-height: 1.5;
+            display: none; /* Escondido por padrão, aparece apenas se tiver texto */
+        }
+
         /* Menu Lateral (Sidebar) */
         #sidebar {
             position: fixed;
             top: 0;
-            right: -300px; /* Escondido por padrão */
+            right: -300px;
             width: 300px;
             height: 100%;
             background-color: var(--branco);
@@ -161,7 +197,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(0, 51, 102, 0.5); /* Fundo escuro azulado */
+            background-color: rgba(0, 51, 102, 0.5);
             display: none;
             justify-content: center;
             align-items: center;
@@ -206,8 +242,25 @@
         <p>Estudo Didático, Exegético e Teológico</p>
     </header>
 
+    <div class="controls">
+        <label for="seletor-versao">Tradução do Versículo:</label>
+        <select id="seletor-versao" onchange="mudarTraducao(this.value)">
+            <option value="">Ocultar Tradução</option>
+            <option value="ACF">Almeida Corrigida Fiel (ACF)</option>
+            <option value="NAA">Nova Almeida Atualizada (NAA)</option>
+            <option value="ARA">Almeida Revista e Atualizada (ARA)</option>
+            <option value="NVI (PT-BR)">Nova Versão Internacional (NVI)</option>
+            <option value="NTLH">Nova Tradução na Linguagem de Hoje (NTLH)</option>
+            <option value="KJA">King James Atualizada (KJA)</option>
+            <option value="VULGATA">Vulgata (Latim)</option>
+            <option value="LXX - Grego">Septuaginta (LXX - Grego)</option>
+            <option value="ASV - English">American Standard Version (ASV)</option>
+            <option value="NASB - English">New American Standard Bible (NASB)</option>
+        </select>
+    </div>
+
     <main id="text-container">
-        <p>Carregando os dados...</p>
+        <p>A carregar os dados...</p>
     </main>
 
     <aside id="sidebar">
@@ -232,28 +285,35 @@
     </div>
 
     <script>
-        // Variável para guardar a palavra que o usuário clicou atualmente
         let palavraAtualSelecionada = null;
+        
+        // Memória para guardar as traduções carregadas
+        let dadosDasTraducoes = {};
 
         // Função principal que inicia o aplicativo
         async function carregarDados() {
             try {
-                // Aqui estamos preparando para carregar o arquivo JSON que faremos a seguir.
-                // Como ainda não temos o arquivo, vou deixar a estrutura pronta.
-                const response = await fetch('genesis38_1_10.json');
-                
-                if (!response.ok) {
-                    throw new Error("Arquivo JSON não encontrado. (Certifique-se de criar o arquivo no próximo passo!)");
+                // 1. Carregar as Análises Hebraicas (Versos 1-10)
+                const responseVersos = await fetch('genesis38_1_10.json');
+                if (!responseVersos.ok) throw new Error("Ficheiro genesis38_1_10.json não encontrado.");
+                const versiculos = await responseVersos.json();
+
+                // 2. Carregar as Traduções (30 versos)
+                const responseTraducoes = await fetch('genesis38_traducoes.json');
+                if (responseTraducoes.ok) {
+                    dadosDasTraducoes = await responseTraducoes.json();
+                } else {
+                    console.warn("Ficheiro genesis38_traducoes.json não encontrado. Traduções não estarão disponíveis.");
                 }
 
-                const versiculos = await response.json();
+                // 3. Desenhar a interface
                 renderizarVersiculos(versiculos);
 
             } catch (error) {
                 document.getElementById('text-container').innerHTML = `
                     <div style="color: red; padding: 20px;">
                         <strong>Aviso:</strong> ${error.message} <br><br>
-                        <em>Quando criarmos e salvarmos o arquivo <b>genesis38_1_10.json</b> na mesma pasta, o texto aparecerá aqui.</em>
+                        <em>Certifique-se de que está a correr os ficheiros num servidor local se o navegador bloquear o acesso aos JSONs.</em>
                     </div>`;
             }
         }
@@ -261,72 +321,93 @@
         // Função para desenhar o texto na tela
         function renderizarVersiculos(versiculos) {
             const container = document.getElementById('text-container');
-            container.innerHTML = ''; // Limpa o "Carregando..."
+            container.innerHTML = ''; 
 
             versiculos.forEach(verso => {
-                // Cria a caixa do versículo
                 const divVerso = document.createElement('div');
                 divVerso.className = 'verse-container';
+                // Adicionamos um identificador (ID) à caixa para saber que versículo é
+                divVerso.id = `caixa-verso-${verso.numero}`;
 
-                // Adiciona o número do versículo
                 const numVerso = document.createElement('span');
                 numVerso.className = 'verse-number';
                 numVerso.textContent = `Gênesis 38:${verso.numero}`;
                 divVerso.appendChild(numVerso);
 
-                // Container para as palavras (da direita para a esquerda)
                 const divPalavras = document.createElement('div');
                 divPalavras.className = 'hebrew-text';
 
-                // Passa por cada palavra do JSON e cria o HTML dela
                 verso.palavras.forEach(palavra => {
                     const divPalavra = document.createElement('div');
                     divPalavra.className = 'word-box';
-                    
-                    // Quando clicar na palavra, abre o menu lateral passando os dados dela
                     divPalavra.onclick = () => abrirSidebar(palavra);
 
-                    // Cria o texto em hebraico
                     const spanHebraico = document.createElement('span');
                     spanHebraico.className = 'hebrew-word';
                     spanHebraico.textContent = palavra.hebraico;
 
-                    // Cria a transliteração em português
                     const spanTransliteracao = document.createElement('span');
                     spanTransliteracao.className = 'transliteration';
                     spanTransliteracao.textContent = palavra.transliteracao;
 
-                    // Junta tudo
                     divPalavra.appendChild(spanHebraico);
                     divPalavra.appendChild(spanTransliteracao);
                     divPalavras.appendChild(divPalavra);
                 });
 
                 divVerso.appendChild(divPalavras);
+
+                // NOVIDADE: A "Gaveta" da Tradução!
+                // Criamos um parágrafo que ficará escondido debaixo das palavras
+                const pTraducao = document.createElement('p');
+                pTraducao.id = `traducao-verso-${verso.numero}`;
+                pTraducao.className = 'translation-text';
+                divVerso.appendChild(pTraducao);
+
                 container.appendChild(divVerso);
             });
         }
 
-        // Abre o menu lateral com as informações da palavra clicada
+        // NOVIDADE: A função que preenche as traduções
+        function mudarTraducao(versaoEscolhida) {
+            // Contamos quantas caixas de versículos estão desenhadas na tela
+            const caixasDesenhadas = document.querySelectorAll('.verse-container').length;
+
+            // Para cada versículo na tela, procuramos a sua tradução no JSON
+            for (let i = 1; i <= caixasDesenhadas; i++) {
+                let gaveta = document.getElementById(`traducao-verso-${i}`);
+                
+                if (gaveta) {
+                    // Se escolheu uma versão válida e essa versão tem o versículo i...
+                    if (versaoEscolhida && dadosDasTraducoes[versaoEscolhida] && dadosDasTraducoes[versaoEscolhida][i]) {
+                        // Coloca o texto lá e torna visível
+                        gaveta.innerText = dadosDasTraducoes[versaoEscolhida][i];
+                        gaveta.style.display = 'block';
+                    } else {
+                        // Se escolheu "Ocultar" ou deu algum erro, limpa e esconde
+                        gaveta.innerText = '';
+                        gaveta.style.display = 'none';
+                    }
+                }
+            }
+        }
+
+        // Funções da Sidebar e Modal (mantiveram-se iguais)
         function abrirSidebar(dadosDaPalavra) {
-            palavraAtualSelecionada = dadosDaPalavra; // Salva na memória
+            palavraAtualSelecionada = dadosDaPalavra; 
             document.getElementById('sidebar-word-title').textContent = dadosDaPalavra.hebraico;
             document.getElementById('sidebar').classList.add('open');
         }
 
-        // Fecha o menu lateral
         function fecharSidebar() {
             document.getElementById('sidebar').classList.remove('open');
         }
 
-        // Abre a caixa de pop-up (Modal) de acordo com o botão clicado
         function abrirModal(tipo) {
             if (!palavraAtualSelecionada) return;
-
             const tituloModal = document.getElementById('modal-title');
             const corpoModal = document.getElementById('modal-body');
 
-            // Define o título e o conteúdo com base no que foi clicado
             tituloModal.textContent = tipo + " - " + palavraAtualSelecionada.hebraico;
 
             if (tipo === 'Morfossintaxe') {
@@ -336,27 +417,21 @@
             } else if (tipo === 'Teologia') {
                 corpoModal.innerHTML = formatarTexto(palavraAtualSelecionada.teologia);
             }
-
-            // Mostra o modal na tela
             document.getElementById('modal-overlay').style.display = 'flex';
         }
 
-        // Fecha a caixa de pop-up
         function fecharModal(event) {
-            // Só fecha se clicou no botão "X" ou fora da caixa branca
             if (event.target.id === 'modal-overlay' || event.target.id === 'modal-close') {
                 document.getElementById('modal-overlay').style.display = 'none';
             }
         }
 
-        // Função simples para transformar quebras de linha em <br> para HTML
         function formatarTexto(texto) {
             if (!texto) return "<p>Informação não disponível.</p>";
-            // Substitui quebras de linha normais por tags parágrafo
             return "<p>" + texto.replace(/\n/g, "<br>") + "</p>";
         }
 
-        // Inicia o programa assim que a página terminar de carregar
+        // Inicia o programa
         window.onload = carregarDados;
     </script>
 </body>
