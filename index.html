@@ -293,12 +293,41 @@
         // Função principal que inicia o aplicativo
         async function carregarDados() {
             try {
-                // 1. Carregar as Análises Hebraicas (Versos 1-10)
-                const responseVersos = await fetch('genesis38_1_10.json');
-                if (!responseVersos.ok) throw new Error("Ficheiro genesis38_1_10.json não encontrado.");
-                const versiculos = await responseVersos.json();
+                let todosOsVersiculos = []; // Lista mestre para guardar todos os versículos
 
-                // 2. Carregar as Traduções (30 versos)
+                // 1. Tentar carregar a Parte 1 (Versos 1-10)
+                const responseParte1 = await fetch('genesis38_1_10.json');
+                if (responseParte1.ok) {
+                    const dadosParte1 = await responseParte1.json();
+                    todosOsVersiculos = todosOsVersiculos.concat(dadosParte1); // Junta à lista mestre
+                } else {
+                    console.warn("Ficheiro genesis38_1_10.json não encontrado.");
+                }
+
+                // 2. Tentar carregar a Parte 2 (Versos 11-20)
+                const responseParte2 = await fetch('genesis38_11_20.json');
+                if (responseParte2.ok) {
+                    const dadosParte2 = await responseParte2.json();
+                    todosOsVersiculos = todosOsVersiculos.concat(dadosParte2); // Junta à lista mestre
+                } else {
+                    console.warn("Ficheiro genesis38_11_20.json não encontrado.");
+                }
+
+                // 3. Tentar carregar a Parte 3 (Versos 21-30) - Preparado para o futuro!
+                const responseParte3 = await fetch('genesis38_21_30.json');
+                if (responseParte3.ok) {
+                    const dadosParte3 = await responseParte3.json();
+                    todosOsVersiculos = todosOsVersiculos.concat(dadosParte3); // Junta à lista mestre
+                } else {
+                    console.info("Ficheiro genesis38_21_30.json ainda não está disponível (normal).");
+                }
+
+                // Se a lista continuar vazia, significa que não carregou nenhum ficheiro
+                if (todosOsVersiculos.length === 0) {
+                    throw new Error("Não foi possível carregar nenhum ficheiro de versículos.");
+                }
+
+                // 4. Carregar as Traduções
                 const responseTraducoes = await fetch('genesis38_traducoes.json');
                 if (responseTraducoes.ok) {
                     dadosDasTraducoes = await responseTraducoes.json();
@@ -306,8 +335,8 @@
                     console.warn("Ficheiro genesis38_traducoes.json não encontrado. Traduções não estarão disponíveis.");
                 }
 
-                // 3. Desenhar a interface
-                renderizarVersiculos(versiculos);
+                // 5. Desenhar a interface com todos os versículos reunidos
+                renderizarVersiculos(todosOsVersiculos);
 
             } catch (error) {
                 document.getElementById('text-container').innerHTML = `
@@ -357,8 +386,7 @@
 
                 divVerso.appendChild(divPalavras);
 
-                // NOVIDADE: A "Gaveta" da Tradução!
-                // Criamos um parágrafo que ficará escondido debaixo das palavras
+                // A "Gaveta" da Tradução!
                 const pTraducao = document.createElement('p');
                 pTraducao.id = `traducao-verso-${verso.numero}`;
                 pTraducao.className = 'translation-text';
@@ -368,31 +396,32 @@
             });
         }
 
-        // NOVIDADE: A função que preenche as traduções
+        // Função que preenche as traduções de forma inteligente
         function mudarTraducao(versaoEscolhida) {
-            // Contamos quantas caixas de versículos estão desenhadas na tela
-            const caixasDesenhadas = document.querySelectorAll('.verse-container').length;
+            // Pegamos em todas as caixas de versículos que existem no ecrã
+            const caixas = document.querySelectorAll('.verse-container');
 
-            // Para cada versículo na tela, procuramos a sua tradução no JSON
-            for (let i = 1; i <= caixasDesenhadas; i++) {
-                let gaveta = document.getElementById(`traducao-verso-${i}`);
+            caixas.forEach(caixa => {
+                // O ID da caixa é "caixa-verso-X". Vamos extrair o "X" (o número do versículo)
+                const numeroVerso = caixa.id.split('-')[2]; 
+                let gaveta = document.getElementById(`traducao-verso-${numeroVerso}`);
                 
                 if (gaveta) {
-                    // Se escolheu uma versão válida e essa versão tem o versículo i...
-                    if (versaoEscolhida && dadosDasTraducoes[versaoEscolhida] && dadosDasTraducoes[versaoEscolhida][i]) {
+                    // Se escolheu uma versão válida e essa versão tem o versículo específico...
+                    if (versaoEscolhida && dadosDasTraducoes[versaoEscolhida] && dadosDasTraducoes[versaoEscolhida][numeroVerso]) {
                         // Coloca o texto lá e torna visível
-                        gaveta.innerText = dadosDasTraducoes[versaoEscolhida][i];
+                        gaveta.innerText = dadosDasTraducoes[versaoEscolhida][numeroVerso];
                         gaveta.style.display = 'block';
                     } else {
-                        // Se escolheu "Ocultar" ou deu algum erro, limpa e esconde
+                        // Se escolheu "Ocultar", deu algum erro ou a tradução não existe, limpa e esconde
                         gaveta.innerText = '';
                         gaveta.style.display = 'none';
                     }
                 }
-            }
+            });
         }
 
-        // Funções da Sidebar e Modal (mantiveram-se iguais)
+        // Funções da Sidebar e Modal
         function abrirSidebar(dadosDaPalavra) {
             palavraAtualSelecionada = dadosDaPalavra; 
             document.getElementById('sidebar-word-title').textContent = dadosDaPalavra.hebraico;
