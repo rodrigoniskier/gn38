@@ -1,0 +1,516 @@
+[
+  {
+    "numero": 11,
+    "palavras": [
+      {
+        "hebraico": "וַיֹּאמֶר",
+        "transliteracao": "wayyōmer - \"E disse\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal (āmar). Qal, imperfeito narrativo (wayyiqtol), 3ª pessoa do masculino singular.[web:15]\n\nDica didática: Verbos Pe-Alef em wayyiqtol frequentemente mostram Alef quiescente e vogal ô (Holem) na sílaba inicial (yō-), resultando em wayyōmer em vez de *wayyamar*.",
+        "exegese": "Exegese: O verbo de fala introduz um ato decisivo de autoridade patriarcal. A seguir ao juízo de Deus sobre Er e Onã, a palavra de Judá molda o futuro de Tamar e da própria linhagem de Judá: é uma fala que revela medo, não fé.",
+        "teologia": "Teologia reformada: A fala de Judá não é palavra de fé nas promessas da aliança, mas reação pragmática à disciplina divina. Em vez de ler os juízos de Yahweh como chamado ao arrependimento, ele tenta gerir o risco afastando Tamar, expondo um coração que interpreta a providência em chave horizontal, não pactual."
+      },
+      {
+        "hebraico": "יְהוּדָה",
+        "transliteracao": "yəhûdāh - \"Judá\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio, masculino singular; sujeito do verbo \"disse\".[web:12]",
+        "exegese": "Exegese: O foco volta-se de Onã para Judá, o verdadeiro protagonista teológico do capítulo. A forma como ele lida com Tamar após duas mortes na casa expõe seu caráter e prepara o contraste com sua futura confissão em 38:26.",
+        "teologia": "Teologia: Como patriarca, Judá é cabeça representativa; suas decisões afetam toda a casa. A tradição reformada sublinha a responsabilidade federal: o pecado e a incredulidade do cabeça colocam a descendência sob disciplina severa, mas é também por meio da humilhação desse cabeça que Deus preserva a linhagem messiânica."
+      },
+      {
+        "hebraico": "לְתָמָר",
+        "transliteracao": "ləTāmār - \"a Tamar\"",
+        "morfossintaxe": "Morfossintaxe: Preposição inseparável לְ (le, \"a/para\") + nome próprio feminino singular תָּמָר (Tamar), objeto indireto do verbo \"disse\".[web:12]",
+        "exegese": "Exegese: A menção de Tamar logo após a fala de Judá mantém-na no centro da cena. Ela não é mero elemento secundário, mas o ponto onde convergem a responsabilidade patriarcal de Judá, a lei do levirato e a tensão da promessa de semente.",
+        "teologia": "Teologia: Tamar representa a viúva vulnerável dentro da comunidade pactual. A forma como Judá a trata torna-se teste de sua fidelidade à justiça social da aliança; o abandono que ela sofrerá legitima, na narrativa, a sua ousadia posterior em buscar justiça por meios inesperados."
+      },
+      {
+        "hebraico": "כַּלָּתוֹ",
+        "transliteracao": "kallātô - \"sua nora\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum feminino singular כַּלָּה (kallāh, \"nora / noiva\") + sufixo pronominal de 3ª pessoa masc. sing. (ô, \"dele\"). Estado absoluto, funcionando como aposto de Tamar.[web:15]\n\nDica didática: O dagesh forte em לָּ indica geminação característica da forma כַּלָּה; o sufixo -ô alonga a vogal final.",
+        "exegese": "Exegese: O texto sublinha o laço jurídico entre Judá e Tamar: ela não é apenas \"viúva de Er\", mas continua \"sua nora\". Isso torna moralmente perverso o abandono que se seguirá, pois ele negligencia uma obrigação familiar direta.",
+        "teologia": "Teologia: A categoria de \"nora\" envolve responsabilidade de cuidado dentro da casa pactual. Sob a ótica reformada, negar justiça à nora-viúva é violar o ethos da Torá que posteriormente protegerá a órfã, a viúva e o estrangeiro; Judá age abaixo da ética que a própria aliança irá formalizar."
+      },
+      {
+        "hebraico": "שְׁבִי",
+        "transliteracao": "šəvî - \"permanece / senta-te\"",
+        "morfossintaxe": "Morfossintaxe: Imperativo feminino singular da raiz יָשַׁב (yāšav, \"sentar, habitar\"), com vogal reduzida šə- e desinência -î marcando o feminino.[web:12]",
+        "exegese": "Exegese: O imperativo coloca Tamar numa posição passiva e estática. Ela é instruída não a agir em busca de solução para o seu estado de viuvez, mas a aguardar, dependente da promessa de Judá.",
+        "teologia": "Teologia: A ordem \"permanece\" revela um paternalismo que não se traduz em verdadeiro cuidado; Judá manda esperar sem intenção sincera de cumprir a palavra. Na perspectiva reformada, promessas humanas não cumpridas espelham a falsidade do coração não regenerado em contraste com a fidelidade absoluta das promessas divinas."
+      },
+      {
+        "hebraico": "אַלְמָנָה",
+        "transliteracao": "’almānāh - \"viúva\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo comum feminino singular, em função predicativa após o imperativo: \"permanece como viúva\".[web:12]",
+        "exegese": "Exegese: Tamar é formalmente colocada no status de viúva, embora, no contexto do levirato, ainda exista obrigação de suscitar descendência para Er. A ordenança de Judá congela esse processo, transformando a viuvez em estado indefinido.",
+        "teologia": "Teologia: A viúva é figura teologicamente carregada: objeto de cuidado especial de Yahweh. Tornar alguém viúva \"de prazo indefinido\" sem proteção efetiva é, na ética pactual, germe de opressão; a narrativa prepara a reivindicação que Tamar fará mais adiante em nome da justiça."
+      },
+      {
+        "hebraico": "בֵית־אָבִיךְ",
+        "transliteracao": "bēt-’āvîk - \"na casa de teu pai\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo בַּיִת (bayit, \"casa\") no estado construto abreviado בֵּית + substantivo אָב (’āv, \"pai\") com sufixo pronominal 2ª pessoa masc. sing. (k). Unido por maqqef. Complemento locativo da ordem \"permanece\".[web:12]",
+        "exegese": "Exegese: Em vez de manter Tamar sob proteção em sua própria casa, Judá devolve a nora ao núcleo de origem. Isso, na prática, suspende o exercício do levirato, deixando-a socialmente estigmatizada e economicamente vulnerável.",
+        "teologia": "Teologia: A atitude de \"mandar de volta\" desloca o ônus da responsabilidade. Na leitura reformada, Judá externaliza um problema pactual que lhe compete, ilustrando o pecado de omissão: ele prefere preservar sua própria segurança emocional e familiar a assumir o custo da justiça da aliança."
+      },
+      {
+        "hebraico": "עַד־יִגְדַּל",
+        "transliteracao": "‘ad-yigdal - \"até que cresça\"",
+        "morfossintaxe": "Morfossintaxe: Preposição עַד (’ad, \"até\") + verbo גָּדַל (gādal, \"crescer, tornar-se grande\") no Qal, imperfeito 3ª masc. sing., ligado por maqqef.[web:15]",
+        "exegese": "Exegese: A cláusula \"até que\" cria a aparência de prazo definido para a espera de Tamar, mas o narrador logo revelará que essa promessa é apenas pretexto. A fórmula temporal funciona como máscara narrativa para o medo incrédulo de Judá.",
+        "teologia": "Teologia: A promessa condicionada não nasce da fé em Deus, mas do cálculo: Judá projeta um futuro em que supostamente poderá resolver o problema sem risco. A teologia reformada destaca aqui o contraste entre promessas humanas condicionais e a promessa incondicional de Deus quanto à semente."
+      },
+      {
+        "hebraico": "שֵׁלָה בְנִי",
+        "transliteracao": "Šēlāh bənî - \"Selá, meu filho\"",
+        "morfossintaxe": "Morfossintaxe: Nome próprio masculino singular שֵׁלָה (Šēlāh) + substantivo בֵּן (ben, \"filho\") com sufixo pronominal 1ª pessoa comutado para forma construta בְּנִי (bənî, \"meu filho\").[web:12]",
+        "exegese": "Exegese: A repetição do nome Selá reativa a ironia de 38:5: aquele que foi \"retirado\" ou \"retido\" volta à cena como promessa adiada. O acréscimo \"meu filho\" sublinha o apego possessivo de Judá a Selá, o que explica seu receio de perdê-lo.",
+        "teologia": "Teologia: Judá protege o \"meu filho\" mais jovem em detrimento da justiça devida à viúva, revelando parcialidade condenada posteriormente na lei. A preferência carnal pelo filho biológico acima da fidelidade ao pacto ilustra o conflito entre laços naturais e compromisso pactual."
+      },
+      {
+        "hebraico": "כִּי אָמַר",
+        "transliteracao": "kî ’āmar - \"pois ele dizia\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção causal כִּי (kî, \"pois/porque\") + verbo אָמַר (’āmar, \"dizer\") no Qal, perfeito 3ª masc. sing., funcionando como discurso interior de Judá.[web:12]",
+        "exegese": "Exegese: A frase abre a janela para o raciocínio oculto de Judá: o narrador distingue entre o que ele fala a Tamar e o que realmente pensa. Essa duplicidade é chave para entender a injustiça cometida contra ela.",
+        "teologia": "Teologia: A revelação do \"discurso interior\" ressalta a distância entre a aparência religiosa e a disposição real do coração. A tradição reformada enfatiza que o juízo divino atinge não apenas atos externos, mas os pensamentos e intenções, aqui expostos pelo narrador inspirado."
+      },
+      {
+        "hebraico": "פֶּן־יָמוּת גַּם־הוּא כְּאֶחָיו",
+        "transliteracao": "pen-yāmût gam-hû’ kə’eḥāyw - \"para que não morra também ele, como seus irmãos\"",
+        "morfossintaxe": "Morfossintaxe: Partícula preventiva פֶּן (pen, \"para que não\") + verbo מוּת (mût, \"morrer\") no Qal, imperfeito 3ª masc. sing. יָמוּת + advérbio גַּם (gam, \"também\") + pronome pessoal הוּא (hû’, \"ele\") + preposição כְּ (kə, \"como\") + substantivo אֲחִים (’aḥîm, \"irmãos\") no plural com sufixo pronominal 3ª masc. sing. (āyw, \"seus\").[web:12]",
+        "exegese": "Exegese: Judá interpreta a morte de Er e Onã como um padrão ligado à união com Tamar, em vez de reconhecer o juízo de Yahweh contra a maldade deles. Ele atribui o perigo à nora, não ao pecado da sua casa.",
+        "teologia": "Teologia: Esta leitura distorcida da providência é exemplo de superstição: confunde a causa teológica (o juízo de Deus sobre o pecado) com um suposto \"azar\" ligado à viúva. A teologia reformada denuncia aqui a cegueira espiritual que recusa ver a própria culpa e transfere a responsabilidade para o inocente."
+      },
+      {
+        "hebraico": "וַתֵּלֶךְ תָּמָר",
+        "transliteracao": "wattēleḵ Tāmār - \"Então Tamar foi\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz verbal הָלַךְ (hālak, \"ir, andar\") em Qal, imperfeito narrativo 3ª fem. sing. וַתֵּלֶךְ (wattēleḵ) + sujeito feminino próprio תָּמָר (Tamar).[web:12]",
+        "exegese": "Exegese: Tamar obedece à ordem de Judá, demonstrando submissão ao arranjo patriarcal mesmo quando este é injusto. O narrador nada indica de rebeldia neste momento, o que tornará ainda mais contundente sua ação futura, quando a paciência se vê esgotada pela negligência de Judá.",
+        "teologia": "Teologia: A obediência inicial de Tamar ressalta que sua posterior estratégia não nasce de espírito anárquico, mas de busca de justiça após prolongada espera frustrada. A tradição reformada lê aqui a tensão entre submissão legítima e o direito de buscar reparação quando a liderança pactual se torna injusta."
+      },
+      {
+        "hebraico": "וַתֵּשֶׁב בֵּית אָבִיהָ",
+        "transliteracao": "wattēšev bêt ’āvihā - \"e habitou na casa de seu pai\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo יָשַׁב (yāšav, \"habitar\") em Qal, imperfeito narrativo 3ª fem. sing. וַתֵּשֶׁב (wattēšev) + substantivo בֵּית (bēt, estado construto de \"casa\") + substantivo אָב (’āv, \"pai\") com sufixo pronominal 3ª fem. sing. הָ (hā, \"dela\").[web:12]",
+        "exegese": "Exegese: A frase descreve a situação prolongada de Tamar: uma viúva em casa paterna, formalmente ligada à casa de Judá, mas sem acesso às garantias do levirato. Ela fica em limbo social e jurídico, nem livre para casar, nem integrada na casa do sogro.",
+        "teologia": "Teologia: A imagem da viúva assentada na casa do pai, sem solução, evoca o tema da exclusão dentro da própria comunidade da fé. Na ótica reformada, Deus, que vê a aflição de tais \"Tamares\" na história, intervém soberanamente — aqui, usando a própria Tamar para corrigir a injustiça de Judá e preservar a linha messiânica."
+      }
+    ]
+  },
+  {
+    "numero": 12,
+    "palavras": [
+      {
+        "hebraico": "וַיִּרְבּוּ הַיָּמִים",
+        "transliteracao": "wayyirbû hayyāmîm - \"E multiplicaram-se os dias\" / \"Passou muito tempo\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo רָבָה (rābāh, \"ser muitos, multiplicar-se\") no Qal, imperfeito narrativo 3ª masc. pl. וַיִּרְבּוּ (wayyirbû) + substantivo definido plural הַיָּמִים (hayyāmîm, \"os dias\").[web:13]\n\nDica didática: O dagesh em יּ marca a assimilação da consoante do waw consecutivo; a terminação -û indica plural masculino verbal.",
+        "exegese": "Exegese: A expressão idiomática aponta para um intervalo temporal longo entre o envio de Tamar à casa paterna e a próxima virada de cenário. O silêncio da narrativa nesse período sublinha a prolongada espera de Tamar e a inércia de Judá em cumprir sua palavra.",
+        "teologia": "Teologia: O alongar dos dias sem solução visível ilustra o tempo da provação na providência de Deus. Na tradição reformada, tais interlúdios enfatizam que o relógio de Deus não falha: a demora humana prepara o palco para uma intervenção que evidenciará graça e juízo."
+      },
+      {
+        "hebraico": "וַתָּמׇת בַּת־שׁוּעַ אֵשֶׁת־יְהוּדָה",
+        "transliteracao": "wattāmat bat-Šûa‘ ’ēšet-Yəhûdāh - \"e morreu a filha de Sua, mulher de Judá\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo מוּת (mût, \"morrer\") no Qal, imperfeito narrativo 3ª fem. sing. וַתָּמׇת (wattāmat) + expressão em estado construto בַּת־שׁוּעַ (bat-Šûa‘, \"filha de Sua\") + substantivo אֵשֶׁת (’ēšet, forma construta de ’iššāh, \"esposa de\") + nome próprio יְהוּדָה (Yəhûdāh).[web:16]",
+        "exegese": "Exegese: A morte da esposa cananeia de Judá remove um obstáculo narrativo para os acontecimentos seguintes. Ao mesmo tempo, encerra o ciclo da união mista que deu origem a Er, Onã e Selá.",
+        "teologia": "Teologia: A viúva agora não é apenas Tamar: Judá torna-se viúvo também. A providência nivela as experiências, e abre espaço para tratar o patriarca em sua própria dor, preparando a humilhação que o conduzirá do engano à confissão."
+      },
+      {
+        "hebraico": "וַיִּנָּחֶם יְהוּדָה",
+        "transliteracao": "wayyinnāḥem Yəhûdāh - \"e Judá foi consolado\" / \"e Judá se consolou\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo נָחַם (nāḥam, \"consolar-se, ser consolado\") em Nifal, imperfeito narrativo 3ª masc. sing. וַיִּנָּחֶם (wayyinnāḥem) + sujeito יְהוּדָה.[web:16]",
+        "exegese": "Exegese: O verbo descreve o processo de luto completo e posterior retorno à rotina. Judá passa da dor à normalização, o que justifica sua viagem à tosquia de ovelhas, típica ocasião festiva no calendário agro-pastoril.",
+        "teologia": "Teologia: A linguagem do consolo pós-luto mostra que mesmo em famílias moralmente comprometidas Deus concede misericórdias comuns, como a capacidade de se recompor. No entanto, esse consolo não implica reconciliação espiritual; Judá continua sem ler corretamente os juízos de Deus sobre sua casa."
+      },
+      {
+        "hebraico": "וַיַּעַל",
+        "transliteracao": "wayya‘al - \"e subiu\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo עָלָה (‘ālāh, \"subir\") em Qal, imperfeito narrativo 3ª masc. sing. וַיַּעַל (wayya‘al).[web:16]",
+        "exegese": "Exegese: O movimento geográfico de \"subir\" a Timna marca nova etapa na trama. O deslocamento físico de Judá prepara o encontro providencial com Tamar, que ouvirá falar desta subida.",
+        "teologia": "Teologia: O verbo de subida, tão frequente para peregrinações cultuais, aqui descreve uma viagem aparentemente comum de negócios. A teologia reformada nota como Deus governa tanto \"subidas litúrgicas\" quanto viagens ordinárias para alinhar eventos à Sua finalidade redentiva."
+      },
+      {
+        "hebraico": "עַל־גֹּזְזֵי צֹאנוֹ",
+        "transliteracao": "‘al-gōzzē ṣō’nô - \"para junto dos tosquiadores do seu rebanho\"",
+        "morfossintaxe": "Morfossintaxe: Preposição עַל (‘al, \"sobre, para junto de\") + particípio plural masculino גֹּזְזֵי (gōzzē, de גָּזַז, \"tosquiar\") em estado construto + substantivo צֹאן (ṣō’n, \"rebanho miúdo\") com sufixo pronominal 3ª masc. sing. -ô.[web:16]",
+        "exegese": "Exegese: A tosquia era período de intensa atividade económica, mas também de festa e, frequentemente, de excessos morais. Ao situar Judá nesse contexto, o narrador prepara um ambiente propício a tentações e decisões impulsivas.",
+        "teologia": "Teologia: Momentos de prosperidade e celebração económica são, na experiência pactual, terrenos onde o coração é testado quanto à fidelidade. Judá, consolado e em ambiente festivo, mostrará quão frágil é seu autocontrole quando afastado de um temor consciente de Yahweh."
+      },
+      {
+        "hebraico": "הוּא וְחִירָה רֵעֵהוּ הָעֲדֻלָּמִי",
+        "transliteracao": "hû’ wəḥîrāh rē‘ēhû hā‘ădullāmî - \"ele e Hirá, seu amigo, o adulamita\"",
+        "morfossintaxe": "Morfossintaxe: Pronome pessoal 3ª masc. sing. הוּא (hû’, \"ele\") + conjunção waw + nome próprio חִירָה (ḥîrāh) + substantivo רֵעַ (rēa‘, \"companheiro, amigo\") em estado construto com sufixo 3ª masc. sing. -הוּ (hû, \"seu\") + adjetivo gentílico הָעֲדֻלָּמִי (hā‘ădullāmî, \"o adulamita\").[web:16]",
+        "exegese": "Exegese: A menção de Hirá, o adulamita, retoma o antigo padrão de Judá se associar a companhias cananeias (38:1). Essa amizade \"do mundo\" é o canal social pelo qual Judá se verá exposto à situação com Tamar.",
+        "teologia": "Teologia: A insistência narrativa em Hirá como amigo adulamita relembra o perigo de alianças íntimas com o mundo. A leitura reformada vê aqui a advertência: companhias moldam decisões; a convivência constante com Hirá acompanha cada estágio do declínio e da vergonha de Judá."
+      },
+      {
+        "hebraico": "תִּמְנָתָה",
+        "transliteracao": "Timnāthāh - \"a Timna\"",
+        "morfossintaxe": "Morfossintaxe: Nome próprio de lugar תִּמְנָה (Timnāh) com he locativo final -ה (\"para/até\"), indicando direção: \"a Timna\".[web:13]",
+        "exegese": "Exegese: A toponímia insere a história de Judá e Tamar num espaço conhecido pela tradição bíblica, associada também a outros episódios de tensão moral (como Sansão em Juízes 14).",
+        "teologia": "Teologia: Lugares na Escritura frequentemente adquirem conotações morais cumulativas. Timna torna-se outro cenário em que a semente de Abraão quase se compromete com práticas cananeias, mas onde Deus intervém para preservar o propósito redentivo."
+      }
+    ]
+  },
+  {
+    "numero": 13,
+    "palavras": [
+      {
+        "hebraico": "וַיֻּגַּד לְתָמָר",
+        "transliteracao": "wayyugad ləTāmār - \"e foi contado a Tamar\" / \"e informaram a Tamar\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo נָגַד (nāgad, \"anunciar, relatar\") no Hofal (voz passiva), imperfeito narrativo 3ª masc. sing. וַיֻּגַּד (wayyugad, \"foi anunciado\") + preposição לְ (le, \"a\") + nome próprio תָּמָר (Tamar).[web:12]\n\nDica didática: O padrão u-a (yugad) e o dagesh na 2ª raiz (גּ) são típicos da voz Hofal, a forma passiva do Hifil.",
+        "exegese": "Exegese: O uso de forma passiva destaca que Tamar é receptora de informação que desencadeará sua ação. A narrativa, ao mostrar que alguém lhe comunica o movimento de Judá, sugere uma rede social atenta à vida do patriarca.",
+        "teologia": "Teologia: A notícia que chega a Tamar faz parte da providência de Deus dirigindo os passos dela. A teologia reformada sublinha como meios ordinários — um recado, um rumor — são instrumentos finos pela mão soberana de Deus para avançar Sua agenda redentora."
+      },
+      {
+        "hebraico": "לֵאמֹר",
+        "transliteracao": "lē’mor - \"dizendo\"",
+        "morfossintaxe": "Morfossintaxe: Infinitivo construto do verbo אָמַר (’āmar, \"dizer\") com preposição לְ (le) formando a partícula recitativa típica \"dizendo\", introdutora do discurso citado.[web:12]",
+        "exegese": "Exegese: A forma lē’mor introduz o conteúdo da notícia dada a Tamar. Esse conteúdo será a base racional para a estratégia que ela arquitetará em seguida.",
+        "teologia": "Teologia: O discurso reportado mostra que a interpretação dos fatos (\"eis que teu sogro sobe para tosquiar\") molda a resposta moral. A tradição reformada insiste na necessidade de interpretar corretamente os fatos à luz da revelação; Tamar interpretará a ocasião como oportunidade de reivindicar a justiça que lhe foi negada."
+      },
+      {
+        "hebraico": "הִנֵּה חָמִיךְ עֹלֶה תִּמְנָתָה",
+        "transliteracao": "hinneh ḥāmîk ‘ōleh Timnāthāh - \"eis que teu sogro sobe a Timna\"",
+        "morfossintaxe": "Morfossintaxe: Partícula deíctica הִנֵּה (hinneh, \"eis, olha\") + substantivo חָם (ḥām, \"sogro\") com sufixo 2ª fem. sing. -יִךְ (\"teu\"), formando חָמִיךְ (ḥāmîk) + particípio Qal masc. sing. עֹלֶה (‘ōleh, \"subindo\") da raiz עָלָה (‘ālāh) + nome de lugar com he locativo תִּמְנָתָה (Timnāthāh, \"a Timna\").[web:16]",
+        "exegese": "Exegese: O \"eis\" dramatiza a cena para o leitor e para Tamar: o sogro que a deixou em limbo agora se move sem qualquer notícia sobre o prometido casamento com Selá. O contraste entre a passividade passada de Judá quanto a Tamar e sua pronta subida a Timna para negócios ressalta a negligência para com ela.",
+        "teologia": "Teologia: A identificação de Judá como \"teu sogro\" relembra que, apesar da distância, o vínculo jurídico permanece. A viagem dele a Timna sem tratar do dever levirático expõe uma ruptura ética; Deus usará justamente este movimento do sogro para ser confrontado pela nora que ele negligenciou."
+      },
+      {
+        "hebraico": "לָגֹז צֹאנוֹ",
+        "transliteracao": "lāgōz ṣō’nô - \"para tosquiar o seu rebanho\"",
+        "morfossintaxe": "Morfossintaxe: Preposição לְ (le, aqui com valor final, \"para\") + infinitivo construto גֹז (gōz) da raiz גָּזַז (gāzaz, \"tosquiar\") + substantivo צֹאן (ṣō’n, \"rebanho miúdo\") com sufixo pronominal 3ª masc. sing. -ô (\"seu\").[web:12]",
+        "exegese": "Exegese: O motivo declarado da subida reforça o contexto festivo e lucrativo da tosquia. É precisamente num ambiente de festa e afastamento da casa que Judá se mostrará mais vulnerável à proposta de Tamar disfarçada.",
+        "teologia": "Teologia: O infinitivo de propósito \"para tosquiar\" destaca a finalidade imediata de Judá, centrada em interesses económicos. A providência de Deus, porém, tem outra finalidade mais alta: confrontar o patriarca e garantir a continuidade da semente pactual por meio da viúva que ele tinha deixado sem justiça."
+      }
+    ]
+  },
+  {
+    "numero": 14,
+    "palavras": [
+      {
+        "hebraico": "וַתָּסַר בִּגְדֵי אַלְמְנוּתָהּ",
+        "transliteracao": "wattāsar bigdê ’almənûtāh - \"então ela tirou as vestes da sua viuvez\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo סוּר (sûr, \"remover, afastar\") em Qal, imperfeito narrativo 3ª fem. sing. וַתָּסַר (wattāsar) + substantivo בֶּגֶד (beged, \"veste\") no plural construto בִּגְדֵי (bigdê, \"as vestes de\") + substantivo אַלְמְנוּת (’almənût, \"estado de viuvez\") com sufixo 3ª fem. sing. -ָהּ (\"dela\"), formando אַלְמְנוּתָהּ.",
+        "exegese": "Exegese: O gesto inicial de Tamar é simbólico: despir as vestes de viuvez significa, na prática, sair do status passivo de vítima esquecida para agir. Ela não abandona o vínculo levirático, mas recusa continuar aprisionada numa viuvez sem horizonte.",
+        "teologia": "Teologia: A ação de Tamar não é mero capricho sensual, mas resposta a uma injustiça prolongada. Numa leitura reformada, ela se move num terreno ambíguo: seu método é irregular, mas seu alvo é a restauração de um direito pactual que Judá violara ao negar-lhe Selá."
+      },
+      {
+        "hebraico": "מֵעָלֶיהָ",
+        "transliteracao": "mē‘āleyhā - \"de sobre si\"",
+        "morfossintaxe": "Morfossintaxe: Preposição מִן (min, \"de\") em forma alongada מֵ (mē) + preposição עַל (‘al, \"sobre\") com sufixo 3ª fem. sing. -ֶיהָ (\"sobre ela\"), resultando na locução preposicional \"de sobre ela\".",
+        "exegese": "Exegese: A expressão reforça a ideia de libertar-se do papel social imposto. As vestes de viuvez, que deveriam ser provisórias até o cumprimento do levirato, tornaram-se uma espécie de jugo permanente; removê-las é protesto silencioso contra esse abuso.",
+        "teologia": "Teologia: O movimento \"de sobre si\" ecoa, em chave narrativa, a libertação de um fardo social e espiritual injusto. A tradição reformada pode enxergar aqui um prenúncio de como Deus frequentemente usa os fracos e marginalizados para confrontar a iniquidade dos poderosos dentro da própria comunidade pactual."
+      },
+      {
+        "hebraico": "וַתְּכַס בַּצָּעִיף",
+        "transliteracao": "wattəkhas batsā‘îf - \"e se cobriu com o véu\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo כָּסָה (kāsāh, \"cobrir\") em Piel, imperfeito narrativo 3ª fem. sing. וַתְּכַס (wattəkhas, \"ela cobriu-se\") + substantivo צָעִיף (ṣā‘îf, \"véu, manto\") com artigo implícito em construção preposicional בַּצָּעִיף (\"com o véu\").",
+        "exegese": "Exegese: O véu aqui não é o típico véu modesto da noiva israelita, mas um manto que encobre a identidade, associado na narrativa à figura da prostituta cultual. O ato de Tamar cria deliberadamente ambiguidade sobre quem ela é.",
+        "teologia": "Teologia: A ironia teológica é profunda: a nora injustiçada assume a aparência de imoral para expor o pecado oculto do patriarca. Em termos reformados, Deus usa o escândalo aparente para revelar um escândalo ainda maior: o descaso de Judá para com a justiça da aliança."
+      },
+      {
+        "hebraico": "וַתִּתְעַלָּף",
+        "transliteracao": "wattit‘allāf - \"e se envolveu\" / \"se cobriu totalmente\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo עָלַף (‘ālaf, \"envolver, cobrir-se\") em Hitpael, imperfeito narrativo 3ª fem. sing. וַתִּתְעַלָּף (wattit‘allāf), forma reflexiva-intensiva: \"ela se envolveu completamente\".",
+        "exegese": "Exegese: O uso da forma reflexiva indica que Tamar toma para si, de modo consciente, um disfarce completo. A ênfase está no caráter calculado do plano: não é encontro fortuito, mas estratégia minuciosa.",
+        "teologia": "Teologia: Ainda que seu método seja questionável à luz da ética normativa, a narrativa sugere que, diante da omissão persistente de Judá, Tamar lança mão do único meio disponível para forçar o reconhecimento de seu direito. A teologia reformada reconhece aqui a tensão entre o ideal moral e a realidade quebrada em que Deus, mesmo assim, conduz Sua história de graça."
+      },
+      {
+        "hebraico": "וַתֵּשֶׁב בְּפֶתַח עֵינַיִם",
+        "transliteracao": "wattēšev bəfetaḥ ‘ênayim - \"e sentou-se à entrada de Enaim\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo יָשַׁב (yāšav, \"sentar, habitar\") em Qal, imperfeito narrativo 3ª fem. sing. וַתֵּשֶׁב (wattēšev) + substantivo פֶּתַח (petaḥ, \"entrada, porta\") com preposição בְּ (bə, \"em, junto a\") + topônimo עֵינַיִם (‘ênayim, possivelmente \"Fontes\" ou \"Olhos\").",
+        "exegese": "Exegese: A localização na \"entrada\" de Enaim sugere um ponto de passagem público, estratégico para interceptar Judá no caminho. O lugar funciona como cenário liminar onde identidades e papéis sociais podem ser temporariamente invertidos.",
+        "teologia": "Teologia: Estar à porta, numa zona de transição, reflete simbolicamente a condição de Tamar: nem plenamente integrada à casa de Judá, nem livre. Deus a encontrará precisamente nesse limiar para transformar, através dela, o futuro da linhagem messiânica."
+      },
+      {
+        "hebraico": "אֲשֶׁר עַל־דֶּרֶךְ תִּמְנָתָה",
+        "transliteracao": "’ăšer ‘al-dereḵ Timnāthāh - \"que está junto ao caminho de Timna\"",
+        "morfossintaxe": "Morfossintaxe: Pronome relativo אֲשֶׁר (’ăšer, \"que\") introduzindo oração adjetiva + preposição עַל (‘al, \"sobre, junto a\") unida por maqqef a דֶּרֶךְ (dereḵ, \"caminho\") + topônimo com he locativo תִּמְנָתָה (Timnāthāh, \"para Timna\").",
+        "exegese": "Exegese: A cláusula relativa liga Enaim diretamente à rota que Judá usaria. Não há acaso: Tamar posiciona-se precisamente no trajeto anunciado, mostrando sua leitura atenta das circunstâncias.",
+        "teologia": "Teologia: O detalhamento da rota sugere que Deus, que dirige caminhos e passos, permite que a esperteza de Tamar se alinhe à Sua providência. Na ótica reformada, nem a astúcia humana nem a negligência do patriarca frustram o desígnio divino; Deus os incorpora à Sua economia de graça e juízo."
+      },
+      {
+        "hebraico": "כִּי רָאֲתָה",
+        "transliteracao": "kî rā’ătāh - \"pois ela viu\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção causal כִּי (kî, \"pois\") + verbo רָאָה (rā’āh, \"ver\") em Qal, perfeito 3ª fem. sing. רָאֲתָה (rā’ătāh).",
+        "exegese": "Exegese: O motivo da ação de Tamar é explicitado: ela age com base em percepção clara da realidade. O verbo \"ver\" contrasta com o olhar míope de Judá, que não enxerga a injustiça que perpetra.",
+        "teologia": "Teologia: Há uma inversão temática: antes, Judá \"via\" e \"tomava\" mulheres em rebelião; agora, Tamar \"vê\" a injustiça e age em busca de justiça. A tradição reformada pode enxergar aqui como Deus, por vezes, envergonha líderes pactuais por meio da lucidez de quem foi colocado à margem."
+      },
+      {
+        "hebraico": "כִּי גָדַל שֵׁלָה",
+        "transliteracao": "kî gādal Šēlāh - \"que Selá já havia crescido\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção כִּי (kî, \"que\") em função de conjunção explicativa + verbo גָּדַל (gādal, \"crescer, tornar-se grande\") em Qal, perfeito 3ª masc. sing. גָדַל (gādal, \"cresceu\") + nome próprio שֵׁלָה (Šēlāh).",
+        "exegese": "Exegese: A informação mostra que a condição imposta por Judá (\"até que Selá cresça\") já foi plenamente satisfeita. O atraso em cumpri-la não tem mais qualquer desculpa plausível; torna-se pura má-fé.",
+        "teologia": "Teologia: Atingida a maioridade de Selá, a obrigação levirática de Judá fica escancaradamente pendente. A teologia reformada vê aqui a gravidade do pecado de promessas quebradas diante de Deus e de pessoas vulneráveis; a demora se converte em culpa objetiva."
+      },
+      {
+        "hebraico": "וְהִוא לֹא נִתְּנָה לוֹ לְאִשָּׁה",
+        "transliteracao": "wəhî’ lō’ nittənāh lô lə’ißšāh - \"e ela não lhe havia sido dada por mulher\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw + pronome pessoal 3ª fem. sing. הִוא (hî’, \"ela\") como sujeito + partícula negativa לֹא (lō’, \"não\") + verbo נָתַן (nātan, \"dar\") em Nifal, perfeito 3ª fem. sing. נִתְּנָה (nittənāh, \"foi dada\") + preposição לוֹ (lô, \"a ele\") + preposição לְ (lə, \"por\") + substantivo אִשָּׁה (’iššāh, \"mulher, esposa\").",
+        "exegese": "Exegese: O narrador confirma a injustiça em termos jurídicos: Tamar deveria ter sido dada a Selá, mas não foi. A forma passiva \"não foi dada\" destaca a responsabilidade de Judá como agente que falhou na obrigação.",
+        "teologia": "Teologia: O texto se torna uma acusação formal contra Judá. Numa leitura reformada, a omissão do patriarca é violação da justiça pactual e do cuidado devido à viúva, categorias que a Torá posterior normatizará; Deus, no entanto, já a trata aqui como grave transgressão."
+      }
+    ]
+  },
+  {
+    "numero": 15,
+    "palavras": [
+      {
+        "hebraico": "וַיַּרְאֶהָ יְהוּדָה",
+        "transliteracao": "wayyar’ehā Yəhûdāh - \"e Judá a viu\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo רָאָה (rā’āh, \"ver\") em Qal, imperfeito narrativo 3ª masc. sing. וַיַּרְא (wayyar’) com sufixo objeto 3ª fem. sing. -הָ (hā, \"a\") formando וַיַּרְאֶהָ (wayyar’ehā, \"viu-a\") + sujeito יְהוּדָה (Yəhûdāh).",
+        "exegese": "Exegese: Mais uma vez, a sequência fatal de Gênesis reaparece: Judá vê uma mulher e será levado a tomá-la, ecoando os padrões de Gn 3 e 6. O foco recai no olhar de Judá, que continua guiado pelo que agrada aos olhos, não pelo temor do Senhor.",
+        "teologia": "Teologia: A teologia reformada frequentemente identifica nesses padrões uma teia de concupiscência: o olhar desgovernado que leva à queda. A ironia é que o olhar luxurioso de Judá será, pela providência divina, o meio de Deus o conduzir à humilhação e ao reconhecimento de sua culpa."
+      },
+      {
+        "hebraico": "וַיְחַשְׁבֶהָ לְזוֹנָה",
+        "transliteracao": "wayəḥašbehā ləzōnāh - \"e a julgou como uma prostituta\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo חָשַׁב (ḥāšav, \"pensar, considerar\") em Qal, imperfeito narrativo 3ª masc. sing. וַיְחַשֵּׁב (wayəḥašēv) com sufixo objeto 3ª fem. sing. -הָ (hā, \"a\") formando וַיְחַשְׁבֶהָ (wayəḥašbehā, \"considerou-a\") + preposição לְ (lə, \"como\") + substantivo זוֹנָה (zōnāh, \"prostituta\").",
+        "exegese": "Exegese: Judá interpreta as aparências conforme seus próprios desejos: vê uma mulher velada à beira do caminho e pressupõe que seja prostituta. O texto expõe sua prontidão interior para explorar sexualmente quem ele presume ser socialmente descartável.",
+        "teologia": "Teologia: A leitura moralmente distorcida de Judá mostra como o pecado molda percepção. Em termos reformados, o coração corrompido não apenas comete atos maus, mas enxerga o próximo sob categorias que justificam o próprio pecado; Deus, porém, está prestes a inverter esse juízo precipitado."
+      },
+      {
+        "hebraico": "כִּי כִסְּתָה פָנֶיהָ",
+        "transliteracao": "kî kissətāh pāneyhā - \"porque ela havia coberto o seu rosto\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção causal כִּי (kî, \"porque\") + verbo כָּסָה (kāsāh, \"cobrir\") em Piel, perfeito 3ª fem. sing. כִּסְּתָה (kissətāh, \"ela cobriu\") + substantivo פָּנִים (pānîm, \"rosto, face\") no plural de forma com sufixo 3ª fem. sing. -ֶיהָ (\"seu\"), aqui em escrita abreviada פָנֶיהָ (pāneyhā).",
+        "exegese": "Exegese: O narrador explica o raciocínio de Judá: o rosto coberto, sinal de anonimato, torna-se para ele indicativo de prostituição. A mesma ação que para Tamar é uma estratégia de recuperação de direito, para Judá torna-se pretexto para satisfazer sua concupiscência.",
+        "teologia": "Teologia: A motivação de Judá revela como sinais culturais podem ser interpretados pecaminosamente quando o coração já está inclinado ao mal. A teologia reformada relembra que o problema central não é o símbolo externo, mas o coração que o lê de modo a legitimar sua própria cobiça."
+      }
+    ]
+  },
+  {
+    "numero": 16,
+    "palavras": [
+      {
+        "hebraico": "וַיֵּט אֵלֶיהָ אֶל־הַדֶּרֶךְ",
+        "transliteracao": "wayyēṭ ’ēleyhā ’el-hadereḵ - \"e desviou-se para ela, para o caminho\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo נָטָה (nāṭāh, \"inclinar, desviar-se\") em Qal, imperfeito narrativo 3ª masc. sing. וַיֵּט (wayyēṭ, \"ele desviou\") + preposição אֶל (’el, \"para\") com sufixo 3ª fem. sing. -ֶיהָ (”a ela\") formando אֵלֶיהָ (’ēleyhā) + preposição אֶל (’el, \"para\") unida por maqqef a הַדֶּרֶךְ (hadereḵ, \"o caminho\").",
+        "exegese": "Exegese: O verbo \"desviar-se\" sugere que Judá não apenas a encontra; ele intencionalmente sai de sua rota para abordá-la. O movimento corporal materializa a inclinação interior do coração para o pecado.",
+        "teologia": "Teologia: Em chave reformada, o ato de \"desviar-se\" do caminho ecoa imagens sapienciais de deixar a vereda da retidão para seguir a mulher estranha (Pv 7). Judá corporifica a advertência que, mais tarde, a própria sabedoria de Deus registrará em Provérbios."
+      },
+      {
+        "hebraico": "וַיֹּאמֶר",
+        "transliteracao": "wayyōmer - \"e disse\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo אָמַר (’āmar, \"dizer\") em Qal, imperfeito narrativo 3ª masc. sing. וַיֹּאמֶר (wayyōmer).",
+        "exegese": "Exegese: O verbo retoma o padrão de iniciativa verbal de Judá. Ele controla a situação, supostamente como cliente que propõe o negócio, mas desconhece que está, na realidade, enredado numa trama providencial que o exporá.",
+        "teologia": "Teologia: A fala de Judá revela o coração, conforme a teologia bíblica insiste: \"da abundância do coração fala a boca\". Sua primeira palavra à mulher mascarada não é de piedade ou prudência, mas de desejo sexual bruto."
+      },
+      {
+        "hebraico": "הָבָה נָּא",
+        "transliteracao": "hābāh-nā’ - \"vem, pois\" / \"deixa-me, por favor\"",
+        "morfossintaxe": "Morfossintaxe: Partícula imperativa arcaica הָבָה (hābāh, \"dá, vem, permite\") + partícula de atenuação/régio rogo נָּא (nā’, \"por favor, agora\"), formando expressão idiomática de pedido insistente.",
+        "exegese": "Exegese: A combinação cria um convite direto, quase brusco, suavizado por uma partícula que, mais que cortesia, intensifica a urgência do pedido. Julgando tratar-se de prostituta, Judá não vê necessidade de preâmbulos morais.",
+        "teologia": "Teologia: O contraste entre este \"por favor\" dirigido a uma suposta prostituta e sua dureza silenciosa para com Tamar enquanto nora é chocante. A teologia reformada expõe aqui a hipocrisia: brandura na fala quando busca usufruir do outro; dureza quando é chamado a servir e fazer justiça."
+      },
+      {
+        "hebraico": "אָבוֹא אֵלַיִךְ",
+        "transliteracao": "’āvō’ ’ēlayiḵ - \"que eu me deite contigo\" (lit. \"eu entrarei a ti\")",
+        "morfossintaxe": "Morfossintaxe: Verbo בּוֹא (bō’/bô’, \"entrar, vir\") em Qal, imperfeito 1ª sing. אָבוֹא (’āvō’, \"eu entrarei\") + preposição אֶל (’el, \"a\") com sufixo 2ª fem. sing. -ַיִךְ (”a ti\"), formando אֵלַיִךְ (’ēlayiḵ). Expressão idiomática para relação sexual.",
+        "exegese": "Exegese: A fórmula idiomática \"entrar a\" retoma o eufemismo já visto no casamento com a cananeia (38:2). Aqui, contudo, não há matrimônio, apenas relação mercenária, que Judá busca de modo franco e imediato.",
+        "teologia": "Teologia: O uso indiscriminado do verbo que em outros contextos descreve a consumação matrimonial ressalta a banalização do sexo que Judá pratica. A teologia reformada insiste que a união sexual pertence ao contexto do pacto matrimonial; fora dele, a mesma ação corporal se torna afronta à santidade de Deus."
+      },
+      {
+        "hebraico": "כִּי לֹא יָדַע",
+        "transliteracao": "kî lō’ yāda‘ - \"pois ele não sabia\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção causal כִּי (kî, \"pois\") + partícula negativa לֹא (lō’, \"não\") + verbo יָדַע (yāda‘, \"saber, conhecer\") em Qal, perfeito ou imperfeito de valor gnômico 3ª masc. sing. יָדַע (yāda‘).",
+        "exegese": "Exegese: O narrador desculpa parcialmente Tamar, não Judá: ele não sabia quem ela era. A ignorância, porém, não o inocenta, porque sua intenção já era pecaminosa, ainda que não soubesse tratar-se de sua nora.",
+        "teologia": "Teologia: A distinção entre ignorância factual e culpa moral é importante na teologia reformada. Judá desconhece o parentesco imediato da mulher, mas não é ignorante da imoralidade de procurar uma prostituta; ele é culpado por essa decisão, mesmo antes de descobrir quem era Tamar."
+      },
+      {
+        "hebraico": "כִּי כַלָּתוֹ הִוא",
+        "transliteracao": "kî kallātô hî’ - \"que ela era sua nora\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção כִּי (kî, \"que\") + substantivo כַלָּה (kallāh, \"nora, noiva\") com sufixo 3ª masc. sing. -ֹו (\"dele\"), kallātô (\"sua nora\") + pronome pessoal 3ª fem. sing. הִוא (hî’, \"ela\") funcionando como cópula enfática.",
+        "exegese": "Exegese: O narrador relembra explicitamente que, aos olhos de Deus e da lei familiar, Tamar continua sendo \"sua nora\". Isso intensifica o peso do que está prestes a acontecer: Judá, que não quis cumprir o levirato ordenado, acabará gerando a descendência para Er por meio de relação ilícita com a própria nora.",
+        "teologia": "Teologia: A ironia redentiva é central aqui: o patriarca que recusou dar seu filho à nora acaba, sem saber, assumindo o papel de levir. A teologia reformada reconhece nesse paradoxo a mão de Deus, que transforma a própria torpeza do homem em veículo involuntário da fidelidade divina à promessa da semente."
+      }
+    ]
+  },
+  {
+    "numero": 17,
+    "palavras": [
+      {
+        "hebraico": "וַתֹּאמֶר",
+        "transliteracao": "wattōmer - \"e ela disse\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + raiz אָמַר (’āmar, \"dizer\") em Qal, imperfeito narrativo (wayyiqtol), 3ª pessoa do feminino singular. A vogal ō e o dagesh em ת marcam a forma típica de wayyiqtol com sujeito feminino.",
+        "exegese": "Exegese: Pela primeira vez no episódio, Tamar toma a palavra e conduz o diálogo. A voz da viúva, até então silenciada pelas decisões de Judá, torna-se instrumento principal na reviravolta da narrativa.",
+        "teologia": "Teologia: A iniciativa verbal de Tamar destaca como Deus frequentemente ergue a voz dos marginalizados para confrontar a injustiça dentro de Seu próprio povo. A teologia reformada vê aqui um exemplo de como o Senhor usa instrumentos inesperados para corrigir cabeças pactuais infiéis."
+      },
+      {
+        "hebraico": "מַה־תִּתֶּן־לִי",
+        "transliteracao": "mah-titten-lî - \"que me darás?\"",
+        "morfossintaxe": "Morfossintaxe: Partícula interrogativa מַה (mah, \"o quê?\") ligada por maqqef a verbo נָתַן (nātan, \"dar\") em Qal, imperfeito 2ª masc. sing. תִּתֵּן (titten, \"darás\") + preposição לְ (lə, \"a, para\") com sufixo 1ª sing. -ִי (\"a mim\"), formando לִי (lî).",
+        "exegese": "Exegese: Tamar formula a relação como transação formal, exigindo preço antes do ato. Ao fazê-lo, ela enquadra Judá não como sedutor, mas como devedor, preparando terreno para exigir penhor que o comprometerá publicamente depois.",
+        "teologia": "Teologia: O foco em \"dar\" antecipa o tema central do capítulo: quem dará à Tamar a descendência que lhe é devida pela lei do levirato? Judá, que se negara a \"dar\" Selá, acabará tendo de dar a si mesmo em penhor e, por fim, em paternidade."
+      },
+      {
+        "hebraico": "כִּי תָבוֹא אֵלָי",
+        "transliteracao": "kî tāvō’ ’ēlāy - \"para entrares a mim\" / \"por entrares a mim\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção explicativa/condicional כִּי (kî, \"pois, porquanto\") + verbo בּוֹא (bō’/bô’, \"entrar, vir\") em Qal, imperfeito 2ª masc. sing. תָבוֹא (tāvō’, \"tu virás/entras\") + preposição אֶל (’el, \"a\") com sufixo 1ª sing. -ַי (\"a mim\"), formando אֵלָי (’ēlāy). Expressão idiomática para relação sexual.",
+        "exegese": "Exegese: Tamar não disfarça o conteúdo do acordo: o \"entrar\" é explicitamente o serviço sexual. Ela força Judá a admitir, em linguagem clara, a natureza pecaminosa de sua intenção, tornando impossível a desculpa posterior.",
+        "teologia": "Teologia: A formulação reforça a dimensão de responsabilidade: não se trata de deslize meramente passional, mas de ato premeditado e contratado. A teologia reformada ressalta que tal consciência agrava a culpa, pois o pecado é cometido contra luz e contra pacto."
+      },
+      {
+        "hebraico": "וַיֹּאמֶר",
+        "transliteracao": "wayyōmer - \"e ele disse\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + אָמַר (’āmar, \"dizer\") em Qal, imperfeito narrativo 3ª masc. sing. וַיֹּאמֶר (wayyōmer).",
+        "exegese": "Exegese: Judá aceita as condições de Tamar sem hesitação. O diálogo mostra sua disposição em negociar termos materiais para satisfazer sua concupiscência, revelando prioridades distorcidas.",
+        "teologia": "Teologia: A prontidão em responder à proposta pecaminosa contrasta com sua lentidão em atender a obrigações pactuais justas. A teologia reformada nota aqui a inversão de valores típica do coração caído: rapidez para o mal, demora para o bem."
+      },
+      {
+        "hebraico": "אָנֹכִי אֲשַׁלַּח גְּדִי־עִזִּים מִן־הַצֹּאן",
+        "transliteracao": "’ānokhî ’ăšallaḥ gədi-‘izzîm min-hatṣō’n - \"eu enviarei um cabrito do rebanho\"",
+        "morfossintaxe": "Morfossintaxe: Pronome independente אָנֹכִי (’ānokhî, \"eu\") + verbo שָׁלַח (šālaḥ, \"enviar\") em Piel, imperfeito 1ª sing. אֲשַׁלַּח (’ăšallaḥ, \"enviarei\") + substantivo גְּדִי (gədi, \"cabrito\") em construto com plural עִזִּים (‘izzîm, \"cabras\") formando expressão \"um cabrito de cabras\" = \"cabrito do rebanho\" + preposição מִן (min, \"de, desde\") com artigo הַצֹּאן (hatṣō’n, \"o rebanho miúdo\").",
+        "exegese": "Exegese: O pagamento oferecido é modesto, mas típico de um contexto rural; um cabrito é moeda de troca viável e facilmente justificável depois. Judá mostra que está disposto a comprometer bens do rebanho, mas não a própria honra ou identidade — precisamente o que Tamar irá exigir.",
+        "teologia": "Teologia: O cabrito aparecerá novamente como instrumento de engano (Gn 37; 27), reforçando o motivo temático do uso de animais e sangue para encobrir pecados. A ironia redentiva é que, apesar de tantas tentativas humanas de encobrir, Deus expõe e corrige."
+      },
+      {
+        "hebraico": "מִן־הַצֹּאן",
+        "transliteracao": "min-hatṣō’n - \"do rebanho\"",
+        "morfossintaxe": "Morfossintaxe: Preposição מִן (min, \"de\") unida por maqqef ao substantivo definido הַצֹּאן (hatṣō’n, \"o rebanho miúdo\"), formando complemento de origem do cabrito oferecido.",
+        "exegese": "Exegese: Mencionar \"do rebanho\" enfatiza que o pagamento vem da riqueza produtiva de Judá. Ele transforma bens pactuais de sustento em moeda para pecado, usando o que Deus lhe deu para alimentar a concupiscência.",
+        "teologia": "Teologia: A teologia reformada denuncia o desvio de vocação: bens dados para a administração fiel do pacto são pervertidos em instrumentos de injustiça. A providência, contudo, transformará este mesmo cabrito em peça-chave na exposição pública do pecado."
+      },
+      {
+        "hebraico": "וַתֹּאמֶר",
+        "transliteracao": "wattōmer - \"e ela disse\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + אָמַר (’āmar) em Qal, imperfeito narrativo 3ª fem. sing. וַתֹּאמֶר (wattōmer).",
+        "exegese": "Exegese: Tamar continua conduzindo a negociação, não se contentando com a promessa de pagamento futuro. Ela entende que precisa de uma garantia que não possa ser negada depois.",
+        "teologia": "Teologia: A insistência de Tamar por garantia antecipa a função do penhor como testemunho contra Judá. Deus usará esse zelo prático dela para produzir um sinal inquestionável de culpa, que quebrará a hipocrisia do patriarca."
+      },
+      {
+        "hebraico": "אִם־תִּתֵּן עֵרָבוֹן",
+        "transliteracao": "’im-titten ‘ērāvon - \"se me deres um penhor\"",
+        "morfossintaxe": "Morfossintaxe: Partícula condicional אִם (’im, \"se\") ligada por maqqef a verbo נָתַן (nātan, \"dar\") em Qal, imperfeito 2ª masc. sing. תִּתֵּן (titten, \"deres\") + substantivo עֵרָבוֹן (‘ērāvon, \"penhor, garantia\").",
+        "exegese": "Exegese: A exigência de penhor transforma um encontro anônimo em relação juridicamente rastreável. Tamar assegura uma prova material que vinculará Judá ao ato sexual, algo crucial para reivindicar justiça depois.",
+        "teologia": "Teologia: O \"penhor\" antecipa, em miniatura, o conceito teológico de garantia e arras. Ironicamente, Judá entregará uma espécie de \"selo\" de si mesmo, enquanto, na economia maior da redenção, é Deus quem dá Seu Espírito como penhor da promessa à Igreja."
+      },
+      {
+        "hebraico": "עַד־שָׁלְחָךְ",
+        "transliteracao": "‘ad-šolḥāḵ - \"até que o envies\"",
+        "morfossintaxe": "Morfossintaxe: Preposição עַד (‘ad, \"até\") ligada por maqqef a verbo שָׁלַח (šālaḥ, \"enviar\") em Qal, infinitivo construto com sufixo 2ª masc. sing. -ְךָ (\"teu\"), aqui funcionando como expressão temporal: \"até o teu envio\".",
+        "exegese": "Exegese: O prazo é claro: o penhor vigora até que o pagamento chegue. Isso impede Judá de postergar indefinidamente o cumprimento, como fez com Selá.",
+        "teologia": "Teologia: O contraste entre este prazo bem definido e a espera indefinida imposta a Tamar à casa paterna ressalta a injustiça anterior. A teologia reformada enxerga aqui um tipo de \"juízo medida por medida\": quem recusou cumprir o que prometera passa agora a ficar devedor sob sinal visível."
+      }
+    ]
+  },
+  {
+    "numero": 18,
+    "palavras": [
+      {
+        "hebraico": "וַיֹּאמֶר",
+        "transliteracao": "wayyōmer - \"e ele disse\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + אָמַר (’āmar) em Qal, imperfeito narrativo 3ª masc. sing. וַיֹּאמֶר (wayyōmer).",
+        "exegese": "Exegese: Judá concorda em fornecer um penhor, revelando sua autoconfiança: ele não prevê qualquer cenário em que esses objetos se voltem contra ele.",
+        "teologia": "Teologia: A confiança descuidada em si mesmo antecipa sua futura humilhação. A teologia reformada frequentemente ressalta que Deus frustra os planos dos orgulhosos usando precisamente aquilo em que eles depositaram confiança."
+      },
+      {
+        "hebraico": "מָה הָעֵרָבוֹן אֲשֶׁר אֶתֵּן־לָךְ",
+        "transliteracao": "mah hā‘ērāvon ’ăšer ettēn-lāḵ - \"que penhor te darei?\"",
+        "morfossintaxe": "Morfossintaxe: Partícula interrogativa מָה (mah, \"o quê?\") + artigo definido הָ (hā) + substantivo עֵרָבוֹן (‘ērāvon, \"penhor\") + pronome relativo אֲשֶׁר (’ăšer, \"que\") + verbo נָתַן (nātan) em Qal, imperfeito 1ª sing. אֶתֵּן (ettēn, \"darei\") + preposição לְ (lə) com sufixo 2ª fem. sing. -ָךְ (\"a ti\"), לָךְ (lāḵ).",
+        "exegese": "Exegese: A pergunta de Judá abre espaço para Tamar definir os termos, algo incomum em relação de poder entre homem e suposta prostituta. Isso reforça o controle estratégico que ela exerce sobre a situação.",
+        "teologia": "Teologia: Permitir que o outro defina o penhor expõe Judá a um autodesnudamento simbólico. Na providência divina, isso conduzirá a uma confissão pública que ele jamais teria escolhido fazer por iniciativa própria."
+      },
+      {
+        "hebraico": "וַתֹּאמֶר",
+        "transliteracao": "wattōmer - \"e ela disse\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + אָמַר (’āmar) em Qal, imperfeito narrativo 3ª fem. sing. וַתֹּאמֶר (wattōmer).",
+        "exegese": "Exegese: Mais uma vez, a voz ativa é de Tamar. Ela pronunciará a tríplice exigência que garantirá a identificação inequívoca de Judá.",
+        "teologia": "Teologia: A repetição do padrão \"ela disse\" enfatiza que Deus está, por meio dela, definindo as condições pelas quais a verdade virá à luz."
+      },
+      {
+        "hebraico": "חוֹתָמְךָ",
+        "transliteracao": "ḥōtāmeḵā - \"o teu selo\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo חוֹתָם (ḥōtām, \"selo anular\") + sufixo 2ª masc. sing. -ְךָ (\"teu\"), formando חוֹתָמְךָ (ḥōtāmeḵā).",
+        "exegese": "Exegese: O selo anular era marca pessoal de identidade e autoridade, usado para autenticar documentos. Exigir o selo é exigir a própria assinatura social de Judá como garantia.",
+        "teologia": "Teologia: A ironia é aguda: Judá empenha a marca de sua autoridade para consumar pecado, e essa mesma marca o denunciará. Em perspectiva reformada, Deus faz com que o próprio símbolo de status do homem se torne prova de sua culpa."
+      },
+      {
+        "hebraico": "וּפְתִילֶךָ",
+        "transliteracao": "ûpətîleḵā - \"teu cordão\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção copulativa וּ (û, \"e\") + substantivo פְּתִיל (pətîl, \"cordão, colar\") com sufixo 2ª masc. sing. -ְךָ (\"teu\").",
+        "exegese": "Exegese: O cordão é o suporte pelo qual o selo se pendura junto ao corpo. Ele completa o conjunto de identificação pessoal, tornando ainda mais inegável a conexão entre os objetos e seu dono.",
+        "teologia": "Teologia: A exigência de selo e cordão juntos figura a entrega da própria \"imagem pública\" de Judá. O homem que tanto prezava sua reputação acima da justiça para com Tamar terá de ver essa reputação ser usada por Deus como instrumento de disciplina."
+      },
+      {
+        "hebraico": "וּמַטְּךָ",
+        "transliteracao": "ûmaṭṭeḵā - \"e o teu cajado\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção וּ (û, \"e\") + substantivo מַטֶּה (maṭṭeh, \"cajado, bordão\") com sufixo 2ª masc. sing. -ְךָ (\"teu\"), formando מַטְּךָ (maṭṭeḵā).",
+        "exegese": "Exegese: O cajado é símbolo de autoridade e ofício, especialmente de liderança pastoral. Junto com o selo, compõe um retrato completo do status de Judá como chefe de casa.",
+        "teologia": "Teologia: Em chave reformada, entregar o cajado em contexto de pecado sugere abuso de autoridade. Deus o fará recuperar esse cajado apenas após confessar: \"Ela é mais justa do que eu\"; só então sua liderança começará a ser purificada."
+      },
+      {
+        "hebraico": "אֲשֶׁר בְּיָדֶךָ",
+        "transliteracao": "’ăšer bə yādeḵā - \"que está na tua mão\"",
+        "morfossintaxe": "Morfossintaxe: Pronome relativo אֲשֶׁר (’ăšer, \"que\") + preposição בְּ (bə, \"em\") + substantivo יָד (yād, \"mão\") com sufixo 2ª masc. sing. -ֶךָ (\"tua\"), formando בְּיָדֶךָ (bə yādeḵā).",
+        "exegese": "Exegese: A cláusula especifica que Tamar quer objetos que Judá carrega consigo naquele momento, não alguma promessa abstrata. Isso reforça a concretude do penhor.",
+        "teologia": "Teologia: A expressão \"o que está na tua mão\" ressoa com a linguagem bíblica sobre responsabilidade: o que alguém tem nas mãos deve ser administrado para Deus. Judá, porém, põe na mão da nora aquilo que deveria, simbolicamente, ser usado para liderar em justiça."
+      },
+      {
+        "hebraico": "וַיִּתֶּן־לָהּ",
+        "transliteracao": "wayyitten-lāh - \"e ele lhos deu\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo נָתַן (nātan, \"dar\") em Qal, imperfeito narrativo 3ª masc. sing. וַיִּתֵּן (wayyitten) + preposição לְ (lə, \"a\") com sufixo 3ª fem. sing. -ָהּ (\"ela\"), לָהּ (lāh).",
+        "exegese": "Exegese: Judá consente plenamente e entrega os símbolos de sua identidade. O ato, aparentemente banal no momento, constitui o ponto de não retorno da narrativa: as provas de seu pecado estão agora nas mãos de Tamar.",
+        "teologia": "Teologia: A teologia reformada vê neste gesto a soberania de Deus conduzindo o ímpio a selar sua própria condenação. O patriarca entrega voluntariamente o que será usado para expor sua hipocrisia, tal como Faraó endurece o coração para precipitar o juízo."
+      },
+      {
+        "hebraico": "וַיָּבֹא אֵלֶיהָ",
+        "transliteracao": "wayyābō’ ’ēleyhā - \"e entrou a ela\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo בּוֹא (bō’/bô’, \"entrar\") em Qal, imperfeito narrativo 3ª masc. sing. וַיָּבֹא (wayyābō’) + preposição אֶל (’el, \"a\") com sufixo 3ª fem. sing. -ֶיהָ, formando אֵלֶיהָ (’ēleyhā).",
+        "exegese": "Exegese: A consumação do ato sexual é narrada de forma concisa, como é típico do estilo bíblico, mas com peso teológico enorme: é por meio deste ato ilícito que nascerão Perez e Zerá, antepassados do Messias.",
+        "teologia": "Teologia: A providência divina aqui é escandalosamente graciosa: Deus faz brotar a linhagem de Cristo de uma relação carregada de engano e imoralidade. A teologia reformada insiste que isso não relativiza o pecado, mas exalta a soberania de Deus que triunfa sobre ele."
+      },
+      {
+        "hebraico": "וַתַּהַר לוֹ",
+        "transliteracao": "wattahar lô - \"e ela concebeu dele\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo הָרָה (hārāh, \"conceber\") em Qal, imperfeito narrativo 3ª fem. sing. וַתַּהַר (wattahar) + preposição לְ (lə, aqui com valor de origem/agente, \"dele\") com sufixo 3ª masc. sing. -ֹו (\"dele\"), לּוֹ (lô).",
+        "exegese": "Exegese: O resultado imediato da união é a concepção, destacada com concisão. A indicação \"dele\" enfatiza a paternidade inequívoca de Judá, que mais adiante será comprovada pelos objetos penhorados.",
+        "teologia": "Teologia: Em chave reformada, a concepção \"dele\" mostra que Deus usa o próprio patriarca culpado para suscitar a semente que ele tentou impedir, invertendo o seu pecado em ocasião para cumprir a promessa da descendência que levará ao Cristo."
+      }
+    ]
+  },
+  {
+    "numero": 19,
+    "palavras": [
+      {
+        "hebraico": "וַתָּקָם",
+        "transliteracao": "wattāqām - \"então ela se levantou\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo קוּם (qûm, \"levantar-se\") em Qal, imperfeito narrativo 3ª fem. sing. וַתָּקָם (wattāqām).",
+        "exegese": "Exegese: O verbo marca o término do encontro e o retorno de Tamar à sua vida cotidiana. O levantar-se indica que o disfarce foi episódio pontual, não estilo de vida.",
+        "teologia": "Teologia: A narrativa evita qualquer glamourização do ato; ao contrário, mostra Tamar prontamente deixando o papel de prostituta fictícia. A teologia reformada pode ver aqui um cuidado em não confundir meio tenso e singular com identidade permanente."
+      },
+      {
+        "hebraico": "וַתֵּלֶךְ",
+        "transliteracao": "wattēleḵ - \"e foi\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo הָלַךְ (hālak, \"ir, andar\") em Qal, imperfeito narrativo 3ª fem. sing. וַתֵּלֶךְ (wattēleḵ).",
+        "exegese": "Exegese: O simples \"e foi\" sublinha a discrição de Tamar após atingir o objetivo: ela não fica no local, não explora a situação, apenas retorna.",
+        "teologia": "Teologia: O recato narrativo contrasta com a volúpia de Judá. Mesmo em meio ao uso de um meio discutível, o texto descreve Tamar com sobriedade, sem traços de sensualidade gratuita, o que ajuda a entender por que ela será declarada \"mais justa\" do que Judá."
+      },
+      {
+        "hebraico": "וַתָּסַר צְעִיפָהּ",
+        "transliteracao": "wattāsar tṣî‘īfāh - \"e tirou o seu véu\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo סוּר (sûr, \"remover, afastar\") em Qal, imperfeito narrativo 3ª fem. sing. וַתָּסַר (wattāsar) + substantivo צָעִיף (ṣā‘îf, \"véu, manto\") com sufixo 3ª fem. sing. -ָהּ (\"dela\").",
+        "exegese": "Exegese: O ato inverso ao de 38:14 fecha o arco do disfarce: o véu usado como instrumento de estratégia é retirado assim que sua função termina. A identidade real de Tamar volta à tona, ao menos para ela e para o leitor.",
+        "teologia": "Teologia: O retirar do véu simboliza um retorno à verdade, antecipando o momento em que toda a verdade, inclusive sobre Judá, será desvelada. A teologia reformada enfatiza que Deus não permite que máscaras permaneçam para sempre; no tempo certo, a realidade vem à luz."
+      },
+      {
+        "hebraico": "מֵעָלֶיהָ",
+        "transliteracao": "mē‘āleyhā - \"de sobre si\"",
+        "morfossintaxe": "Morfossintaxe: Preposição מִן (min, \"de\") em forma alongada מֵ (mē) + preposição עַל (‘al, \"sobre\") com sufixo 3ª fem. sing. -ֶיהָ (\"ela\"), formando a locução \"de sobre ela\".",
+        "exegese": "Exegese: A repetição da expressão já usada em 38:14 reforça a estrutura literária: o véu não pertencia à identidade de Tamar, era provisório, \"sobre\" ela por um momento específico.",
+        "teologia": "Teologia: Em chave teológica, isso ressalta que Tamar não é ontologicamente definida pelo papel que assumiu naquele dia. Deus, em sua graça, pode usar um ato pontual, ainda que ambíguo, sem confundir a totalidade da pessoa com aquele gesto."
+      },
+      {
+        "hebraico": "וַתִּלְבַּשׁ",
+        "transliteracao": "wattilbaš - \"e vestiu-se\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo לָבַשׁ (lāvaš, \"vestir\") em Qal, imperfeito narrativo 3ª fem. sing. וַתִּלְבַּשׁ (wattilbaš).",
+        "exegese": "Exegese: O foco volta-se às vestes, que em Gênesis frequentemente sinalizam papéis sociais e identidades (cf. José, Esaú). O ato de vestir-se indica reconstrução da identidade legítima de Tamar.",
+        "teologia": "Teologia: A teologia reformada reconhece a importância simbólica das roupas na Escritura, frequentemente associadas a justiça ou vergonha. Aqui, Tamar troca a aparência momentânea de vergonha por um retorno às vestes que correspondem ao seu estado real de nora-viúva dentro da aliança."
+      },
+      {
+        "hebraico": "בִּגְדֵי אַלְמְנוּתָהּ",
+        "transliteracao": "bigdê ’almənûtāh - \"as vestes da sua viuvez\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo בֶּגֶד (beged, \"veste\") no plural construto בִּגְדֵי (bigdê, \"vestes de\") + substantivo אַלְמְנוּת (’almənût, \"viuvez\") com sufixo 3ª fem. sing. -ָהּ (\"dela\"), formando אַלְמְנוּתָהּ (’almənûtāh, \"sua viuvez\").",
+        "exegese": "Exegese: Tamar volta à sua condição social de viúva, mas agora grávida do próprio patriarca. A justaposição de \"vestes de viuvez\" com a gravidez que em breve aparecerá cria tensão dramática: sua condição exterior não revelará de imediato a verdade interior.",
+        "teologia": "Teologia: As vestes de viuvez se tornarão paradoxais: ela é viúva de Er, mas grávida de Judá. Em perspectiva reformada, isso ilustra como Deus, na história, frequentemente opera em paradoxos para manifestar tanto juízo contra o pecado quanto graça abundante sobre a miséria humana."
+      }
+    ]
+  }
+]
