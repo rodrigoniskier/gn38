@@ -512,5 +512,59 @@
         "teologia": "Teologia: As vestes de viuvez se tornarão paradoxais: ela é viúva de Er, mas grávida de Judá. Em perspectiva reformada, isso ilustra como Deus, na história, frequentemente opera em paradoxos para manifestar tanto juízo contra o pecado quanto graça abundante sobre a miséria humana."
       }
     ]
+  },
+  {
+    "numero": 20,
+    "palavras": [
+      {
+        "hebraico": "וַיִּשְׁלַח",
+        "transliteracao": "wayyišlaḥ - \"E enviou\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw consecutiva + verbo שָׁלַח (šālaḥ, \"enviar\") em Qal, imperfeito narrativo 3ª masc. sing.",
+        "exegese": "Exegese: Judá toma a iniciativa para cumprir a sua promessa e pagar pelo serviço. O envio do cabrito não é um ato de integridade, mas uma tentativa de encerrar a transação e recuperar os seus pertences comprometedores.",
+        "teologia": "Teologia: A pressa em pagar reflete o desejo de encobrir o pecado. Na tradição reformada, vemos aqui a futilidade do homem tentando gerir as consequências da sua própria transgressão; a providência divina, porém, já está no controlo para frustrar este encobrimento."
+      },
+      {
+        "hebraico": "יְהוּדָה",
+        "transliteracao": "Yəhûdāh - \"Judá\"",
+        "morfossintaxe": "Morfossintaxe: Substantivo próprio masculino, funcionando como sujeito do verbo \"enviou\".",
+        "exegese": "Exegese: O patriarca continua a agir com confiança, acreditando ter o controlo da situação.",
+        "teologia": "Teologia: A ironia é que Judá, o líder pactual, confia numa transação pecaminosa e no seu amigo cananeu, alheio ao facto de que Deus orquestra a sua iminente exposição para trazê-lo ao arrependimento."
+      },
+      {
+        "hebraico": "אֶת־גְּדִי הָעִזִּים",
+        "transliteracao": "’et-gədî hā‘izzîm - \"o cabrito do rebanho\"",
+        "morfossintaxe": "Morfossintaxe: Partícula indicadora de objeto direto אֶת (’et) + substantivo construto גְּדִי (gədî, \"cabrito de\") + substantivo definido plural הָעִזִּים (hā‘izzîm, \"as cabras\").",
+        "exegese": "Exegese: O pagamento exato que foi acordado. Judá é fiel a um contrato ilícito, enquanto foi infiel ao contrato familiar e pactual do levirato com Tamar.",
+        "teologia": "Teologia: Cumprir regras no meio do pecado é uma forma de autoengano moral. Judá age corretamente dentro de uma moldura errada, mostrando como a bússola moral se inverte quando afastada de Yahweh."
+      },
+      {
+        "hebraico": "בְּיַד רֵעֵהוּ הָעֲדֻלָּמִי",
+        "transliteracao": "bəyad rē‘ēhû hā‘ădullāmî - \"pela mão de seu amigo, o adulamita\"",
+        "morfossintaxe": "Morfossintaxe: Preposição בְּ (bə, \"em, por\") + substantivo construto יַד (yad, \"mão\") + substantivo רֵעַ (rēa‘, \"amigo\") com sufixo 3ª masc. sing. -ֵהוּ (ēhû, \"seu\") + adjetivo gentílico הָעֲדֻלָּמִי (hā‘ădullāmî, \"o adulamita\").",
+        "exegese": "Exegese: Para evitar a vergonha pública de ser visto a pagar a uma prostituta cultual, Judá usa um intermediário. Hirá, a má companhia referida no início do capítulo, serve de canal para o seu pecado.",
+        "teologia": "Teologia: O pecado frequentemente procura cúmplices para se manter oculto. A teologia reformada adverte sobre o jugo desigual e as amizades que facilitam e encobrem a desobediência ao pacto."
+      },
+      {
+        "hebraico": "לָקַחַת הָעֵרָבוֹן",
+        "transliteracao": "lāqaḥat hā‘ērāvon - \"para tomar/recuperar o penhor\"",
+        "morfossintaxe": "Morfossintaxe: Preposição לְ (lə, \"para\") + verbo לָקַח (lāqaḥ, \"tomar\") em Qal, infinitivo construto + artigo definido הָ (hā) + substantivo עֵרָבוֹן (‘ērāvon, \"penhor\").",
+        "exegese": "Exegese: O verdadeiro objetivo do envio não é apenas pagar, mas proteger a identidade. Os itens deixados (selo, cordão, cajado) são valiosos demais, tanto social como financeiramente, para ficarem nas mãos de uma desconhecida.",
+        "teologia": "Teologia: O esforço para recuperar o penhor demonstra a ansiedade de quem teme ser descoberto. Deus, contudo, já decretou que estes objetos cumprirão um propósito judicial, não regressando a Judá em segredo."
+      },
+      {
+        "hebraico": "מִיַּד הָאִשָּׁה",
+        "transliteracao": "miyyad hā’iššāh - \"da mão da mulher\"",
+        "morfossintaxe": "Morfossintaxe: Preposição מִן (min, \"de\") assimilada no mem (מִיַּד, miyyad) + substantivo construto יַד (yad, \"mão\") + artigo הָ (hā) + substantivo אִשָּׁה (’iššāh, \"mulher\").",
+        "exegese": "Exegese: A menção da \"mão da mulher\" contrasta diretamente com a \"mão de seu amigo\" e o que estava \"na mão de Judá\". A mulher, embora anônima para Hirá e Judá, agora detém o poder da situação nas suas mãos.",
+        "teologia": "Teologia: O poder inverteu-se. Aquele que oprimia vê as garantias da sua honra nas mãos da oprimida. É a soberania de Deus a agir nas entrelinhas da história humana."
+      },
+      {
+        "hebraico": "וְלֹא מְצָאָהּ",
+        "transliteracao": "wəlō’ məṣā’āh - \"mas não a encontrou\"",
+        "morfossintaxe": "Morfossintaxe: Conjunção waw + partícula negativa לֹא (lō’, \"não\") + verbo מָצָא (māṣā’, \"encontrar\") em Qal, perfeito 3ª masc. sing. com sufixo objeto 3ª fem. sing. -ָהּ (āh, \"a ela\").",
+        "exegese": "Exegese: A conclusão do versículo quebra a expectativa de Judá. O plano perfeito de encobrimento falha porque Tamar já não está lá; ela cumpriu a sua missão e desapareceu, deixando Judá vulnerável.",
+        "teologia": "Teologia: A ausência de Tamar é a presença invisível da disciplina de Deus. Na teologia reformada, este \"não a encontrou\" significa que o plano do ímpio foi frustrado; Judá não consegue apagar o rasto do seu pecado, que agora repousa como uma bomba-relógio à espera do tempo determinado por Deus para explodir e trazer graça."
+      }
+    ]
   }
 ]
