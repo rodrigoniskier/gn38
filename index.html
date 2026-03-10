@@ -33,15 +33,19 @@
             color: var(--branco);
             text-align: center;
             padding: 1.5rem;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            /* box-shadow removido daqui para colocar na barra fixa */
         }
 
-        /* Barra de Controlo para a Tradução */
+        /* 1. BARRA DE CONTROLO FIXA */
         .controls {
             background-color: var(--azul-claro);
             padding: 15px;
             text-align: center;
             border-bottom: 2px solid var(--azul-principal);
+            position: sticky; /* Mantém a barra colada no ecrã */
+            top: 0; /* Cola exatamente no topo */
+            z-index: 100; /* Garante que fica por cima do texto que rola */
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
 
         .controls label {
@@ -60,12 +64,63 @@
             cursor: pointer;
         }
 
+        /* 2. ESTRUTURA PARA MENU LATERAL E TEXTO CENTRAL */
+        .layout-wrapper {
+            display: flex;
+            flex: 1;
+            max-width: 1200px;
+            margin: 0 auto;
+            width: 100%;
+            align-items: flex-start; /* Necessário para a sidebar esquerda 'sticky' funcionar */
+        }
+
+        /* MENU LATERAL ESQUERDO */
+        .left-sidebar {
+            width: 200px;
+            padding: 1.5rem 1rem;
+            position: sticky; /* Fica colado quando rolamos a página */
+            top: 70px; /* Fica abaixo da barra de traduções fixa */
+            max-height: calc(100vh - 70px);
+            overflow-y: auto; /* Adiciona barra de rolagem se houver muitos versículos */
+            border-right: 2px solid var(--azul-claro);
+            background-color: var(--fundo-pagina);
+            box-sizing: border-box;
+        }
+
+        .left-sidebar h3 {
+            color: var(--azul-escuro);
+            text-align: center;
+            margin-top: 0;
+            margin-bottom: 15px;
+            font-size: 1.1rem;
+            border-bottom: 1px solid var(--azul-claro);
+            padding-bottom: 10px;
+        }
+
+        .verse-link {
+            display: block;
+            padding: 10px;
+            margin-bottom: 8px;
+            background-color: var(--branco);
+            color: var(--azul-principal);
+            text-decoration: none;
+            font-weight: bold;
+            text-align: center;
+            border-radius: 5px;
+            border: 1px solid var(--azul-claro);
+            transition: all 0.3s ease;
+        }
+
+        .verse-link:hover {
+            background-color: var(--azul-principal);
+            color: var(--branco);
+            transform: translateX(3px); /* Pequeno efeito de movimento ao passar o rato */
+        }
+
         /* Área Central do Texto */
         main {
             flex: 1;
             padding: 2rem;
-            max-width: 900px;
-            margin: 0 auto;
             text-align: center;
         }
 
@@ -76,6 +131,8 @@
             border-radius: 8px;
             box-shadow: 0 4px 6px rgba(0,0,0,0.05);
             border-left: 5px solid var(--azul-principal);
+            /* 3. AJUSTE DE ROLAGEM */
+            scroll-margin-top: 90px; /* Impede que o verso fique escondido debaixo da barra de traduções fixa */
         }
 
         .verse-number {
@@ -124,7 +181,6 @@
             font-style: italic;
         }
 
-        /* Espaço onde a tradução vai aparecer */
         .translation-text {
             margin-top: 20px;
             padding: 15px;
@@ -133,10 +189,10 @@
             text-align: justify;
             font-size: 1.1rem;
             line-height: 1.5;
-            display: none; /* Escondido por padrão, aparece apenas se tiver texto */
+            display: none; 
         }
 
-        /* Menu Lateral (Sidebar) */
+        /* Menu Lateral Direito (Sidebar Palavras) */
         #sidebar {
             position: fixed;
             top: 0;
@@ -259,9 +315,17 @@
         </select>
     </div>
 
-    <main id="text-container">
-        <p>A carregar os dados...</p>
-    </main>
+    <div class="layout-wrapper">
+        
+        <nav class="left-sidebar" id="verse-nav">
+            <h3>Versículos</h3>
+            </nav>
+
+        <main id="text-container">
+            <p>A carregar os dados...</p>
+        </main>
+
+    </div>
 
     <aside id="sidebar">
         <div class="sidebar-header">
@@ -286,56 +350,47 @@
 
     <script>
         let palavraAtualSelecionada = null;
-        
-        // Memória para guardar as traduções carregadas
         let dadosDasTraducoes = {};
 
-        // Função principal que inicia o aplicativo
         async function carregarDados() {
             try {
-                let todosOsVersiculos = []; // Lista mestre para guardar todos os versículos
+                let todosOsVersiculos = []; 
 
-                // 1. Tentar carregar a Parte 1 (Versos 1-10)
                 const responseParte1 = await fetch('genesis38_1_10.json');
                 if (responseParte1.ok) {
                     const dadosParte1 = await responseParte1.json();
-                    todosOsVersiculos = todosOsVersiculos.concat(dadosParte1); // Junta à lista mestre
+                    todosOsVersiculos = todosOsVersiculos.concat(dadosParte1); 
                 } else {
                     console.warn("Ficheiro genesis38_1_10.json não encontrado.");
                 }
 
-                // 2. Tentar carregar a Parte 2 (Versos 11-20)
                 const responseParte2 = await fetch('genesis38_11_20.json');
                 if (responseParte2.ok) {
                     const dadosParte2 = await responseParte2.json();
-                    todosOsVersiculos = todosOsVersiculos.concat(dadosParte2); // Junta à lista mestre
+                    todosOsVersiculos = todosOsVersiculos.concat(dadosParte2); 
                 } else {
                     console.warn("Ficheiro genesis38_11_20.json não encontrado.");
                 }
 
-                // 3. Tentar carregar a Parte 3 (Versos 21-30) - Preparado para o futuro!
                 const responseParte3 = await fetch('genesis38_21_30.json');
                 if (responseParte3.ok) {
                     const dadosParte3 = await responseParte3.json();
-                    todosOsVersiculos = todosOsVersiculos.concat(dadosParte3); // Junta à lista mestre
+                    todosOsVersiculos = todosOsVersiculos.concat(dadosParte3); 
                 } else {
-                    console.info("Ficheiro genesis38_21_30.json ainda não está disponível (normal).");
+                    console.info("Ficheiro genesis38_21_30.json ainda não está disponível.");
                 }
 
-                // Se a lista continuar vazia, significa que não carregou nenhum ficheiro
                 if (todosOsVersiculos.length === 0) {
                     throw new Error("Não foi possível carregar nenhum ficheiro de versículos.");
                 }
 
-                // 4. Carregar as Traduções
                 const responseTraducoes = await fetch('genesis38_traducoes.json');
                 if (responseTraducoes.ok) {
                     dadosDasTraducoes = await responseTraducoes.json();
                 } else {
-                    console.warn("Ficheiro genesis38_traducoes.json não encontrado. Traduções não estarão disponíveis.");
+                    console.warn("Ficheiro genesis38_traducoes.json não encontrado.");
                 }
 
-                // 5. Desenhar a interface com todos os versículos reunidos
                 renderizarVersiculos(todosOsVersiculos);
 
             } catch (error) {
@@ -347,16 +402,27 @@
             }
         }
 
-        // Função para desenhar o texto na tela
         function renderizarVersiculos(versiculos) {
             const container = document.getElementById('text-container');
+            const menuLateral = document.getElementById('verse-nav');
+            
             container.innerHTML = ''; 
+            
+            // Mantém apenas o título do menu lateral, limpando mensagens de "A carregar" se houver
+            menuLateral.innerHTML = '<h3>Ir para</h3>';
 
             versiculos.forEach(verso => {
+                // 4. CRIAÇÃO DINÂMICA DO MENU LATERAL
+                const linkVerso = document.createElement('a');
+                linkVerso.href = `#caixa-verso-${verso.numero}`; // Diz ao link para onde saltar na página
+                linkVerso.className = 'verse-link';
+                linkVerso.textContent = `Versículo ${verso.numero}`;
+                menuLateral.appendChild(linkVerso);
+
+                // Geração da área principal do versículo
                 const divVerso = document.createElement('div');
                 divVerso.className = 'verse-container';
-                // Adicionamos um identificador (ID) à caixa para saber que versículo é
-                divVerso.id = `caixa-verso-${verso.numero}`;
+                divVerso.id = `caixa-verso-${verso.numero}`; // Este é o "alvo" do link acima
 
                 const numVerso = document.createElement('span');
                 numVerso.className = 'verse-number';
@@ -386,7 +452,6 @@
 
                 divVerso.appendChild(divPalavras);
 
-                // A "Gaveta" da Tradução!
                 const pTraducao = document.createElement('p');
                 pTraducao.id = `traducao-verso-${verso.numero}`;
                 pTraducao.className = 'translation-text';
@@ -396,24 +461,18 @@
             });
         }
 
-        // Função que preenche as traduções de forma inteligente
         function mudarTraducao(versaoEscolhida) {
-            // Pegamos em todas as caixas de versículos que existem no ecrã
             const caixas = document.querySelectorAll('.verse-container');
 
             caixas.forEach(caixa => {
-                // O ID da caixa é "caixa-verso-X". Vamos extrair o "X" (o número do versículo)
                 const numeroVerso = caixa.id.split('-')[2]; 
                 let gaveta = document.getElementById(`traducao-verso-${numeroVerso}`);
                 
                 if (gaveta) {
-                    // Se escolheu uma versão válida e essa versão tem o versículo específico...
                     if (versaoEscolhida && dadosDasTraducoes[versaoEscolhida] && dadosDasTraducoes[versaoEscolhida][numeroVerso]) {
-                        // Coloca o texto lá e torna visível
                         gaveta.innerText = dadosDasTraducoes[versaoEscolhida][numeroVerso];
                         gaveta.style.display = 'block';
                     } else {
-                        // Se escolheu "Ocultar", deu algum erro ou a tradução não existe, limpa e esconde
                         gaveta.innerText = '';
                         gaveta.style.display = 'none';
                     }
@@ -421,7 +480,6 @@
             });
         }
 
-        // Funções da Sidebar e Modal
         function abrirSidebar(dadosDaPalavra) {
             palavraAtualSelecionada = dadosDaPalavra; 
             document.getElementById('sidebar-word-title').textContent = dadosDaPalavra.hebraico;
@@ -460,7 +518,6 @@
             return "<p>" + texto.replace(/\n/g, "<br>") + "</p>";
         }
 
-        // Inicia o programa
         window.onload = carregarDados;
     </script>
 </body>
